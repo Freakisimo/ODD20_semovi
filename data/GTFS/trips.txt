@@ -1,0 +1,1796 @@
+route_id,service_id,trip_short_name,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,trip_id
+CMX200L16,21L1009,,Pantitlán - Observatorio,,,SH200L11,0,2100L1112
+CMX200L28,21L1009,,Tasqueña - Cuatro Caminos,,,SH200L21,0,2100L2114
+CMX200L28,21L1009,,Cuatro Caminos - Tasqueña,,,SH200L22,0,2100L2215
+CMX200L30,21L1009,,Universidad - Indios Verdes,,,SH200L31,0,2100L3116
+CMX200L30,21L1009,,Indios Verdes - Universidad,,,SH200L32,0,2100L3217
+CMX200L42,21L1009,,Santa Anita - Martín Carrera,,,SH200L41,0,2100L4118
+CMX200L42,21L1009,,Martín Carrera - Santa Anita,,,SH200L42,0,2100L4219
+CMX200L55,21L1009,,Politécnico - Pantitlán,,,SH200L51,0,2100L5112
+CMX200L67,21L1009,,El Rosario - Martín Carrera,,,SH200L61,0,2100L6113
+CMX200L16,21L1009,,Pantitlán - Observatorio,,,SH200L11,0,2100L1124
+CMX200L16,21L1009,,Pantitlán - Observatorio,,,SH200L11,0,2100L1136
+CMX200L16,22L1001,,Pantitlán - Observatorio,,,SH200L11,0,2200L1114
+CMX200L16,23L1003,,Pantitlán - Observatorio,,,SH200L11,0,2300L1116
+CMX200L28,21L1009,,Tasqueña - Cuatro Caminos,,,SH200L21,0,2100L2126
+CMX200L28,21L1009,,Tasqueña - Cuatro Caminos,,,SH200L21,0,2100L2138
+CMX200L28,22L1001,,Tasqueña - Cuatro Caminos,,,SH200L21,0,2200L2116
+CMX200L28,23L1003,,Tasqueña - Cuatro Caminos,,,SH200L21,0,2300L2118
+CMX200L28,21L1009,,Cuatro Caminos - Tasqueña,,,SH200L22,0,2100L2227
+CMX200L28,21L1009,,Cuatro Caminos - Tasqueña,,,SH200L22,0,2100L2239
+CMX200L28,22L1001,,Cuatro Caminos - Tasqueña,,,SH200L22,0,2200L2217
+CMX200L28,23L1003,,Cuatro Caminos - Tasqueña,,,SH200L22,0,2300L2219
+CMX200L30,21L1009,,Universidad - Indios Verdes,,,SH200L31,0,2100L3128
+CMX200L30,21L1009,,Universidad - Indios Verdes,,,SH200L31,0,2100L3130
+CMX200L30,22L1001,,Universidad - Indios Verdes,,,SH200L31,0,2200L3118
+CMX200L30,23L1003,,Universidad - Indios Verdes,,,SH200L31,0,2300L3110
+CMX200L30,21L1009,,Indios Verdes - Universidad,,,SH200L32,0,2100L3229
+CMX200L30,21L1009,,Indios Verdes - Universidad,,,SH200L32,0,2100L3231
+CMX200L30,22L1001,,Indios Verdes - Universidad,,,SH200L32,0,2200L3219
+CMX200L30,23L1003,,Indios Verdes - Universidad,,,SH200L32,0,2300L3211
+CMX200L42,22L1001,,Santa Anita - Martín Carrera,,,SH200L41,0,2200L4110
+CMX200L42,23L1003,,Santa Anita - Martín Carrera,,,SH200L41,0,2300L4112
+CMX200L42,22L1001,,Martín Carrera - Santa Anita,,,SH200L42,0,2200L4211
+CMX200L42,23L1003,,Martín Carrera - Santa Anita,,,SH200L42,0,2300L4213
+CMX200L55,21L1009,,Politécnico - Pantitlán,,,SH200L51,0,2100L5124
+CMX200L55,21L1009,,Politécnico - Pantitlán,,,SH200L51,0,2100L5136
+CMX200L55,22L1001,,Politécnico - Pantitlán,,,SH200L51,0,2200L5114
+CMX200L55,23L1003,,Politécnico - Pantitlán,,,SH200L51,0,2300L5116
+CMX200L55,21L1009,,Pantitlán - Politécnico,,,SH200L52,0,2100L5213
+CMX200L55,21L1009,,Pantitlán - Politécnico,,,SH200L52,0,2100L5225
+CMX200L55,21L1009,,Pantitlán - Politécnico,,,SH200L52,0,2100L5237
+CMX200L55,22L1001,,Pantitlán - Politécnico,,,SH200L52,0,2200L5215
+CMX200L55,23L1003,,Pantitlán - Politécnico,,,SH200L52,0,2300L5217
+CMX200L67,21L1009,,El Rosario - Martín Carrera,,,SH200L61,0,2100L6125
+CMX200L67,22L1001,,El Rosario - Martín Carrera,,,SH200L61,0,2200L6115
+CMX200L67,21L1009,,El Rosario - Martín Carrera,,,SH200L61,0,2100L6137
+CMX200L67,23L1003,,El Rosario - Martín Carrera,,,SH200L61,0,2300L6117
+CMX200L67,21L1009,,Martín Carrera - El Rosario,,,SH200L62,0,2100L6214
+CMX200L67,21L1009,,Martín Carrera - El Rosario,,,SH200L62,0,2100L6226
+CMX200L67,21L1009,,Martín Carrera - El Rosario,,,SH200L62,0,2100L6238
+CMX200L67,22L1001,,Martín Carrera - El Rosario,,,SH200L62,0,2200L6216
+CMX200L67,23L1003,,Martín Carrera - El Rosario,,,SH200L62,0,2300L6218
+CMX200L79,21L1009,,El Rosario - Barranca del Muerto,,,SH200L71,0,2100L7115
+CMX200L79,21L1009,,El Rosario - Barranca del Muerto,,,SH200L71,0,2100L7127
+CMX200L79,21L1009,,El Rosario - Barranca del Muerto,,,SH200L71,0,2100L7139
+CMX200L79,22L1001,,El Rosario - Barranca del Muerto,,,SH200L71,0,2200L7117
+CMX200L79,23L1003,,El Rosario - Barranca del Muerto,,,SH200L71,0,2300L7119
+CMX200L79,21L1009,,Barranca del Muerto - El Rosario,,,SH200L72,0,2100L7216
+CMX200L79,21L1009,,Barranca del Muerto - El Rosario,,,SH200L72,0,2100L7228
+CMX200L79,21L1009,,Barranca del Muerto - El Rosario,,,SH200L72,0,2100L7230
+CMX200L79,22L1001,,Barranca del Muerto - El Rosario,,,SH200L72,0,2200L7218
+CMX200L79,23L1003,,Barranca del Muerto - El Rosario,,,SH200L72,0,2300L7210
+CMX200L81,21L1009,,Constitución de 1917 - Garibaldi,,,SH200L81,0,2100L8117
+CMX200L81,21L1009,,Constitución de 1917 - Garibaldi,,,SH200L81,0,2100L8129
+CMX200L81,21L1009,,Constitución de 1917 - Garibaldi,,,SH200L81,0,2100L8131
+CMX200L81,22L1001,,Constitución de 1917 - Garibaldi,,,SH200L81,0,2200L8119
+CMX200L81,23L1003,,Constitución de 1917 - Garibaldi,,,SH200L81,0,2300L8111
+CMX200L93,21L1009,,Pantitlán - Tacubaya,,,SH200L91,0,2100L9119
+CMX200L93,21L1009,,Pantitlán - Tacubaya,,,SH200L91,0,2100L9121
+CMX200L93,21L1009,,Pantitlán - Tacubaya,,,SH200L91,0,2100L9133
+CMX200L93,22L1001,,Pantitlán - Tacubaya,,,SH200L91,0,2200L9111
+CMX200L93,23L1003,,Pantitlán - Tacubaya,,,SH200L91,0,2300L9113
+CMX200L93,21L1009,,Tacubaya - Pantitlán,,,SH200L92,0,2100L9210
+CMX200L93,21L1009,,Tacubaya - Pantitlán,,,SH200L92,0,2100L9222
+CMX200L93,21L1009,,Tacubaya - Pantitlán,,,SH200L92,0,2100L9234
+CMX200L93,22L1001,,Tacubaya - Pantitlán,,,SH200L92,0,2200L9212
+CMX200L93,23L1003,,Tacubaya - Pantitlán,,,SH200L92,0,2300L9214
+CMX200LA6,21L1009,,Pantitlán - La Paz,,,SH200LA1,0,2100LA112
+CMX200LA6,21L1009,,Pantitlán - La Paz,,,SH200LA1,0,2100LA124
+CMX200LA6,21L1009,,Pantitlán - La Paz,,,SH200LA1,0,2100LA136
+CMX200LA6,22L1001,,Pantitlán - La Paz,,,SH200LA1,0,2200LA114
+CMX200LA6,23L1003,,Pantitlán - La Paz,,,SH200LA1,0,2300LA116
+CMX200LA6,21L1009,,La Paz - Pantitlán,,,SH200LA2,0,2100LA213
+CMX200LA6,21L1009,,La Paz - Pantitlán,,,SH200LA2,0,2100LA225
+CMX200LA6,21L1009,,La Paz - Pantitlán,,,SH200LA2,0,2100LA237
+CMX200LA6,22L1001,,La Paz - Pantitlán,,,SH200LA2,0,2200LA215
+CMX200LA6,23L1003,,La Paz - Pantitlán,,,SH200LA2,0,2300LA217
+CMX200LB8,21L1009,,Ciudad Azteca - Buenavista,,,SH200LB1,0,2100LB114
+CMX200LB8,21L1009,,Ciudad Azteca - Buenavista,,,SH200LB1,0,2100LB126
+CMX200LB8,21L1009,,Ciudad Azteca - Buenavista,,,SH200LB1,0,2100LB138
+CMX200LB8,22L1001,,Ciudad Azteca - Buenavista,,,SH200LB1,0,2200LB116
+CMX200LB8,23L1003,,Ciudad Azteca - Buenavista,,,SH200LB1,0,2300LB118
+CMX200LB8,21L1009,,Buenavista - Ciudad Azteca,,,SH200LB2,0,2100LB215
+CMX200LB8,21L1009,,Buenavista - Ciudad Azteca,,,SH200LB2,0,2100LB227
+CMX200LB8,21L1009,,Buenavista - Ciudad Azteca,,,SH200LB2,0,2100LB239
+CMX200LB8,22L1001,,Buenavista - Ciudad Azteca,,,SH200LB2,0,2200LB217
+CMX200LB8,23L1003,,Buenavista - Ciudad Azteca,,,SH200LB2,0,2300LB219
+CMX5039A5,51RTP19,,Metro San Lázaro - Bosque de Nativitas por Cafetales,,,SH5039A1,0,51039A117
+CMX5039A5,51RTP19,,Metro San Lázaro - Bosque de Nativitas por Cafetales,,,SH5039A1,0,51039A129
+CMX5039A5,52RTP11,,Metro San Lázaro - Bosque de Nativitas por Cafetales,,,SH5039A1,0,52039A119
+CMX5039A5,52RTP11,,Metro San Lázaro - Bosque de Nativitas por Cafetales,,,SH5039A1,0,52039A121
+CMX5039A5,53RTP13,,Metro San Lázaro - Bosque de Nativitas por Cafetales,,,SH5039A1,0,53039A111
+CMX5039A5,53RTP13,,Metro San Lázaro - Bosque de Nativitas por Cafetales,,,SH5039A1,0,53039A123
+CMX5039A5,51RTP19,,Bosque de Nativitas - Metro San Lázaro por Cafetales,,,SH5039A2,0,51039A218
+CMX5039A5,51RTP19,,Bosque de Nativitas - Metro San Lázaro por Cafetales,,,SH5039A2,0,51039A220
+CMX5039A5,52RTP11,,Bosque de Nativitas - Metro San Lázaro por Cafetales,,,SH5039A2,0,52039A210
+CMX5039A5,52RTP11,,Bosque de Nativitas - Metro San Lázaro por Cafetales,,,SH5039A2,0,52039A222
+CMX5039A5,53RTP13,,Bosque de Nativitas - Metro San Lázaro por Cafetales,,,SH5039A2,0,53039A212
+CMX5039A5,53RTP13,,Bosque de Nativitas - Metro San Lázaro por Cafetales,,,SH5039A2,0,53039A224
+CMX5039B7,51RTP19,,Metro San Lázaro - Bosque de Nativitas por Miramontes,,,SH5039B1,0,51039B119
+CMX5039B7,51RTP19,,Metro San Lázaro - Bosque de Nativitas por Miramontes,,,SH5039B1,0,51039B121
+CMX5039B7,52RTP11,,Metro San Lázaro - Bosque de Nativitas por Miramontes,,,SH5039B1,0,52039B111
+CMX5039B7,52RTP11,,Metro San Lázaro - Bosque de Nativitas por Miramontes,,,SH5039B1,0,52039B123
+CMX5039B7,53RTP13,,Metro San Lázaro - Bosque de Nativitas por Miramontes,,,SH5039B1,0,53039B113
+CMX5039B7,53RTP13,,Metro San Lázaro - Bosque de Nativitas por Miramontes,,,SH5039B1,0,53039B125
+CMX501416,51RTP19,,Villa Milpa Alta - Metro Tasqueña,,,SH501411,0,510141118
+CMX501416,51RTP19,,Villa Milpa Alta - Metro Tasqueña,,,SH501411,0,510141120
+CMX501416,52RTP11,,Villa Milpa Alta - Metro Tasqueña,,,SH501411,0,520141110
+CMX501416,52RTP11,,Villa Milpa Alta - Metro Tasqueña,,,SH501411,0,520141122
+CMX501416,53RTP13,,Villa Milpa Alta - Metro Tasqueña,,,SH501411,0,530141112
+CMX501416,53RTP13,,Villa Milpa Alta - Metro Tasqueña,,,SH501411,0,530141124
+CMX501416,51RTP19,,Metro Tasqueña - Villa Milpa Alta,,,SH501412,0,510141219
+CMX501416,51RTP19,,Metro Tasqueña - Villa Milpa Alta,,,SH501412,0,510141221
+CMX501416,52RTP11,,Metro Tasqueña - Villa Milpa Alta,,,SH501412,0,520141211
+CMX501416,52RTP11,,Metro Tasqueña - Villa Milpa Alta,,,SH501412,0,520141223
+CMX501416,53RTP13,,Metro Tasqueña - Villa Milpa Alta,,,SH501412,0,530141213
+CMX501416,53RTP13,,Metro Tasqueña - Villa Milpa Alta,,,SH501412,0,530141225
+CMX501428,51RTP19,,Xochimilco/Palmas - Tulyehualco,,,SH501421,0,510142110
+CMX501428,51RTP19,,Xochimilco/Palmas - Tulyehualco,,,SH501421,0,510142122
+CMX501428,52RTP11,,Xochimilco/Palmas - Tulyehualco,,,SH501421,0,520142112
+CMX501428,52RTP11,,Xochimilco/Palmas - Tulyehualco,,,SH501421,0,520142124
+CMX501428,53RTP13,,Xochimilco/Palmas - Tulyehualco,,,SH501421,0,530142114
+CMX501428,53RTP13,,Xochimilco/Palmas - Tulyehualco,,,SH501421,0,530142126
+CMX501428,51RTP19,,Tulyehualco - Xochimilco/Palmas,,,SH501422,0,510142211
+CMX501428,51RTP19,,Tulyehualco - Xochimilco/Palmas,,,SH501422,0,510142223
+CMX501428,52RTP11,,Tulyehualco - Xochimilco/Palmas,,,SH501422,0,520142213
+CMX501428,52RTP11,,Tulyehualco - Xochimilco/Palmas,,,SH501422,0,520142225
+CMX501428,53RTP13,,Tulyehualco - Xochimilco/Palmas,,,SH501422,0,530142215
+CMX501428,53RTP13,,Tulyehualco - Xochimilco/Palmas,,,SH501422,0,530142227
+CMX501430,51RTP19,,Villa Milpa Alta - Metro Tasqueña,,,SH501431,0,510143112
+CMX501430,51RTP19,,Villa Milpa Alta - Metro Tasqueña,,,SH501431,0,510143124
+CMX501430,52RTP11,,Villa Milpa Alta - Metro Tasqueña,,,SH501431,0,520143114
+CMX501430,52RTP11,,Villa Milpa Alta - Metro Tasqueña,,,SH501431,0,520143126
+CMX501430,53RTP13,,Villa Milpa Alta - Metro Tasqueña,,,SH501431,0,530143116
+CMX501430,53RTP13,,Villa Milpa Alta - Metro Tasqueña,,,SH501431,0,530143128
+CMX501430,51RTP19,,Metro Tasqueña - Villa Milpa Alta,,,SH501432,0,510143213
+CMX501430,51RTP19,,Metro Tasqueña - Villa Milpa Alta,,,SH501432,0,510143225
+CMX501430,52RTP11,,Metro Tasqueña - Villa Milpa Alta,,,SH501432,0,520143215
+CMX501430,52RTP11,,Metro Tasqueña - Villa Milpa Alta,,,SH501432,0,520143227
+CMX501430,53RTP13,,Metro Tasqueña - Villa Milpa Alta,,,SH501432,0,530143217
+CMX501430,53RTP13,,Metro Tasqueña - Villa Milpa Alta,,,SH501432,0,530143229
+CMX501441,51RTP19,,San Pablo Oztotepec - Xochimilco/Palmas,,,SH501441,0,510144114
+CMX501441,51RTP19,,San Pablo Oztotepec - Xochimilco/Palmas,,,SH501441,0,510144126
+CMX501441,52RTP11,,San Pablo Oztotepec - Xochimilco/Palmas,,,SH501441,0,520144116
+CMX501441,52RTP11,,San Pablo Oztotepec - Xochimilco/Palmas,,,SH501441,0,520144128
+CMX501441,53RTP13,,San Pablo Oztotepec - Xochimilco/Palmas,,,SH501441,0,530144118
+CMX501441,53RTP13,,San Pablo Oztotepec - Xochimilco/Palmas,,,SH501441,0,530144120
+CMX501441,51RTP19,,Xochimilco/Palmas - San Pablo Oztotepec,,,SH501442,0,510144215
+CMX501441,51RTP19,,Xochimilco/Palmas - San Pablo Oztotepec,,,SH501442,0,510144227
+CMX501441,52RTP11,,Xochimilco/Palmas - San Pablo Oztotepec,,,SH501442,0,520144217
+CMX501441,52RTP11,,Xochimilco/Palmas - San Pablo Oztotepec,,,SH501442,0,520144229
+CMX501441,53RTP13,,Xochimilco/Palmas - San Pablo Oztotepec,,,SH501442,0,530144219
+CMX501441,53RTP13,,Xochimilco/Palmas - San Pablo Oztotepec,,,SH501442,0,530144221
+CMX5144C7,51RTP19,,San Salvador Cuahutenco - Villa Milpa Alta,,,SH5144C1,0,51144C119
+CMX5144C7,51RTP19,,San Salvador Cuahutenco - Villa Milpa Alta,,,SH5144C1,0,51144C121
+CMX5144C7,52RTP11,,San Salvador Cuahutenco - Villa Milpa Alta,,,SH5144C1,0,52144C111
+CMX5144C7,52RTP11,,San Salvador Cuahutenco - Villa Milpa Alta,,,SH5144C1,0,52144C123
+CMX5144C7,53RTP13,,San Salvador Cuahutenco - Villa Milpa Alta,,,SH5144C1,0,53144C113
+CMX5144C7,53RTP13,,San Salvador Cuahutenco - Villa Milpa Alta,,,SH5144C1,0,53144C125
+CMX5144C7,51RTP19,,Villa Milpa Alta - San Salvador Cuahutenco,,,SH5144C2,0,51144C210
+CMX5144C7,51RTP19,,Villa Milpa Alta - San Salvador Cuahutenco,,,SH5144C2,0,51144C222
+CMX5144C7,52RTP11,,Villa Milpa Alta - San Salvador Cuahutenco,,,SH5144C2,0,52144C212
+CMX5144C7,52RTP11,,Villa Milpa Alta - San Salvador Cuahutenco,,,SH5144C2,0,52144C224
+CMX5144C7,53RTP13,,Villa Milpa Alta - San Salvador Cuahutenco,,,SH5144C2,0,53144C214
+CMX5144C7,53RTP13,,Villa Milpa Alta - San Salvador Cuahutenco,,,SH5144C2,0,53144C226
+CMX501455,51RTP19,,Xochimilco/Palmas - San Francisco Tlanepantla,,,SH501451,0,510145117
+CMX501455,51RTP19,,Xochimilco/Palmas - San Francisco Tlanepantla,,,SH501451,0,510145129
+CMX501455,52RTP11,,Xochimilco/Palmas - San Francisco Tlanepantla,,,SH501451,0,520145119
+CMX501455,52RTP11,,Xochimilco/Palmas - San Francisco Tlanepantla,,,SH501451,0,520145121
+CMX501455,53RTP13,,Xochimilco/Palmas - San Francisco Tlanepantla,,,SH501451,0,530145111
+CMX501455,53RTP13,,Xochimilco/Palmas - San Francisco Tlanepantla,,,SH501451,0,530145123
+CMX501455,51RTP19,,Pedregal de San Francisco Tlanepantla - Xochimilco/Palmas,,,SH501452,0,510145218
+CMX501455,51RTP19,,Pedregal de San Francisco Tlanepantla - Xochimilco/Palmas,,,SH501452,0,510145220
+CMX501455,52RTP11,,Pedregal de San Francisco Tlanepantla - Xochimilco/Palmas,,,SH501452,0,520145210
+CMX501455,52RTP11,,Pedregal de San Francisco Tlanepantla - Xochimilco/Palmas,,,SH501452,0,520145222
+CMX501455,53RTP13,,Pedregal de San Francisco Tlanepantla - Xochimilco/Palmas,,,SH501452,0,530145212
+CMX501455,53RTP13,,Pedregal de San Francisco Tlanepantla - Xochimilco/Palmas,,,SH501452,0,530145224
+CMX5145A4,51RTP19,,Republica del Salvador - Santiago Tepalcatlalpan,,,SH5145A1,0,51145A116
+CMX5145A4,51RTP19,,Republica del Salvador - Santiago Tepalcatlalpan,,,SH5145A1,0,51145A128
+CMX5145A4,52RTP11,,Republica del Salvador - Santiago Tepalcatlalpan,,,SH5145A1,0,52145A118
+CMX5145A4,52RTP11,,Republica del Salvador - Santiago Tepalcatlalpan,,,SH5145A1,0,52145A120
+CMX5145A4,53RTP13,,Republica del Salvador - Santiago Tepalcatlalpan,,,SH5145A1,0,53145A110
+CMX5145A4,53RTP13,,Republica del Salvador - Santiago Tepalcatlalpan,,,SH5145A1,0,53145A122
+CMX5145A4,51RTP19,,Santiago Tepalcatlalpan - Republica del Salvador,,,SH5145A2,0,51145A217
+CMX5145A4,51RTP19,,Santiago Tepalcatlalpan - Republica del Salvador,,,SH5145A2,0,51145A229
+CMX5145A4,52RTP11,,Santiago Tepalcatlalpan - Republica del Salvador,,,SH5145A2,0,52145A219
+CMX5145A4,52RTP11,,Santiago Tepalcatlalpan - Republica del Salvador,,,SH5145A2,0,52145A221
+CMX5145A4,53RTP13,,Santiago Tepalcatlalpan - Republica del Salvador,,,SH5145A2,0,53145A211
+CMX5145A4,53RTP13,,Santiago Tepalcatlalpan - Republica del Salvador,,,SH5145A2,0,53145A223
+CMX501467,51RTP19,,San Miguel Tehuizco - Xochimilco/Palmas,,,SH501462,0,510146119
+CMX501467,51RTP19,,San Miguel Tehuizco - Xochimilco/Palmas,,,SH501462,0,510146121
+CMX501467,52RTP11,,San Miguel Tehuizco - Xochimilco/Palmas,,,SH501462,0,520146111
+CMX501467,52RTP11,,San Miguel Tehuizco - Xochimilco/Palmas,,,SH501462,0,520146123
+CMX501467,53RTP13,,San Miguel Tehuizco - Xochimilco/Palmas,,,SH501462,0,530146113
+CMX501467,53RTP13,,San Miguel Tehuizco - Xochimilco/Palmas,,,SH501462,0,530146125
+CMX501467,51RTP19,,Xochimilco/Palmas - San Miguel Tehuizco,,,SH501461,0,510146210
+CMX501467,51RTP19,,Xochimilco/Palmas - San Miguel Tehuizco,,,SH501461,0,510146222
+CMX501467,52RTP11,,Xochimilco/Palmas - San Miguel Tehuizco,,,SH501461,0,520146212
+CMX501467,52RTP11,,Xochimilco/Palmas - San Miguel Tehuizco,,,SH501461,0,520146224
+CMX501467,53RTP13,,Xochimilco/Palmas - San Miguel Tehuizco,,,SH501461,0,530146214
+CMX501467,53RTP13,,Xochimilco/Palmas - San Miguel Tehuizco,,,SH501461,0,530146226
+CMX501479,51RTP19,,Xochimilco/Palmas - San Bartolomé Xicomulco,,,SH501471,0,510147111
+CMX501479,51RTP19,,Xochimilco/Palmas - San Bartolomé Xicomulco,,,SH501471,0,510147123
+CMX501479,52RTP11,,Xochimilco/Palmas - San Bartolomé Xicomulco,,,SH501471,0,520147113
+CMX501479,52RTP11,,Xochimilco/Palmas - San Bartolomé Xicomulco,,,SH501471,0,520147125
+CMX501479,53RTP13,,Xochimilco/Palmas - San Bartolomé Xicomulco,,,SH501471,0,530147115
+CMX501479,53RTP13,,Xochimilco/Palmas - San Bartolomé Xicomulco,,,SH501471,0,530147127
+CMX501479,51RTP19,,San Bartolomé Xicomulco - Xochimilco/Palmas,,,SH501472,0,510147212
+CMX501479,51RTP19,,San Bartolomé Xicomulco - Xochimilco/Palmas,,,SH501472,0,510147224
+CMX501479,52RTP11,,San Bartolomé Xicomulco - Xochimilco/Palmas,,,SH501472,0,520147214
+CMX501479,52RTP11,,San Bartolomé Xicomulco - Xochimilco/Palmas,,,SH501472,0,520147226
+CMX501479,53RTP13,,San Bartolomé Xicomulco - Xochimilco/Palmas,,,SH501472,0,530147216
+CMX501479,53RTP13,,San Bartolomé Xicomulco - Xochimilco/Palmas,,,SH501472,0,530147228
+CMX501481,51RTP19,,Metro Tasqueña - San Nicolás Tetelco,,,SH501481,0,510148113
+CMX501481,51RTP19,,Metro Tasqueña - San Nicolás Tetelco,,,SH501481,0,510148125
+CMX501481,52RTP11,,Metro Tasqueña - San Nicolás Tetelco,,,SH501481,0,520148115
+CMX501481,52RTP11,,Metro Tasqueña - San Nicolás Tetelco,,,SH501481,0,520148127
+CMX501481,53RTP13,,Metro Tasqueña - San Nicolás Tetelco,,,SH501481,0,530148117
+CMX501481,53RTP13,,Metro Tasqueña - San Nicolás Tetelco,,,SH501481,0,530148129
+CMX501481,51RTP19,,San Nicolás Tetelco - Metro Tasqueña,,,SH501482,0,510148214
+CMX501481,51RTP19,,San Nicolás Tetelco - Metro Tasqueña,,,SH501482,0,510148226
+CMX501481,52RTP11,,San Nicolás Tetelco - Metro Tasqueña,,,SH501482,0,520148216
+CMX501481,52RTP11,,San Nicolás Tetelco - Metro Tasqueña,,,SH501482,0,520148228
+CMX501481,53RTP13,,San Nicolás Tetelco - Metro Tasqueña,,,SH501482,0,530148218
+CMX501481,53RTP13,,San Nicolás Tetelco - Metro Tasqueña,,,SH501482,0,530148220
+CMX501493,51RTP19,,Metro Tasqueña - Mixquic,,,SH501491,0,510149115
+CMX501493,51RTP19,,Metro Tasqueña - Mixquic,,,SH501491,0,510149127
+CMX501493,52RTP11,,Metro Tasqueña - Mixquic,,,SH501491,0,520149117
+CMX501493,52RTP11,,Metro Tasqueña - Mixquic,,,SH501491,0,520149129
+CMX501493,53RTP13,,Metro Tasqueña - Mixquic,,,SH501491,0,530149119
+CMX501493,53RTP13,,Metro Tasqueña - Mixquic,,,SH501491,0,530149121
+CMX501493,51RTP19,,Mixquic - Metro Tasqueña,,,SH501492,0,510149216
+CMX501493,51RTP19,,Mixquic - Metro Tasqueña,,,SH501492,0,510149228
+CMX501493,52RTP11,,Mixquic - Metro Tasqueña,,,SH501492,0,520149218
+CMX501493,52RTP11,,Mixquic - Metro Tasqueña,,,SH501492,0,520149220
+CMX501493,53RTP13,,Mixquic - Metro Tasqueña,,,SH501492,0,530149210
+CMX501493,53RTP13,,Mixquic - Metro Tasqueña,,,SH501492,0,530149222
+CMX539AX4,51RTP19,,M. San Lázaro - Xochimilco / Bosque de Nativitas por Cafetales,,,SH539AX1,0,5139AX116
+CMX539AX4,51RTP19,,M. San Lázaro - Xochimilco / Bosque de Nativitas por Cafetales,,,SH539AX1,0,5139AX128
+CMX539AX4,52RTP11,,M. San Lázaro - Xochimilco / Bosque de Nativitas por Cafetales,,,SH539AX1,0,5239AX118
+CMX539AX4,52RTP11,,M. San Lázaro - Xochimilco / Bosque de Nativitas por Cafetales,,,SH539AX1,0,5239AX120
+CMX539AX4,53RTP13,,M. San Lázaro - Xochimilco / Bosque de Nativitas por Cafetales,,,SH539AX1,0,5339AX110
+CMX539AX4,53RTP13,,M. San Lázaro - Xochimilco / Bosque de Nativitas por Cafetales,,,SH539AX1,0,5339AX122
+CMX539AX4,51RTP19,,Bosque de Nativitas / Xochimilco - M. San Lázaro por Cafetales,,,SH539AX2,0,5139AX217
+CMX539AX4,51RTP19,,Bosque de Nativitas / Xochimilco - M. San Lázaro por Cafetales,,,SH539AX2,0,5139AX229
+CMX539AX4,52RTP11,,Bosque de Nativitas / Xochimilco - M. San Lázaro por Cafetales,,,SH539AX2,0,5239AX219
+CMX539AX4,52RTP11,,Bosque de Nativitas / Xochimilco - M. San Lázaro por Cafetales,,,SH539AX2,0,5239AX211
+CMX539AX4,53RTP13,,Bosque de Nativitas / Xochimilco - M. San Lázaro por Cafetales,,,SH539AX2,0,5339AX211
+CMX539AX4,53RTP13,,Bosque de Nativitas / Xochimilco - M. San Lázaro por Cafetales,,,SH539AX2,0,5339AX223
+CMX5046C8,51RTP19,,Central de Abasto - Lienzo Charro/Santa Catarina,,,SH5046C2,0,51046C110
+CMX5046C8,51RTP19,,Central de Abasto - Lienzo Charro/Santa Catarina,,,SH5046C2,0,51046C122
+CMX5046C8,52RTP11,,Central de Abasto - Lienzo Charro/Santa Catarina,,,SH5046C2,0,52046C112
+CMX5046C8,52RTP11,,Central de Abasto - Lienzo Charro/Santa Catarina,,,SH5046C2,0,52046C124
+CMX5046C8,53RTP13,,Central de Abasto - Lienzo Charro/Santa Catarina,,,SH5046C2,0,53046C114
+CMX5046C8,53RTP13,,Central de Abasto - Lienzo Charro/Santa Catarina,,,SH5046C2,0,53046C126
+CMX5046C8,51RTP19,,Lienzo Charro/Santa Catarina - Central de Abasto,,,SH5046C1,0,51046C211
+CMX5046C8,51RTP19,,Lienzo Charro/Santa Catarina - Central de Abasto,,,SH5046C1,0,51046C223
+CMX5046C8,52RTP11,,Lienzo Charro/Santa Catarina - Central de Abasto,,,SH5046C1,0,52046C213
+CMX5046C8,52RTP11,,Lienzo Charro/Santa Catarina - Central de Abasto,,,SH5046C1,0,52046C225
+CMX5046C8,53RTP13,,Lienzo Charro/Santa Catarina - Central de Abasto,,,SH5046C1,0,53046C215
+CMX5046C8,53RTP13,,Lienzo Charro/Santa Catarina - Central de Abasto,,,SH5046C1,0,53046C227
+CMX5047A5,51RTP19,,Alameda Oriente - Xochimilco/Bosque de Nativitas,,,SH5047A2,0,52047A119
+CMX5047A5,51RTP19,,Alameda Oriente - Xochimilco/Bosque de Nativitas,,,SH5047A2,0,52047A121
+CMX5047A5,52RTP11,,Alameda Oriente - Xochimilco/Bosque de Nativitas,,,SH5047A2,0,53047A111
+CMX5047A5,52RTP11,,Alameda Oriente - Xochimilco/Bosque de Nativitas,,,SH5047A2,0,53047A123
+CMX5047A5,53RTP13,,Alameda Oriente - Xochimilco/Bosque de Nativitas,,,SH5047A2,0,54047A113
+CMX5047A5,53RTP13,,Alameda Oriente - Xochimilco/Bosque de Nativitas,,,SH5047A2,0,54047A125
+CMX5047A5,51RTP19,,Xochimilco/Bosque de Nativitas - Alameda Oriente,,,SH5047A1,0,51047A218
+CMX5047A5,51RTP19,,Xochimilco/Bosque de Nativitas - Alameda Oriente,,,SH5047A1,0,51047A220
+CMX5047A5,52RTP11,,Xochimilco/Bosque de Nativitas - Alameda Oriente,,,SH5047A1,0,52047A210
+CMX5047A5,52RTP11,,Xochimilco/Bosque de Nativitas - Alameda Oriente,,,SH5047A1,0,52047A222
+CMX5047A5,53RTP13,,Xochimilco/Bosque de Nativitas - Alameda Oriente,,,SH5047A1,0,53047A212
+CMX5047A5,53RTP13,,Xochimilco/Bosque de Nativitas - Alameda Oriente,,,SH5047A1,0,53047A224
+CMX5052C7,51RTP19,,Metro Santa Martha - Metro Zapata,,,SH5052C1,0,51052C119
+CMX5052C7,51RTP19,,Metro Santa Martha - Metro Zapata,,,SH5052C1,0,51052C121
+CMX700016,71L1004,,Cuautitlán - Buenavista ,,,SH700L11,0,7100L1112
+CMX5052C7,52RTP11,,Metro Santa Martha - Metro Zapata,,,SH5052C1,0,52052C111
+CMX5052C7,52RTP11,,Metro Santa Martha - Metro Zapata,,,SH5052C1,0,52052C123
+CMX5052C7,53RTP13,,Metro Santa Martha - Metro Zapata,,,SH5052C1,0,53052C113
+CMX5052C7,53RTP13,,Metro Santa Martha - Metro Zapata,,,SH5052C1,0,53052C125
+CMX5052C7,51RTP19,,Metro Zapata - Metro Santa Martha,,,SH5052C2,0,51052C210
+CMX5052C7,51RTP19,,Metro Zapata - Metro Santa Martha,,,SH5052C2,0,51052C222
+CMX700016,71L1004,,Cuautitlán - Buenavista ,,,SH700L11,0,7100L1124
+CMX5052C7,52RTP11,,Metro Zapata - Metro Santa Martha,,,SH5052C2,0,52052C212
+CMX5052C7,52RTP11,,Metro Zapata - Metro Santa Martha,,,SH5052C2,0,52052C224
+CMX5052C7,53RTP13,,Metro Zapata - Metro Santa Martha,,,SH5052C2,0,53052C214
+CMX5052C7,53RTP13,,Metro Zapata - Metro Santa Martha,,,SH5052C2,0,53052C226
+CMX700016,71L1004,,Cuautitlán - Buenavista ,,,SH700L11,0,7100L1136
+CMX700016,71L1004,,Cuautitlán - Buenavista ,,,SH700L11,0,7100L1148
+CMX700016,71L1004,,Cuautitlán - Buenavista ,,,SH700L11,0,7100L1151
+CMX700016,71L1004,,Cuautitlán - Buenavista ,,,SH700L11,0,7100L1163
+CMX700016,71L1004,,Cuautitlán - Buenavista ,,,SH700L11,0,7100L1175
+CMX700016,71L1004,,Cuautitlán - Buenavista ,,,SH700L11,0,7100L1187
+CMX700016,71L1004,,Cuautitlán - Buenavista ,,,SH700L11,0,7100L1199
+CMX700016,72L1006,,Cuautitlán - Buenavista ,,,SH700L11,0,7200L1114
+CMX700016,72L1006,,Cuautitlán - Buenavista ,,,SH700L11,0,7200L1126
+CMX700016,72L1006,,Cuautitlán - Buenavista ,,,SH700L11,0,7200L1138
+CMX700016,73L1008,,Cuautitlán - Buenavista ,,,SH700L11,0,7300L1116
+CMX700016,71L1004,,Buenavista - Cuautitlán,,,SH700L12,0,7100L1213
+CMX700016,71L1004,,Buenavista - Cuautitlán,,,SH700L12,0,7100L1225
+CMX700016,71L1004,,Buenavista - Cuautitlán,,,SH700L12,0,7100L1237
+CMX700016,71L1004,,Buenavista - Cuautitlán,,,SH700L12,0,7100L1249
+CMX501315,51RTP19,,Caseta - Estadio Azteca,,,SH501311,0,510131117
+CMX501315,51RTP19,,Caseta - Estadio Azteca,,,SH501311,0,510131129
+CMX501315,52RTP11,,Caseta - Estadio Azteca,,,SH501311,0,520131119
+CMX501315,52RTP11,,Caseta - Estadio Azteca,,,SH501311,0,520131121
+CMX700016,71L1004,,Buenavista - Cuautitlán,,,SH700L12,0,7100L1252
+CMX501315,53RTP13,,Caseta - Estadio Azteca,,,SH501311,0,530131111
+CMX700016,71L1004,,Buenavista - Cuautitlán,,,SH700L12,0,7100L1264
+CMX501315,53RTP13,,Caseta - Estadio Azteca,,,SH501311,0,530131123
+CMX501315,51RTP19,,Estadio Azteca - Caseta,,,SH501312,0,510131218
+CMX700016,71L1004,,Buenavista - Cuautitlán,,,SH700L12,0,7100L1276
+CMX501315,51RTP19,,Estadio Azteca - Caseta,,,SH501312,0,510131220
+CMX501315,52RTP11,,Estadio Azteca - Caseta,,,SH501312,0,520131210
+CMX700016,72L1006,,Buenavista - Cuautitlán,,,SH700L12,0,7200L1215
+CMX501315,52RTP11,,Estadio Azteca - Caseta,,,SH501312,0,520131222
+CMX700016,72L1006,,Buenavista - Cuautitlán,,,SH700L12,0,7200L1227
+CMX501315,53RTP13,,Estadio Azteca - Caseta,,,SH501312,0,530131212
+CMX501315,53RTP13,,Estadio Azteca - Caseta,,,SH501312,0,530131224
+CMX700016,72L1006,,Buenavista - Cuautitlán,,,SH700L12,0,7200L1239
+CMX700016,73L1008,,Buenavista - Cuautitlán,,,SH700L12,0,7300L1217
+CMX501594,51RTP19,,Cetram Metro Constitución de 1917 - Palmitas,,,SH501611,0,510159116
+CMX501594,51RTP19,,Cetram Metro Constitución de 1917 - Palmitas,,,SH501611,0,510159128
+CMX501594,52RTP11,,Cetram Metro Constitución de 1917 - Palmitas,,,SH501611,0,520159118
+CMX501594,52RTP11,,Cetram Metro Constitución de 1917 - Palmitas,,,SH501611,0,520159120
+CMX501594,53RTP13,,Cetram Metro Constitución de 1917 - Palmitas,,,SH501611,0,530159110
+CMX501594,53RTP13,,Cetram Metro Constitución de 1917 - Palmitas,,,SH501611,0,530159122
+CMX501618,51RTP19,,Cetram Metro Constitución de 1917 - Ampliación Santiago,,,SH501612,0,510161110
+CMX501618,51RTP19,,Cetram Metro Constitución de 1917 - Ampliación Santiago,,,SH501612,0,510161122
+CMX501618,52RTP11,,Cetram Metro Constitución de 1917 - Ampliación Santiago,,,SH501612,0,520161112
+CMX501618,52RTP11,,Cetram Metro Constitución de 1917 - Ampliación Santiago,,,SH501612,0,520161124
+CMX501618,53RTP13,,Cetram Metro Constitución de 1917 - Ampliación Santiago,,,SH501612,0,530161114
+CMX501618,53RTP13,,Cetram Metro Constitución de 1917 - Ampliación Santiago,,,SH501612,0,530161126
+CMX501618,51RTP19,,Ampliación Santiago - Cetram Metro Constitución de 1917,,,SH501611,0,510161211
+CMX501618,51RTP19,,Ampliación Santiago - Cetram Metro Constitución de 1917,,,SH501611,0,510161223
+CMX501618,52RTP11,,Ampliación Santiago - Cetram Metro Constitución de 1917,,,SH501611,0,520161213
+CMX501618,52RTP11,,Ampliación Santiago - Cetram Metro Constitución de 1917,,,SH501611,0,520161225
+CMX501618,53RTP13,,Ampliación Santiago - Cetram Metro Constitución de 1917,,,SH501611,0,530161215
+CMX501618,53RTP13,,Ampliación Santiago - Cetram Metro Constitución de 1917,,,SH501611,0,530161227
+CMX5161C9,51RTP19,,Palmas - Metro Constitución de 1917,,,SH5161C1,0,51161C111
+CMX5161C9,51RTP19,,Palmas - Metro Constitución de 1917,,,SH5161C1,0,51161C113
+CMX5161C9,52RTP11,,Palmas - Metro Constitución de 1917,,,SH5161C1,0,52161C113
+CMX5161C9,52RTP11,,Palmas - Metro Constitución de 1917,,,SH5161C1,0,52161C115
+CMX5161C9,53RTP13,,Palmas - Metro Constitución de 1917,,,SH5161C1,0,53161C115
+CMX5161C9,53RTP13,,Palmas - Metro Constitución de 1917,,,SH5161C1,0,53161C117
+CMX5161C9,51RTP19,,Metro Constitución de 1917 - Palmas,,,SH5161C2,0,51161C212
+CMX5161C9,51RTP19,,Metro Constitución de 1917 - Palmas,,,SH5161C2,0,51161C224
+CMX5161C9,52RTP11,,Metro Constitución de 1917 - Palmas,,,SH5161C2,0,52161C214
+CMX5161C9,52RTP11,,Metro Constitución de 1917 - Palmas,,,SH5161C2,0,52161C216
+CMX5161C9,53RTP13,,Metro Constitución de 1917 - Palmas,,,SH5161C2,0,53161C216
+CMX5161C9,53RTP13,,Metro Constitución de 1917 - Palmas,,,SH5161C2,0,53161C218
+CMX5161D1,51RTP19,,Central de Abasto - Colonia Buenavista,,,SH5161D1,0,51161D113
+CMX5161D1,51RTP19,,Central de Abasto - Colonia Buenavista,,,SH5161D1,0,51161D125
+CMX5161D1,52RTP11,,Central de Abasto - Colonia Buenavista,,,SH5161D1,0,52161D115
+CMX5161D1,52RTP11,,Central de Abasto - Colonia Buenavista,,,SH5161D1,0,52161D127
+CMX5161D1,53RTP13,,Central de Abasto - Colonia Buenavista,,,SH5161D1,0,53161D117
+CMX5161D1,53RTP13,,Central de Abasto - Colonia Buenavista,,,SH5161D1,0,53161D129
+CMX5161E4,51RTP19,,San Jose Buenavista - Metro Constitución de 1917,,,SH5161E1,0,5.12E+120
+CMX5161E4,51RTP19,,San Jose Buenavista - Metro Constitución de 1917,,,SH5161E1,0,5.12E+132
+CMX5161E4,52RTP11,,San Jose Buenavista - Metro Constitución de 1917,,,SH5161E1,0,5.22E+122
+CMX5161E4,52RTP11,,San Jose Buenavista - Metro Constitución de 1917,,,SH5161E1,0,5.22E+124
+CMX5161E4,53RTP13,,San Jose Buenavista - Metro Constitución de 1917,,,SH5161E1,0,5.32E+114
+CMX5161E4,53RTP13,,San Jose Buenavista - Metro Constitución de 1917,,,SH5161E1,0,5.32E+126
+CMX5161E4,51RTP19,,Metro Constitución de 1917 - San José Buenavista,,,SH5161E2,0,5.12E+221
+CMX5161E4,51RTP19,,Metro Constitución de 1917 - San José Buenavista,,,SH5161E2,0,5.12E+233
+CMX5161E4,52RTP11,,Metro Constitución de 1917 - San José Buenavista,,,SH5161E2,0,5.22E+223
+CMX5161E4,52RTP11,,Metro Constitución de 1917 - San José Buenavista,,,SH5161E2,0,5.22E+225
+CMX5161E4,53RTP13,,Metro Constitución de 1917 - San José Buenavista,,,SH5161E2,0,5.32E+215
+CMX5161E4,53RTP13,,Metro Constitución de 1917 - San José Buenavista,,,SH5161E2,0,5.32E+227
+CMX5161F6,51RTP19,,Barranca de Guadalupe - Metro Constitución de 1917,,,SH5161F2,0,51161F118
+CMX5161F6,51RTP19,,Barranca de Guadalupe - Metro Constitución de 1917,,,SH5161F2,0,51161F120
+CMX5161F6,52RTP11,,Barranca de Guadalupe - Metro Constitución de 1917,,,SH5161F2,0,52161F110
+CMX5161F6,52RTP11,,Barranca de Guadalupe - Metro Constitución de 1917,,,SH5161F2,0,52161F112
+CMX5161F6,53RTP13,,Barranca de Guadalupe - Metro Constitución de 1917,,,SH5161F2,0,53161F112
+CMX5161F6,53RTP13,,Barranca de Guadalupe - Metro Constitución de 1917,,,SH5161F2,0,53161F114
+CMX501620,51RTP19,,Santa Catarina - Metro Constitución de 1917,,,SH501621,0,510162112
+CMX501620,51RTP19,,Santa Catarina - Metro Constitución de 1917,,,SH501621,0,510162124
+CMX501620,52RTP11,,Santa Catarina - Metro Constitución de 1917,,,SH501621,0,520162114
+CMX501620,52RTP11,,Santa Catarina - Metro Constitución de 1917,,,SH501621,0,520162126
+CMX501620,53RTP13,,Santa Catarina - Metro Constitución de 1917,,,SH501621,0,530162116
+CMX501620,53RTP13,,Santa Catarina - Metro Constitución de 1917,,,SH501621,0,530162128
+CMX501620,51RTP19,,Metro Constitución de 1917 - Santa Catarina,,,SH501622,0,510162213
+CMX501620,51RTP19,,Metro Constitución de 1917 - Santa Catarina,,,SH501622,0,510162225
+CMX501620,52RTP11,,Metro Constitución de 1917 - Santa Catarina,,,SH501622,0,520162215
+CMX501620,52RTP11,,Metro Constitución de 1917 - Santa Catarina,,,SH501622,0,520162227
+CMX501620,53RTP13,,Metro Constitución de 1917 - Santa Catarina,,,SH501622,0,530162217
+CMX501620,53RTP13,,Metro Constitución de 1917 - Santa Catarina,,,SH501622,0,530162229
+CMX5162D2,51RTP19,, Santa Catarina -  Metro Universidad,,,SH5162D1,0,51162D114
+CMX5162D2,51RTP19,, Santa Catarina -  Metro Universidad,,,SH5162D1,0,51162D126
+CMX5162D2,52RTP11,, Santa Catarina -  Metro Universidad,,,SH5162D1,0,52162D116
+CMX5162D2,52RTP11,, Santa Catarina -  Metro Universidad,,,SH5162D1,0,52162D128
+CMX5162D2,53RTP13,, Santa Catarina -  Metro Universidad,,,SH5162D1,0,53162D118
+CMX5162D2,53RTP13,, Santa Catarina -  Metro Universidad,,,SH5162D1,0,53162D120
+CMX5162D2,51RTP19,,Metro Universidad - Santa Catarina,,,SH5162D2,0,51162D215
+CMX5162D2,51RTP19,,Metro Universidad - Santa Catarina,,,SH5162D2,0,51162D227
+CMX5162D2,52RTP11,,Metro Universidad - Santa Catarina,,,SH5162D2,0,52162D217
+CMX5162D2,52RTP11,,Metro Universidad - Santa Catarina,,,SH5162D2,0,52162D229
+CMX5162D2,53RTP13,,Metro Universidad - Santa Catarina,,,SH5162D2,0,53162D219
+CMX5162D2,53RTP13,,Metro Universidad - Santa Catarina,,,SH5162D2,0,53162D221
+CMX5165A9,51RTP19,,Ejército de Oriente -  Metro Constitución de 1917,,,SH5165A1,0,51165A111
+CMX5165A9,51RTP19,,Ejército de Oriente -  Metro Constitución de 1917,,,SH5165A1,0,51165A123
+CMX5165A9,52RTP11,,Ejército de Oriente -  Metro Constitución de 1917,,,SH5165A1,0,52165A113
+CMX5165A9,52RTP11,,Ejército de Oriente -  Metro Constitución de 1917,,,SH5165A1,0,52165A125
+CMX5165A9,53RTP13,,Ejército de Oriente -  Metro Constitución de 1917,,,SH5165A1,0,53165A115
+CMX5165A9,53RTP13,,Ejército de Oriente -  Metro Constitución de 1917,,,SH5165A1,0,53165A127
+CMX5165A9,51RTP19,,Metro Constitución de1917 - Ejécito de Oriente,,,SH5165A2,0,51165A212
+CMX5165A9,51RTP19,,Metro Constitución de1917 - Ejécito de Oriente,,,SH5165A2,0,51165A224
+CMX5165A9,52RTP11,,Metro Constitución de1917 - Ejécito de Oriente,,,SH5165A2,0,52165A214
+CMX5165A9,52RTP11,,Metro Constitución de1917 - Ejécito de Oriente,,,SH5165A2,0,52165A226
+CMX5165A9,53RTP13,,Metro Constitución de1917 - Ejécito de Oriente,,,SH5165A2,0,53165A216
+CMX5165A9,53RTP13,,Metro Constitución de1917 - Ejécito de Oriente,,,SH5165A2,0,53165A228
+CMX5101D8,51RTP19,,La Villa/Ferroplaza -  Colonia Cocoyotes (La Brecha),,,SH5101D2,0,51101D110
+CMX5101D8,51RTP19,,La Villa/Ferroplaza -  Colonia Cocoyotes (La Brecha),,,SH5101D2,0,51101D122
+CMX5101D8,52RTP11,,La Villa/Ferroplaza -  Colonia Cocoyotes (La Brecha),,,SH5101D2,0,52101D112
+CMX5101D8,52RTP11,,La Villa/Ferroplaza -  Colonia Cocoyotes (La Brecha),,,SH5101D2,0,52101D124
+CMX5101D8,53RTP13,,La Villa/Ferroplaza -  Colonia Cocoyotes (La Brecha),,,SH5101D2,0,53101D114
+CMX5101D8,53RTP13,,La Villa/Ferroplaza -  Colonia Cocoyotes (La Brecha),,,SH5101D2,0,53101D116
+CMX5101D8,51RTP19,,Colonia Cocoyotes (La Brecha) -  La Villa/Ferroplaza,,,SH5101D1,0,51101D211
+CMX5101D8,51RTP19,,Colonia Cocoyotes (La Brecha) -  La Villa/Ferroplaza,,,SH5101D1,0,51101D223
+CMX5101D8,52RTP11,,Colonia Cocoyotes (La Brecha) -  La Villa/Ferroplaza,,,SH5101D1,0,52101D213
+CMX5101D8,52RTP11,,Colonia Cocoyotes (La Brecha) -  La Villa/Ferroplaza,,,SH5101D1,0,52101D225
+CMX5101D8,53RTP13,,Colonia Cocoyotes (La Brecha) -  La Villa/Ferroplaza,,,SH5101D1,0,53101D115
+CMX5101D8,53RTP13,,Colonia Cocoyotes (La Brecha) -  La Villa/Ferroplaza,,,SH5101D1,0,53101D117
+CMX546CX1,51RTP19,,Central de Abastos - Santa Catarina / Lienzo Charro,,,SH546CX1,0,5146CX214
+CMX546CX1,51RTP19,,Central de Abastos - Santa Catarina / Lienzo Charro,,,SH546CX1,0,5146CX226
+CMX546CX1,52RTP11,,Central de Abastos - Santa Catarina / Lienzo Charro,,,SH546CX1,0,5246CX216
+CMX546CX1,52RTP11,,Central de Abastos - Santa Catarina / Lienzo Charro,,,SH546CX1,0,5246CX228
+CMX546CX1,53RTP13,,Central de Abastos - Santa Catarina / Lienzo Charro,,,SH546CX1,0,5346CX218
+CMX546CX1,53RTP13,,Central de Abastos - Santa Catarina / Lienzo Charro,,,SH546CX1,0,5346CX220
+CMX546CX1,51RTP19,,Santa Catarina / Lienzo Charro - Central de Abastos,,,SH546CX2,0,5146CX113
+CMX546CX1,51RTP19,,Santa Catarina / Lienzo Charro - Central de Abastos,,,SH546CX2,0,5146CX125
+CMX546CX1,52RTP11,,Santa Catarina / Lienzo Charro - Central de Abastos,,,SH546CX2,0,5246CX115
+CMX546CX1,52RTP11,,Santa Catarina / Lienzo Charro - Central de Abastos,,,SH546CX2,0,5246CX127
+CMX546CX1,53RTP13,,Santa Catarina / Lienzo Charro - Central de Abastos,,,SH546CX2,0,5346CX117
+CMX546CX1,53RTP13,,Santa Catarina / Lienzo Charro - Central de Abastos,,,SH546CX2,0,5346CX129
+CMX547AX1,51RTP19,,Xochimilco / Bosque de Nativitas - Alameda Oriente,,,SH547AX1,0,5147AX114
+CMX547AX1,51RTP19,,Xochimilco / Bosque de Nativitas - Alameda Oriente,,,SH547AX1,0,5147AX126
+CMX547AX1,52RTP11,,Xochimilco / Bosque de Nativitas - Alameda Oriente,,,SH547AX1,0,5247AX116
+CMX547AX1,52RTP11,,Xochimilco / Bosque de Nativitas - Alameda Oriente,,,SH547AX1,0,5247AX128
+CMX547AX1,53RTP13,,Xochimilco / Bosque de Nativitas - Alameda Oriente,,,SH547AX1,0,5347AX118
+CMX547AX1,53RTP13,,Xochimilco / Bosque de Nativitas - Alameda Oriente,,,SH547AX1,0,5347AX120
+CMX547AX1,51RTP19,,Alameda Oriente - Xochimilco / Bosque de Nativitas,,,SH547AX2,0,5147AX215
+CMX547AX1,51RTP19,,Alameda Oriente - Xochimilco / Bosque de Nativitas,,,SH547AX2,0,5147AX227
+CMX547AX1,52RTP11,,Alameda Oriente - Xochimilco / Bosque de Nativitas,,,SH547AX2,0,5247AX217
+CMX547AX1,52RTP11,,Alameda Oriente - Xochimilco / Bosque de Nativitas,,,SH547AX2,0,5247AX229
+CMX547AX1,53RTP13,,Alameda Oriente - Xochimilco / Bosque de Nativitas,,,SH547AX2,0,5347AX219
+CMX547AX1,53RTP13,,Alameda Oriente - Xochimilco / Bosque de Nativitas,,,SH547AX2,0,5347AX221
+CMX557AX2,51RTP19,,Metro Constitución - Metro Cuatro Caminos,,,SH557AX1,0,5157AX114
+CMX557AX2,51RTP19,,Metro Constitución - Metro Cuatro Caminos,,,SH557AX1,0,5157AX126
+CMX557AX2,52RTP11,,Metro Constitución - Metro Cuatro Caminos,,,SH557AX1,0,5257AX116
+CMX557AX2,52RTP11,,Metro Constitución - Metro Cuatro Caminos,,,SH557AX1,0,5257AX128
+CMX557AX2,53RTP13,,Metro Constitución - Metro Cuatro Caminos,,,SH557AX1,0,5357AX118
+CMX557AX2,53RTP13,,Metro Constitución - Metro Cuatro Caminos,,,SH557AX1,0,5357AX120
+CMX557AX2,51RTP19,,Metro Cuatro Caminos - Metro Constitución,,,SH557AX2,0,5157AX215
+CMX557AX2,51RTP19,,Metro Cuatro Caminos - Metro Constitución,,,SH557AX2,0,5157AX227
+CMX557AX2,52RTP11,,Metro Cuatro Caminos - Metro Constitución,,,SH557AX2,0,5257AX217
+CMX557AX2,52RTP11,,Metro Cuatro Caminos - Metro Constitución,,,SH557AX2,0,5257AX229
+CMX557AX2,53RTP13,,Metro Cuatro Caminos - Metro Constitución,,,SH557AX2,0,5357AX219
+CMX557AX2,53RTP13,,Metro Cuatro Caminos - Metro Constitución,,,SH557AX2,0,5357AX221
+CMX500578,51RTP19,,Cetram Metro Constitución de 1917 - Cetram Metro Cuatro Caminos,,,SH500571,0,510057110
+CMX500578,51RTP19,,Cetram Metro Constitución de 1917 - Cetram Metro Cuatro Caminos,,,SH500571,0,510057122
+CMX501644,51RTP19,,Colonia Miguel de la Madrid-Metro Zaragoza,,,SH501641,0,510164116
+CMX501644,51RTP19,,Colonia Miguel de la Madrid-Metro Zaragoza,,,SH501641,0,510164128
+CMX501644,51RTP19,, Metro Zaragoza - Colonia Miguel de la Madrid,,,SH501642,0,510164217
+CMX501644,51RTP19,, Metro Zaragoza - Colonia Miguel de la Madrid,,,SH501642,0,510164229
+CMX500578,51RTP19,,Cetram Metro Cuatro Caminos - Cetram Metro Constitución de 1917,,,SH500572,0,510057211
+CMX500578,51RTP19,,Cetram Metro Cuatro Caminos - Cetram Metro Constitución de 1917,,,SH500572,0,510057223
+CMX501669,51RTP19,,Avisadero/Colonia Ixtlahuacan -  Metro Zaragoza/M. Tepalcates,,,SH501661,0,510166111
+CMX501669,51RTP19,, Metro Zaragoza/M. Tepalcates - Avisadero/Colonia Ixtlahuacan  ,,,SH501662,0,510166212
+CMX5009C3,51RTP19,,Tlacuitlapa/Puerta Grande - Centro Comercial Santa Fe,,,SH5009C1,0,51009C115
+CMX5009C3,51RTP19,,Tlacuitlapa/Puerta Grande - Centro Comercial Santa Fe,,,SH5009C1,0,51009C127
+CMX5009C3,52RTP11,,Tlacuitlapa/Puerta Grande - Centro Comercial Santa Fe,,,SH5009C1,0,52009C117
+CMX5009C3,52RTP11,,Tlacuitlapa/Puerta Grande - Centro Comercial Santa Fe,,,SH5009C1,0,52009C129
+CMX5009C3,53RTP13,,Tlacuitlapa/Puerta Grande - Centro Comercial Santa Fe,,,SH5009C1,0,53009C119
+CMX5009C3,53RTP13,,Tlacuitlapa/Puerta Grande - Centro Comercial Santa Fe,,,SH5009C1,0,53009C121
+CMX5009C3,51RTP19,,Centro Comercial Santa Fé - Tlacuitlapa/Puerta Grande,,,SH5009C2,0,51009C216
+CMX5009C3,51RTP19,,Centro Comercial Santa Fé - Tlacuitlapa/Puerta Grande,,,SH5009C2,0,51009C228
+CMX5009C3,52RTP11,,Centro Comercial Santa Fé - Tlacuitlapa/Puerta Grande,,,SH5009C2,0,52009C218
+CMX5009C3,52RTP11,,Centro Comercial Santa Fé - Tlacuitlapa/Puerta Grande,,,SH5009C2,0,52009C220
+CMX5009C3,53RTP13,,Centro Comercial Santa Fé - Tlacuitlapa/Puerta Grande,,,SH5009C2,0,53009C210
+CMX5009C3,53RTP13,,Centro Comercial Santa Fé - Tlacuitlapa/Puerta Grande,,,SH5009C2,0,53009C222
+CMX500768,51RTP19,,La Villa/Cantera - Centro Comercial Santa Fe,,,SH500761,0,510076110
+CMX500768,51RTP19,,La Villa/Cantera - Centro Comercial Santa Fe,,,SH500761,0,510076122
+CMX500768,52RTP11,,La Villa/Cantera - Centro Comercial Santa Fe,,,SH500761,0,520076112
+CMX500768,52RTP11,,La Villa/Cantera - Centro Comercial Santa Fe,,,SH500761,0,520076124
+CMX500768,53RTP13,,La Villa/Cantera - Centro Comercial Santa Fe,,,SH500761,0,530076114
+CMX500768,53RTP13,,La Villa/Cantera - Centro Comercial Santa Fe,,,SH500761,0,530076126
+CMX5076A1,51RTP19,,Centro Comercial Santa Fe -La Villa/Cantera por Reforma,,,SH5076A1,0,51076A113
+CMX5076A1,51RTP19,,Centro Comercial Santa Fe -La Villa/Cantera por Reforma,,,SH5076A1,0,51076A125
+CMX5076A1,52RTP11,,Centro Comercial Santa Fe -La Villa/Cantera por Reforma,,,SH5076A1,0,52076A115
+CMX5076A1,52RTP11,,Centro Comercial Santa Fe -La Villa/Cantera por Reforma,,,SH5076A1,0,52076A127
+CMX5076A1,53RTP13,,Centro Comercial Santa Fe -La Villa/Cantera por Reforma,,,SH5076A1,0,53076A117
+CMX5076A1,53RTP13,,Centro Comercial Santa Fe -La Villa/Cantera por Reforma,,,SH5076A1,0,53076A129
+CMX5076A1,51RTP19,,La Villa/Cantera -Centro Comercial Santa Fe  por Reforma,,,SH5076A2,0,51076A214
+CMX5076A1,51RTP19,,La Villa/Cantera -Centro Comercial Santa Fe  por Reforma,,,SH5076A2,0,51076A226
+CMX5076A1,52RTP11,,La Villa/Cantera -Centro Comercial Santa Fe  por Reforma,,,SH5076A2,0,52076A216
+CMX5076A1,52RTP11,,La Villa/Cantera -Centro Comercial Santa Fe  por Reforma,,,SH5076A2,0,52076A228
+CMX5076A1,53RTP13,,La Villa/Cantera -Centro Comercial Santa Fe  por Reforma,,,SH5076A2,0,53076A218
+CMX5076A1,53RTP13,,La Villa/Cantera -Centro Comercial Santa Fe  por Reforma,,,SH5076A2,0,53076A220
+CMX501101,51RTP19,,Metro Tacubaya -  Chimalpa,,,SH501102,0,510110113
+CMX501101,51RTP19,,Metro Tacubaya -  Chimalpa,,,SH501102,0,510110125
+CMX501101,52RTP11,,Metro Tacubaya -  Chimalpa,,,SH501102,0,520110115
+CMX501101,52RTP11,,Metro Tacubaya -  Chimalpa,,,SH501102,0,520110127
+CMX501101,53RTP13,,Metro Tacubaya -  Chimalpa,,,SH501102,0,530110117
+CMX501101,53RTP13,,Metro Tacubaya -  Chimalpa,,,SH501102,0,530110129
+CMX501101,51RTP19,,Chimalpa -  Metro Tacubaya,,,SH501101,0,510110214
+CMX501101,51RTP19,,Chimalpa -  Metro Tacubaya,,,SH501101,0,510110226
+CMX501101,52RTP11,,Chimalpa -  Metro Tacubaya,,,SH501101,0,520110216
+CMX501101,52RTP11,,Chimalpa -  Metro Tacubaya,,,SH501101,0,520110228
+CMX501101,53RTP13,,Chimalpa -  Metro Tacubaya,,,SH501101,0,530110218
+CMX501101,53RTP13,,Chimalpa -  Metro Tacubaya,,,SH501101,0,530110220
+CMX5110B5,51RTP19,,Metro Tacubaya - San Lorenzo Acopilco,,,SH5110B1,0,51110B117
+CMX5110B5,51RTP19,,Metro Tacubaya - San Lorenzo Acopilco,,,SH5110B1,0,51110B129
+CMX5110B5,52RTP11,,Metro Tacubaya - San Lorenzo Acopilco,,,SH5110B1,0,52110B119
+CMX5110B5,52RTP11,,Metro Tacubaya - San Lorenzo Acopilco,,,SH5110B1,0,52110B121
+CMX5110B5,53RTP13,,Metro Tacubaya - San Lorenzo Acopilco,,,SH5110B1,0,53110B111
+CMX5110B5,53RTP13,,Metro Tacubaya - San Lorenzo Acopilco,,,SH5110B1,0,53110B123
+CMX5110C7,51RTP19,,Metro Tacubaya - La Pila,,,SH5110C1,0,51110C119
+CMX5110C7,51RTP19,,Metro Tacubaya - La Pila,,,SH5110C1,0,51110C121
+CMX5110C7,52RTP11,,Metro Tacubaya - La Pila,,,SH5110C1,0,52110C111
+CMX5110C7,52RTP11,,Metro Tacubaya - La Pila,,,SH5110C1,0,52110C123
+CMX5110C7,53RTP13,,Metro Tacubaya - La Pila,,,SH5110C1,0,53110C113
+CMX5110C7,53RTP13,,Metro Tacubaya - La Pila,,,SH5110C1,0,53110C125
+CMX5110C7,51RTP19,,La Pila - Metro Tacubaya,,,SH5110C2,0,51110C210
+CMX5110C7,51RTP19,,La Pila - Metro Tacubaya,,,SH5110C2,0,51110C222
+CMX5110C7,52RTP11,,La Pila - Metro Tacubaya,,,SH5110C2,0,52110C212
+CMX5110C7,52RTP11,,La Pila - Metro Tacubaya,,,SH5110C2,0,52110C224
+CMX5110C7,53RTP13,,La Pila - Metro Tacubaya,,,SH5110C2,0,53110C214
+CMX5110C7,53RTP13,,La Pila - Metro Tacubaya,,,SH5110C2,0,53110C226
+CMX5113B8,51RTP19,,Metro Tacubaya - Col. Navidad ( las piedras),,,SH5113B1,0,51113B110
+CMX5113B8,51RTP19,,Metro Tacubaya - Col. Navidad ( las piedras),,,SH5113B1,0,51113B122
+CMX5113B8,52RTP11,,Metro Tacubaya - Col. Navidad ( las piedras),,,SH5113B1,0,52113B112
+CMX5113B8,52RTP11,,Metro Tacubaya - Col. Navidad ( las piedras),,,SH5113B1,0,52113B124
+CMX5113B8,53RTP13,,Metro Tacubaya - Col. Navidad ( las piedras),,,SH5113B1,0,53113B114
+CMX5113B8,53RTP13,,Metro Tacubaya - Col. Navidad ( las piedras),,,SH5113B1,0,53113B126
+CMX5113B8,51RTP19,,Col. Navidad ( las piedras) - Metro Tacubaya,,,SH5113B2,0,51113B211
+CMX5113B8,51RTP19,,Col. Navidad ( las piedras) - Metro Tacubaya,,,SH5113B2,0,51113B223
+CMX5113B8,52RTP11,,Col. Navidad ( las piedras) - Metro Tacubaya,,,SH5113B2,0,52113B213
+CMX5113B8,52RTP11,,Col. Navidad ( las piedras) - Metro Tacubaya,,,SH5113B2,0,52113B225
+CMX5113B8,53RTP13,,Col. Navidad ( las piedras) - Metro Tacubaya,,,SH5113B2,0,53113B215
+CMX5113B8,53RTP13,,Col. Navidad ( las piedras) - Metro Tacubaya,,,SH5113B2,0,53113B227
+CMX501152,51RTP19,,Metro Tacubaya - Jesús del Monte (Cuajimalpa),,,SH501151,0,510115114
+CMX501152,51RTP19,,Metro Tacubaya - Jesús del Monte (Cuajimalpa),,,SH501151,0,510115126
+CMX501152,52RTP11,,Metro Tacubaya - Jesús del Monte (Cuajimalpa),,,SH501151,0,520115116
+CMX501152,52RTP11,,Metro Tacubaya - Jesús del Monte (Cuajimalpa),,,SH501151,0,520115128
+CMX501152,53RTP13,,Metro Tacubaya - Jesús del Monte (Cuajimalpa),,,SH501151,0,530115118
+CMX501152,53RTP13,,Metro Tacubaya - Jesús del Monte (Cuajimalpa),,,SH501151,0,530115120
+CMX501152,51RTP19,,Jesús del Monte (Cuajimalpa ) - Metro Tacubaya,,,SH501152,0,510115215
+CMX501152,51RTP19,,Jesús del Monte (Cuajimalpa ) - Metro Tacubaya,,,SH501152,0,510115227
+CMX501152,52RTP11,,Jesús del Monte (Cuajimalpa ) - Metro Tacubaya,,,SH501152,0,520115217
+CMX501152,52RTP11,,Jesús del Monte (Cuajimalpa ) - Metro Tacubaya,,,SH501152,0,520115229
+CMX501152,53RTP13,,Jesús del Monte (Cuajimalpa ) - Metro Tacubaya,,,SH501152,0,530115219
+CMX501152,53RTP13,,Jesús del Monte (Cuajimalpa ) - Metro Tacubaya,,,SH501152,0,530115221
+CMX501164,51RTP19,,Santa Rosa - Metro Mixcoac,,,SH501161,0,510116116
+CMX501164,52RTP11,,Santa Rosa - Metro Mixcoac,,,SH501161,0,520116118
+CMX501164,52RTP11,,Santa Rosa - Metro Mixcoac,,,SH501161,0,520116120
+CMX501164,53RTP13,,Santa Rosa - Metro Mixcoac,,,SH501161,0,530116110
+CMX501164,53RTP13,,Santa Rosa - Metro Mixcoac,,,SH501161,0,530116122
+CMX501164,51RTP19,,Metro Mixcoac - Santa Rosa,,,SH501162,0,510116128
+CMX501164,51RTP19,,Metro Mixcoac - Santa Rosa,,,SH501162,0,510116217
+CMX501164,52RTP11,,Metro Mixcoac - Santa Rosa,,,SH501162,0,520116219
+CMX501164,52RTP11,,Metro Mixcoac - Santa Rosa,,,SH501162,0,520116221
+CMX501164,53RTP13,,Metro Mixcoac - Santa Rosa,,,SH501162,0,530116211
+CMX501164,53RTP13,,Metro Mixcoac - Santa Rosa,,,SH501162,0,530116224
+CMX501188,51RTP19,,Santa Rosa - Metro Tacubaya (Cartagena),,,SH501182,0,510118110
+CMX501188,51RTP19,,Santa Rosa - Metro Tacubaya (Cartagena),,,SH501182,0,510118122
+CMX501188,52RTP11,,Santa Rosa - Metro Tacubaya (Cartagena),,,SH501182,0,520118112
+CMX501188,52RTP11,,Santa Rosa - Metro Tacubaya (Cartagena),,,SH501182,0,520118124
+CMX501188,53RTP13,,Santa Rosa - Metro Tacubaya (Cartagena),,,SH501182,0,530118114
+CMX501188,53RTP13,,Santa Rosa - Metro Tacubaya (Cartagena),,,SH501182,0,530118126
+CMX501188,51RTP19,,Metro Tacubaya (Cartagena) - Santa Rosa Xochiac,,,SH501181,0,510118211
+CMX501188,51RTP19,,Metro Tacubaya (Cartagena) - Santa Rosa Xochiac,,,SH501181,0,510118223
+CMX501188,52RTP11,,Metro Tacubaya (Cartagena) - Santa Rosa Xochiac,,,SH501181,0,520118213
+CMX501188,52RTP11,,Metro Tacubaya (Cartagena) - Santa Rosa Xochiac,,,SH501181,0,520118225
+CMX501188,53RTP13,,Metro Tacubaya (Cartagena) - Santa Rosa Xochiac,,,SH501181,0,530118215
+CMX501188,53RTP13,,Metro Tacubaya (Cartagena) - Santa Rosa Xochiac,,,SH501181,0,530118227
+CMX5119B4,51RTP19,,Presidentes - Metro Mixcoac,,,SH5119B2,0,51119B116
+CMX5119B4,51RTP19,,Presidentes - Metro Mixcoac,,,SH5119B2,0,51119B128
+CMX5119B4,52RTP11,,Presidentes - Metro Mixcoac,,,SH5119B2,0,52119B118
+CMX5119B4,52RTP11,,Presidentes - Metro Mixcoac,,,SH5119B2,0,52119B120
+CMX5119B4,53RTP13,,Presidentes - Metro Mixcoac,,,SH5119B2,0,53119B110
+CMX5119B4,53RTP13,,Presidentes - Metro Mixcoac,,,SH5119B2,0,53119B122
+CMX5119B4,51RTP19,,Metro Mixcoac - Presidentes,,,SH5119B1,0,51119B217
+CMX5119B4,51RTP19,,Metro Mixcoac - Presidentes,,,SH5119B1,0,51119B229
+CMX5119B4,52RTP11,,Metro Mixcoac - Presidentes,,,SH5119B1,0,52119B219
+CMX5119B4,52RTP11,,Metro Mixcoac - Presidentes,,,SH5119B1,0,52119B221
+CMX5119B4,53RTP13,,Metro Mixcoac - Presidentes,,,SH5119B1,0,53119B211
+CMX5119B4,53RTP13,,Metro Mixcoac - Presidentes,,,SH5119B1,0,53119B223
+CMX501202,51RTP19,,San Mateo Tlaltenango - Metro Zapata,,,SH501202,0,510120114
+CMX501202,51RTP19,,San Mateo Tlaltenango - Metro Zapata,,,SH501202,0,510120126
+CMX501202,52RTP11,,San Mateo Tlaltenango - Metro Zapata,,,SH501202,0,520120116
+CMX501202,52RTP11,,San Mateo Tlaltenango - Metro Zapata,,,SH501202,0,520120128
+CMX501202,53RTP13,,San Mateo Tlaltenango - Metro Zapata,,,SH501202,0,530120118
+CMX501202,53RTP13,,San Mateo Tlaltenango - Metro Zapata,,,SH501202,0,530120120
+CMX501202,51RTP19,,Metro Zapata - San Mateo Tlaltenango,,,SH501201,0,510120215
+CMX501202,51RTP19,,Metro Zapata - San Mateo Tlaltenango,,,SH501201,0,510120227
+CMX501202,52RTP11,,Metro Zapata - San Mateo Tlaltenango,,,SH501201,0,520120217
+CMX501202,52RTP11,,Metro Zapata - San Mateo Tlaltenango,,,SH501201,0,520120229
+CMX501202,53RTP13,,Metro Zapata - San Mateo Tlaltenango,,,SH501201,0,530120219
+CMX501202,53RTP13,,Metro Zapata - San Mateo Tlaltenango,,,SH501201,0,530120221
+CMX501240,51RTP19,,Tlacuitlapa Puerta Grande - Metro Mixcoac,,,SH501241,0,510124112
+CMX501240,51RTP19,,Tlacuitlapa Puerta Grande - Metro Mixcoac,,,SH501241,0,510124124
+CMX501240,52RTP11,,Tlacuitlapa Puerta Grande - Metro Mixcoac,,,SH501241,0,520123114
+CMX501240,52RTP11,,Tlacuitlapa Puerta Grande - Metro Mixcoac,,,SH501241,0,520123126
+CMX501240,53RTP13,,Tlacuitlapa Puerta Grande - Metro Mixcoac,,,SH501241,0,530124116
+CMX501240,53RTP13,,Tlacuitlapa Puerta Grande - Metro Mixcoac,,,SH501241,0,530124128
+CMX501240,51RTP19,,Metro Mixcoac - Tlacuitlapa Puerta Grande,,,SH501242,0,510124213
+CMX501240,51RTP19,,Metro Mixcoac - Tlacuitlapa Puerta Grande,,,SH501242,0,510124225
+CMX501240,52RTP11,,Metro Mixcoac - Tlacuitlapa Puerta Grande,,,SH501242,0,520123215
+CMX501240,52RTP11,,Metro Mixcoac - Tlacuitlapa Puerta Grande,,,SH501242,0,520123227
+CMX501240,53RTP13,,Metro Mixcoac - Tlacuitlapa Puerta Grande,,,SH501242,0,530124217
+CMX501240,53RTP13,,Metro Mixcoac - Tlacuitlapa Puerta Grande,,,SH501242,0,530124229
+CMX5124A9,51RTP19,,Tepeaca - Metro Mixcoac,,,SH5124A1,0,51124A111
+CMX5124A9,51RTP19,,Tepeaca - Metro Mixcoac,,,SH5124A1,0,51124A123
+CMX5124A9,52RTP11,,Tepeaca - Metro Mixcoac,,,SH5124A1,0,52124A113
+CMX5124A9,52RTP11,,Tepeaca - Metro Mixcoac,,,SH5124A1,0,52124A125
+CMX5124A9,53RTP13,,Tepeaca - Metro Mixcoac,,,SH5124A1,0,53124A115
+CMX5124A9,53RTP13,,Tepeaca - Metro Mixcoac,,,SH5124A1,0,53124A127
+CMX5124A9,51RTP19,,Metro Mixcoac - Tepeaca,,,SH5124A2,0,51124A212
+CMX5124A9,51RTP19,,Metro Mixcoac - Tepeaca,,,SH5124A2,0,51124A224
+CMX5124A9,52RTP11,,Metro Mixcoac - Tepeaca,,,SH5124A2,0,52124A214
+CMX5124A9,52RTP11,,Metro Mixcoac - Tepeaca,,,SH5124A2,0,52124A226
+CMX5124A9,53RTP13,,Metro Mixcoac - Tepeaca,,,SH5124A2,0,53124A216
+CMX5124A9,53RTP13,,Metro Mixcoac - Tepeaca,,,SH5124A2,0,53124A228
+CMX5076X2,51RTP19,,La Villa - Centro Comercial Santa Fe por Palmas,,,SH5076X1,0,51076X114
+CMX5076X2,51RTP19,,La Villa - Centro Comercial Santa Fe por Palmas,,,SH5076X1,0,51076X126
+CMX5076X2,52RTP11,,La Villa - Centro Comercial Santa Fe por Palmas,,,SH5076X1,0,52076X116
+CMX5076X2,52RTP11,,La Villa - Centro Comercial Santa Fe por Palmas,,,SH5076X1,0,52076X128
+CMX5076X2,53RTP13,,La Villa - Centro Comercial Santa Fe por Palmas,,,SH5076X1,0,53076X118
+CMX5076X2,53RTP13,,La Villa - Centro Comercial Santa Fe por Palmas,,,SH5076X1,0,53076X120
+CMX5076X2,51RTP19,,Centro Comercial Santa Fe - La Villa por Palmas,,,SH5076X2,0,51076X215
+CMX5076X2,51RTP19,,Centro Comercial Santa Fe - La Villa por Palmas,,,SH5076X2,0,51076X227
+CMX5076X2,52RTP11,,Centro Comercial Santa Fe - La Villa por Palmas,,,SH5076X2,0,52076X217
+CMX5076X2,52RTP11,,Centro Comercial Santa Fe - La Villa por Palmas,,,SH5076X2,0,52076X229
+CMX5076X2,53RTP13,,Centro Comercial Santa Fe - La Villa por Palmas,,,SH5076X2,0,53076X219
+CMX5076X2,53RTP13,,Centro Comercial Santa Fe - La Villa por Palmas,,,SH5076X2,0,53076X221
+CMX500376,51RTP19,,Carmen Serdán - U.C.T.M. Atzacoalco,,,SH500372,0,510037118
+CMX500376,51RTP19,,Carmen Serdán - U.C.T.M. Atzacoalco,,,SH500372,0,510037120
+CMX500376,52RTP11,,Carmen Serdán - U.C.T.M. Atzacoalco,,,SH500372,0,520037110
+CMX500376,52RTP11,,Carmen Serdán - U.C.T.M. Atzacoalco,,,SH500372,0,520037122
+CMX500376,53RTP13,,Carmen Serdán - U.C.T.M. Atzacoalco,,,SH500372,0,530037112
+CMX500376,53RTP13,,Carmen Serdán - U.C.T.M. Atzacoalco,,,SH500372,0,530037124
+CMX500376,51RTP19,, U.C.T.M. Atzacoalco - Carmen Serdán ,,,SH500371,0,510037219
+CMX500376,51RTP19,, U.C.T.M. Atzacoalco - Carmen Serdán ,,,SH500371,0,510037221
+CMX500376,52RTP11,, U.C.T.M. Atzacoalco - Carmen Serdán ,,,SH500371,0,520037211
+CMX500376,52RTP11,, U.C.T.M. Atzacoalco - Carmen Serdán ,,,SH500371,0,520037223
+CMX500376,53RTP13,, U.C.T.M. Atzacoalco - Carmen Serdán ,,,SH500371,0,530037213
+CMX500376,53RTP13,, U.C.T.M. Atzacoalco - Carmen Serdán ,,,SH500371,0,530037225
+CMX500438,51RTP19,,Central de Abastos - León de los Aldama ,,,SH500432,0,510043110
+CMX500438,51RTP19,,Central de Abastos - León de los Aldama ,,,SH500432,0,510043122
+CMX500438,52RTP11,,Central de Abastos - León de los Aldama ,,,SH500432,0,520043112
+CMX500438,52RTP11,,Central de Abastos - León de los Aldama ,,,SH500432,0,520043124
+CMX500438,53RTP13,,Central de Abastos - León de los Aldama ,,,SH500432,0,530043114
+CMX500438,53RTP13,,Central de Abastos - León de los Aldama ,,,SH500432,0,530043126
+CMX500438,51RTP19,,León de los Aldama - Central de Abastos,,,SH500431,0,510043211
+CMX500438,51RTP19,,León de los Aldama - Central de Abastos,,,SH500431,0,510043223
+CMX500438,52RTP11,,León de los Aldama - Central de Abastos,,,SH500431,0,520043213
+CMX500438,52RTP11,,León de los Aldama - Central de Abastos,,,SH500431,0,520043225
+CMX500438,53RTP13,,León de los Aldama - Central de Abastos,,,SH500431,0,530043215
+CMX500438,53RTP13,,León de los Aldama - Central de Abastos,,,SH500431,0,530043227
+CMX576AX2,51RTP19,,Centro Comercial Santa Fe - La Villa/Cantera por Reforma,,,SH576AX2,0,5176AX114
+CMX576AX2,51RTP19,,Centro Comercial Santa Fe - La Villa/Cantera por Reforma,,,SH576AX2,0,5176AX126
+CMX576AX2,52RTP11,,Centro Comercial Santa Fe - La Villa/Cantera por Reforma,,,SH576AX2,0,5276AX116
+CMX576AX2,52RTP11,,Centro Comercial Santa Fe - La Villa/Cantera por Reforma,,,SH576AX2,0,5276AX128
+CMX576AX2,53RTP13,,Centro Comercial Santa Fe - La Villa/Cantera por Reforma,,,SH576AX2,0,5376AX118
+CMX576AX2,53RTP13,,Centro Comercial Santa Fe - La Villa/Cantera por Reforma,,,SH576AX2,0,5376AX120
+CMX576AX2,51RTP19,,La Villa/Cantera - Centro Comercial Santa Fe por Reforma,,,SH576AX1,0,5176AX215
+CMX576AX2,51RTP19,,La Villa/Cantera - Centro Comercial Santa Fe por Reforma,,,SH576AX1,0,5176AX227
+CMX576AX2,52RTP11,,La Villa/Cantera - Centro Comercial Santa Fe por Reforma,,,SH576AX1,0,5278AX217
+CMX576AX2,52RTP11,,La Villa/Cantera - Centro Comercial Santa Fe por Reforma,,,SH576AX1,0,5276AX229
+CMX576AX2,53RTP13,,La Villa/Cantera - Centro Comercial Santa Fe por Reforma,,,SH576AX1,0,5376AX219
+CMX576AX2,53RTP13,,La Villa/Cantera - Centro Comercial Santa Fe por Reforma,,,SH576AX1,0,5376AX221
+CMX5013A5,51RTP19,,Pedregal de San Nicolás - Metro Chapultepec,,,SH5013A1,0,51013A117
+CMX5013A5,51RTP19,,Pedregal de San Nicolás - Metro Chapultepec,,,SH5013A1,0,51013A129
+CMX5013A5,52RTP11,,Pedregal de San Nicolás - Metro Chapultepec,,,SH5013A1,0,52013A119
+CMX5013A5,52RTP11,,Pedregal de San Nicolás - Metro Chapultepec,,,SH5013A1,0,52013A121
+CMX5013A5,53RTP13,,Pedregal de San Nicolás - Metro Chapultepec,,,SH5013A1,0,53013A111
+CMX5013A5,53RTP13,,Pedregal de San Nicolás - Metro Chapultepec,,,SH5013A1,0,53013A123
+CMX5013A5,51RTP19,,Metro Chapultepec - Pedregal de San Nicolás,,,SH5013A2,0,51013A218
+CMX5013A5,51RTP19,,Metro Chapultepec - Pedregal de San Nicolás,,,SH5013A2,0,51013A220
+CMX5013A5,52RTP11,,Metro Chapultepec - Pedregal de San Nicolás,,,SH5013A2,0,52013A210
+CMX5013A5,52RTP11,,Metro Chapultepec - Pedregal de San Nicolás,,,SH5013A2,0,52013A222
+CMX5013A5,53RTP13,,Metro Chapultepec - Pedregal de San Nicolás,,,SH5013A2,0,53013A212
+CMX5013A5,53RTP13,,Metro Chapultepec - Pedregal de San Nicolás,,,SH5013A2,0,53013A224
+CMX5017E8,51RTP19,,San Pedro Mártir - Metro Universidad,,,SH5017E1,0,5.10E+114
+CMX5017E8,51RTP19,,San Pedro Mártir - Metro Universidad,,,SH5017E1,0,5.10E+126
+CMX5017E8,52RTP11,,San Pedro Mártir - Metro Universidad,,,SH5017E1,0,5.20E+116
+CMX5017E8,52RTP11,,San Pedro Mártir - Metro Universidad,,,SH5017E1,0,5.20E+128
+CMX5017E8,53RTP13,,San Pedro Mártir - Metro Universidad,,,SH5017E1,0,5.30E+118
+CMX5017E8,53RTP13,,San Pedro Mártir - Metro Universidad,,,SH5017E1,0,5.30E+130
+CMX5017E8,51RTP19,,Metro Universidad - San Pedro Martir por Carretera Federal,,,SH5017E2,0,5.10E+215
+CMX5017E8,51RTP19,,Metro Universidad - San Pedro Martir por Carretera Federal,,,SH5017E2,0,5.10E+227
+CMX5017E8,52RTP11,,Metro Universidad - San Pedro Martir por Carretera Federal,,,SH5017E2,0,5.20E+217
+CMX5017E8,52RTP11,,Metro Universidad - San Pedro Martir por Carretera Federal,,,SH5017E2,0,5.20E+229
+CMX5017E8,53RTP13,,Metro Universidad - San Pedro Martir por Carretera Federal,,,SH5017E2,0,5.30E+219
+CMX5017E8,53RTP13,,Metro Universidad - San Pedro Martir por Carretera Federal,,,SH5017E2,0,5.30E+231
+CMX5017F0,51RTP19,,San Pedro Mártir - Metro Taxqueña,,,SH5017F1,0,51017F112
+CMX5017F0,51RTP19,,San Pedro Mártir - Metro Taxqueña,,,SH5017F1,0,51017F124
+CMX5017F0,52RTP11,,San Pedro Mártir - Metro Taxqueña,,,SH5017F1,0,52017F114
+CMX5017F0,52RTP11,,San Pedro Mártir - Metro Taxqueña,,,SH5017F1,0,52017F126
+CMX5017F0,53RTP13,,San Pedro Mártir - Metro Taxqueña,,,SH5017F1,0,53017F116
+CMX5017F0,53RTP13,,San Pedro Mártir - Metro Taxqueña,,,SH5017F1,0,53017F128
+CMX5017F0,51RTP19,,Metro Taxqueña - San Pedro Mártir,,,SH5017F2,0,51017F213
+CMX5017F0,51RTP19,,Metro Taxqueña - San Pedro Mártir,,,SH5017F2,0,51017F225
+CMX5017F0,52RTP11,,Metro Taxqueña - San Pedro Mártir,,,SH5017F2,0,52017F215
+CMX5017F0,52RTP11,,Metro Taxqueña - San Pedro Mártir,,,SH5017F2,0,52017F227
+CMX5017F0,53RTP13,,Metro Taxqueña - San Pedro Mártir,,,SH5017F2,0,53017F217
+CMX5017F0,53RTP13,,Metro Taxqueña - San Pedro Mártir,,,SH5017F2,0,53017F229
+CMX501125,51RTP19,,Jalalpa - Metro Tacubaya,,,SH501121,0,510112117
+CMX501125,51RTP19,,Jalalpa - Metro Tacubaya,,,SH501121,0,510112129
+CMX501125,52RTP11,,Jalalpa - Metro Tacubaya,,,SH501121,0,520112119
+CMX501125,52RTP11,,Jalalpa - Metro Tacubaya,,,SH501121,0,520112121
+CMX501125,53RTP13,,Jalalpa - Metro Tacubaya,,,SH501121,0,530112111
+CMX501125,53RTP13,,Jalalpa - Metro Tacubaya,,,SH501121,0,530112123
+CMX501125,51RTP19,,Metro Tacubaya - Jalalpa,,,SH501122,0,510112218
+CMX501125,51RTP19,,Metro Tacubaya - Jalalpa,,,SH501122,0,510112220
+CMX501125,52RTP11,,Metro Tacubaya - Jalalpa,,,SH501122,0,520112210
+CMX501125,52RTP11,,Metro Tacubaya - Jalalpa,,,SH501122,0,520112222
+CMX501125,53RTP13,,Metro Tacubaya - Jalalpa,,,SH501122,0,530112212
+CMX501125,53RTP13,,Metro Tacubaya - Jalalpa,,,SH501122,0,530112224
+CMX5115A8,51RTP19,,Puente Colorado - Metro Chapultepec,,,SH5115A1,0,51115A110
+CMX5115A8,51RTP19,,Puente Colorado - Metro Chapultepec,,,SH5115A1,0,51115A122
+CMX5115A8,52RTP11,,Puente Colorado - Metro Chapultepec,,,SH5115A1,0,52015A112
+CMX5115A8,52RTP11,,Puente Colorado - Metro Chapultepec,,,SH5115A1,0,52015A124
+CMX5115A8,53RTP13,,Puente Colorado - Metro Chapultepec,,,SH5115A1,0,53015A114
+CMX5115A8,53RTP13,,Puente Colorado - Metro Chapultepec,,,SH5115A1,0,53015A126
+CMX5115A8,51RTP19,,Metro Chapultepec - Puete Colorado,,,SH5115A2,0,51115A211
+CMX5115A8,51RTP19,,Metro Chapultepec - Puete Colorado,,,SH5115A2,0,51115A223
+CMX5115A8,52RTP11,,Metro Chapultepec - Puete Colorado,,,SH5115A2,0,52015A213
+CMX5115A8,52RTP11,,Metro Chapultepec - Puete Colorado,,,SH5115A2,0,52015A225
+CMX5115A8,53RTP13,,Metro Chapultepec - Puete Colorado,,,SH5115A2,0,53015A215
+CMX5115A8,53RTP13,,Metro Chapultepec - Puete Colorado,,,SH5115A2,0,53015A227
+CMX5116A9,51RTP19,,Metro General Anaya - Rio de Guadalupe,,,SH5116A1,0,51116A111
+CMX5116A9,51RTP19,,Metro General Anaya - Rio de Guadalupe,,,SH5116A1,0,51116A123
+CMX5116A9,52RTP11,,Metro General Anaya - Rio de Guadalupe,,,SH5116A1,0,52116A113
+CMX5116A9,52RTP11,,Metro General Anaya - Rio de Guadalupe,,,SH5116A1,0,52116A125
+CMX5116A9,53RTP13,,Metro General Anaya - Rio de Guadalupe,,,SH5116A1,0,53116A115
+CMX5116A9,53RTP13,,Metro General Anaya - Rio de Guadalupe,,,SH5116A1,0,53116A127
+CMX5116A9,51RTP19,,Río Guadalupe - General Anaya,,,SH5116A2,0,51116A212
+CMX5116A9,51RTP19,,Río Guadalupe - General Anaya,,,SH5116A2,0,51116A224
+CMX5116A9,52RTP11,,Río Guadalupe - General Anaya,,,SH5116A2,0,52116A214
+CMX5116A9,52RTP11,,Río Guadalupe - General Anaya,,,SH5116A2,0,52116A226
+CMX5116A9,53RTP13,,Río Guadalupe - General Anaya,,,SH5116A2,0,53116A216
+CMX5116A9,53RTP13,,Río Guadalupe - General Anaya,,,SH5116A2,0,53116A228
+CMX501190,51RTP19,,Metro Tacubaya - Piloto,,,SH501191,0,510119112
+CMX501190,51RTP19,,Metro Tacubaya - Piloto,,,SH501191,0,510119124
+CMX501190,52RTP11,,Metro Tacubaya - Piloto,,,SH501191,0,520119114
+CMX501190,52RTP11,,Metro Tacubaya - Piloto,,,SH501191,0,520119126
+CMX501190,53RTP13,,Metro Tacubaya - Piloto,,,SH501191,0,530119116
+CMX501190,53RTP13,,Metro Tacubaya - Piloto,,,SH501191,0,530119128
+CMX501190,51RTP19,,Piloto - Metro Tacubaya,,,SH501192,0,510119213
+CMX501190,51RTP19,,Piloto - Metro Tacubaya,,,SH501192,0,510119225
+CMX501190,52RTP11,,Piloto - Metro Tacubaya,,,SH501192,0,520119215
+CMX501190,52RTP11,,Piloto - Metro Tacubaya,,,SH501192,0,520119227
+CMX501190,53RTP13,,Piloto - Metro Tacubaya,,,SH501192,0,530119217
+CMX501190,53RTP13,,Piloto - Metro Tacubaya,,,SH501192,0,530119229
+CMX5123A8,51RTP19,,Metro Universidad - Pedregal de San Nicolás,,,SH5123A1,0,51123A110
+CMX5123A8,51RTP19,,Metro Universidad - Pedregal de San Nicolás,,,SH5123A1,0,51123A122
+CMX5123A8,52RTP11,,Metro Universidad - Pedregal de San Nicolás,,,SH5123A1,0,52123A112
+CMX5123A8,52RTP11,,Metro Universidad - Pedregal de San Nicolás,,,SH5123A1,0,52123A124
+CMX5123A8,53RTP13,,Metro Universidad - Pedregal de San Nicolás,,,SH5123A1,0,53123A114
+CMX5123A8,53RTP13,,Metro Universidad - Pedregal de San Nicolás,,,SH5123A1,0,53123A126
+CMX5123A8,51RTP19,,Pedregal de San Nicolás - Metro Universidad,,,SH5123A2,0,51123A211
+CMX5123A8,51RTP19,,Pedregal de San Nicolás - Metro Universidad,,,SH5123A2,0,51123A223
+CMX5123A8,52RTP11,,Pedregal de San Nicolás - Metro Universidad,,,SH5123A2,0,52123A213
+CMX5123A8,52RTP11,,Pedregal de San Nicolás - Metro Universidad,,,SH5123A2,0,52123A225
+CMX5123A8,53RTP13,,Pedregal de San Nicolás - Metro Universidad,,,SH5123A2,0,53123A215
+CMX5123A8,53RTP13,,Pedregal de San Nicolás - Metro Universidad,,,SH5123A2,0,53123A227
+CMX501253,51RTP19,,Metro Universidad - Cierre de Circuito Bosques,,,SH501251,0,510125115
+CMX501253,51RTP19,,Metro Universidad - Cierre de Circuito Bosques,,,SH501251,0,510125127
+CMX501253,52RTP11,,Metro Universidad - Cierre de Circuito Bosques,,,SH501251,0,520125117
+CMX501253,52RTP11,,Metro Universidad - Cierre de Circuito Bosques,,,SH501251,0,520125129
+CMX501253,53RTP13,,Metro Universidad - Cierre de Circuito Bosques,,,SH501251,0,530125119
+CMX501253,53RTP13,,Metro Universidad - Cierre de Circuito Bosques,,,SH501251,0,530125121
+CMX501253,51RTP19,,Cierre de Circuito Bosques - Metro Universidad,,,SH501252,0,510125216
+CMX501253,51RTP19,,Cierre de Circuito Bosques - Metro Universidad,,,SH501252,0,510125228
+CMX501253,52RTP11,,Cierre de Circuito Bosques - Metro Universidad,,,SH501252,0,520125218
+CMX501253,52RTP11,,Cierre de Circuito Bosques - Metro Universidad,,,SH501252,0,520125220
+CMX501253,53RTP13,,Cierre de Circuito Bosques - Metro Universidad,,,SH501252,0,530125210
+CMX501253,53RTP13,,Cierre de Circuito Bosques - Metro Universidad,,,SH501252,0,530125222
+CMX501289,51RTP19,,Metro Universidad - San Bernabel/Oyamel,,,SH501281,0,510128111
+CMX501289,51RTP19,,Metro Universidad - San Bernabel/Oyamel,,,SH501281,0,510128123
+CMX501289,52RTP11,,Metro Universidad - San Bernabel/Oyamel,,,SH501281,0,520128113
+CMX501289,52RTP11,,Metro Universidad - San Bernabel/Oyamel,,,SH501281,0,520128125
+CMX501289,53RTP13,,Metro Universidad - San Bernabel/Oyamel,,,SH501281,0,530128115
+CMX501289,53RTP13,,Metro Universidad - San Bernabel/Oyamel,,,SH501281,0,530128127
+CMX501289,51RTP19,,San Bernabel/Oyamel - Metro Universidad,,,SH501282,0,510128212
+CMX501289,51RTP19,,San Bernabel/Oyamel - Metro Universidad,,,SH501282,0,510128224
+CMX501289,52RTP11,,San Bernabel/Oyamel - Metro Universidad,,,SH501282,0,520128214
+CMX501289,52RTP11,,San Bernabel/Oyamel - Metro Universidad,,,SH501282,0,520128226
+CMX501289,53RTP13,,San Bernabel/Oyamel - Metro Universidad,,,SH501282,0,530128216
+CMX501289,53RTP13,,San Bernabel/Oyamel - Metro Universidad,,,SH501282,0,530128228
+CMX501341,51RTP19,,Estadio Azteca -  Santo Tomás Ajusco,,,SH501341,0,510134113
+CMX501341,51RTP19,,Estadio Azteca -  Santo Tomás Ajusco,,,SH501341,0,510134125
+CMX501341,52RTP11,,Estadio Azteca -  Santo Tomás Ajusco,,,SH501341,0,520134115
+CMX501341,52RTP11,,Estadio Azteca -  Santo Tomás Ajusco,,,SH501341,0,520134127
+CMX501341,53RTP13,,Estadio Azteca -  Santo Tomás Ajusco,,,SH501341,0,530134117
+CMX501341,53RTP13,,Estadio Azteca -  Santo Tomás Ajusco,,,SH501341,0,530134129
+CMX501341,51RTP19,,Santo Tomás Ajusco -  Estadio Azteca,,,SH501342,0,510134214
+CMX501341,51RTP19,,Santo Tomás Ajusco -  Estadio Azteca,,,SH501342,0,510134226
+CMX501341,52RTP11,,Santo Tomás Ajusco -  Estadio Azteca,,,SH501342,0,520134216
+CMX501341,52RTP11,,Santo Tomás Ajusco -  Estadio Azteca,,,SH501342,0,520134228
+CMX501341,53RTP13,,Santo Tomás Ajusco -  Estadio Azteca,,,SH501342,0,530134218
+CMX501341,53RTP13,,Santo Tomás Ajusco -  Estadio Azteca,,,SH501342,0,530134220
+CMX60TL16,61TL107,,Xochimilco - Tasqueña,,,SH60TL11,0,610TL1110
+CMX5134A1,51RTP19,,Estadio Azteca - Parres ,,,SH5134A1,0,51134A113
+CMX5134A1,51RTP19,,Estadio Azteca - Parres ,,,SH5134A1,0,51134A125
+CMX5134A1,52RTP11,,Estadio Azteca - Parres ,,,SH5134A1,0,52134A115
+CMX5134A1,52RTP11,,Estadio Azteca - Parres ,,,SH5134A1,0,52134A127
+CMX5134A1,53RTP13,,Estadio Azteca - Parres ,,,SH5134A1,0,53134A117
+CMX5134A1,53RTP13,,Estadio Azteca - Parres ,,,SH5134A1,0,53134A129
+CMX5134A1,51RTP19,,Parres - Estadio Azteca,,,SH5134A2,0,51134A214
+CMX5134A1,51RTP19,,Parres - Estadio Azteca,,,SH5134A2,0,51134A226
+CMX5134A1,52RTP11,,Parres - Estadio Azteca,,,SH5134A2,0,52134A216
+CMX60TL16,61TL209,,Tasqueña - Xochimilco,,,SH60TL12,0,610TL1211
+CMX5134A1,52RTP11,,Parres - Estadio Azteca,,,SH5134A2,0,52134A228
+CMX5134A1,53RTP13,,Parres - Estadio Azteca,,,SH5134A2,0,53134A218
+CMX5134A1,53RTP13,,Parres - Estadio Azteca,,,SH5134A2,0,53134A220
+CMX5134B3,51RTP19,,Cetram Estadio Azteca - Topilejo,,,SH5134B1,0,51134B115
+CMX5134B3,51RTP19,,Cetram Estadio Azteca - Topilejo,,,SH5134B1,0,51134B127
+CMX5134B3,52RTP11,,Cetram Estadio Azteca - Topilejo,,,SH5134B1,0,52134B117
+CMX5134B3,52RTP11,,Cetram Estadio Azteca - Topilejo,,,SH5134B1,0,52134B129
+CMX5134B3,53RTP13,,Cetram Estadio Azteca - Topilejo,,,SH5134B1,0,53134B119
+CMX5134B3,53RTP13,,Cetram Estadio Azteca - Topilejo,,,SH5134B1,0,53134B121
+CMX5134B3,51RTP19,,Topilejo - Cetram Estadio Azteca,,,SH5134B2,0,51134B216
+CMX5134B3,51RTP19,,Topilejo - Cetram Estadio Azteca,,,SH5134B2,0,51134B228
+CMX5134B3,52RTP11,,Topilejo - Cetram Estadio Azteca,,,SH5134B2,0,52134B218
+CMX5134B3,52RTP11,,Topilejo - Cetram Estadio Azteca,,,SH5134B2,0,52134B220
+CMX5134B3,53RTP13,,Topilejo - Cetram Estadio Azteca,,,SH5134B2,0,53134B210
+CMX5134B3,53RTP13,,Topilejo - Cetram Estadio Azteca,,,SH5134B2,0,53134B222
+CMX5134C5,52RTP11,,Cierre de circuito Santo Tomás Ajusco - Metro Universidad,,,SH5134C1,0,52124C119
+CMX5134C5,51RTP19,,Cierre de circuito Santo Tomás Ajusco - Metro Universidad,,,SH5134C1,0,51134C117
+CMX5134C5,51RTP19,,Cierre de circuito Santo Tomás Ajusco - Metro Universidad,,,SH5134C1,0,51134C129
+CMX5134C5,52RTP11,,Cierre de circuito Santo Tomás Ajusco - Metro Universidad,,,SH5134C1,0,52124C121
+CMX5134C5,53RTP13,,Cierre de circuito Santo Tomás Ajusco - Metro Universidad,,,SH5134C1,0,53134C111
+CMX5134C5,53RTP13,,Cierre de circuito Santo Tomás Ajusco - Metro Universidad,,,SH5134C1,0,53134C123
+CMX5134C5,51RTP19,,Metro Universidad - Cierre de circuito Santo Tomás Ajusco,,,SH5134C2,0,51134C218
+CMX5134C5,51RTP19,,Metro Universidad - Cierre de circuito Santo Tomás Ajusco,,,SH5134C2,0,51134C220
+CMX60TL16,62TL109,,Tasqueña - Xochimilco,,,SH60TL12,0,620TL1213
+CMX5134C5,52RTP11,,Metro Universidad - Cierre de circuito Santo Tomás Ajusco,,,SH5134C2,0,52124C210
+CMX5134C5,52RTP11,,Metro Universidad - Cierre de circuito Santo Tomás Ajusco,,,SH5134C2,0,52124C222
+CMX5134C5,53RTP13,,Metro Universidad - Cierre de circuito Santo Tomás Ajusco,,,SH5134C2,0,53134C212
+CMX5134C5,53RTP13,,Metro Universidad - Cierre de circuito Santo Tomás Ajusco,,,SH5134C2,0,53124C224
+CMX5134D7,51RTP19,,Topilejo - Metro Universidad,,,SH5134D1,0,51134D119
+CMX5134D7,51RTP19,,Topilejo - Metro Universidad,,,SH5134D1,0,51134D121
+CMX5134D7,52RTP11,,Topilejo - Metro Universidad,,,SH5134D1,0,52134D111
+CMX5134D7,52RTP11,,Topilejo - Metro Universidad,,,SH5134D1,0,52134D123
+CMX5134D7,53RTP13,,Topilejo - Metro Universidad,,,SH5134D1,0,53134D113
+CMX5134D7,53RTP13,,Topilejo - Metro Universidad,,,SH5134D1,0,53134D125
+CMX5134D7,51RTP19,,Metro Universidad - Topilejo,,,SH5134D2,0,51134D210
+CMX5134D7,51RTP19,,Metro Universidad - Topilejo,,,SH5134D2,0,51134D222
+CMX5134D7,52RTP11,,Metro Universidad - Topilejo,,,SH5134D2,0,52134D212
+CMX5134D7,52RTP11,,Metro Universidad - Topilejo,,,SH5134D2,0,52134D224
+CMX5134D7,53RTP13,,Metro Universidad - Topilejo,,,SH5134D2,0,53134D214
+CMX5134D7,53RTP13,,Metro Universidad - Topilejo,,,SH5134D2,0,53134D226
+CMX5034A0,51RTP19,,Metro Balderas - Cierre de Circuito Santa Fe,,,SH5034A1,0,51034A112
+CMX5034A0,51RTP19,,Metro Balderas - Cierre de Circuito Santa Fe,,,SH5034A1,0,51034A124
+CMX5034A0,52RTP11,,Metro Balderas - Cierre de Circuito Santa Fe,,,SH5034A1,0,52034A114
+CMX5034A0,52RTP11,,Metro Balderas - Cierre de Circuito Santa Fe,,,SH5034A1,0,52034A126
+CMX5034A0,53RTP13,,Metro Balderas - Cierre de Circuito Santa Fe,,,SH5034A1,0,53034A116
+CMX5034A0,53RTP13,,Metro Balderas - Cierre de Circuito Santa Fe,,,SH5034A1,0,53034A128
+CMX5034A0,51RTP19,,Cierre de circuito Santa Fe - Metro Balderas,,,SH5034A2,0,51034A213
+CMX5034A0,51RTP19,,Cierre de circuito Santa Fe - Metro Balderas,,,SH5034A2,0,51034A225
+CMX5034A0,52RTP11,,Cierre de circuito Santa Fe - Metro Balderas,,,SH5034A2,0,52034A215
+CMX5034A0,52RTP11,,Cierre de circuito Santa Fe - Metro Balderas,,,SH5034A2,0,52034A227
+CMX5034A0,53RTP13,,Cierre de circuito Santa Fe - Metro Balderas,,,SH5034A2,0,53034A217
+CMX60TL16,62TL109,,Xochimilco - Tasqueña,,,SH60TL11,0,620TL1112
+CMX5034A0,53RTP13,,Cierre de circuito Santa Fe - Metro Balderas,,,SH5034A2,0,53034A229
+CMX60TL16,63TL101,,Xochimilco - Tasqueña,,,SH60TL11,0,630TL1114
+CMX60TL16,63TL101,,Tasqueña - Xochimilco,,,SH60TL12,0,630TL1215
+CMX300L18,31L1000,,Indios Verdes - El Caminero,,,SH300L11,0,3100L1113
+CMX300L18,31L1000,,El Caminero - Indios Verdes ,,,SH300L12,0,3100L1214
+CMX500111,51RTP19,,Aragón - Metro Chapultepec,,,SH500112,0,510011113
+CMX500111,51RTP19,,Aragón - Metro Chapultepec,,,SH500112,0,510011125
+CMX500111,52RTP11,,Aragón - Metro Chapultepec,,,SH500112,0,520011115
+CMX500111,52RTP11,,Aragón - Metro Chapultepec,,,SH500112,0,520011127
+CMX500111,53RTP13,,Aragón - Metro Chapultepec,,,SH500112,0,530011117
+CMX500111,53RTP13,,Aragón - Metro Chapultepec,,,SH500112,0,530011129
+CMX500111,51RTP19,,Metro Chapultepec - Aragón,,,SH500111,0,510011214
+CMX500111,51RTP19,,Metro Chapultepec - Aragón,,,SH500111,0,510011226
+CMX500111,52RTP11,,Metro Chapultepec - Aragón,,,SH500111,0,520011216
+CMX500111,52RTP11,,Metro Chapultepec - Aragón,,,SH500111,0,520011228
+CMX500111,53RTP13,,Metro Chapultepec - Aragón,,,SH500111,0,530011218
+CMX500111,53RTP13,,Metro Chapultepec - Aragón,,,SH500111,0,530011220
+CMX5011A3,51RTP19,,Aragón - Metro Chapultepec por Avenida 604,,,SH5011A1,0,51011A115
+CMX5011A3,51RTP19,,Aragón - Metro Chapultepec por Avenida 604,,,SH5011A1,0,51011A127
+CMX5011A3,52RTP11,,Aragón - Metro Chapultepec por Avenida 604,,,SH5011A1,0,52011A117
+CMX5011A3,52RTP11,,Aragón - Metro Chapultepec por Avenida 604,,,SH5011A1,0,52011A129
+CMX5011A3,53RTP13,,Aragón - Metro Chapultepec por Avenida 604,,,SH5011A1,0,53011A119
+CMX5011A3,53RTP13,,Aragón - Metro Chapultepec por Avenida 604,,,SH5011A1,0,53011A121
+CMX5011A3,51RTP19,,Metro Chapultepec - Aragón por Avenida 604,,,SH5011A2,0,51011A216
+CMX5011A3,51RTP19,,Metro Chapultepec - Aragón por Avenida 604,,,SH5011A2,0,51011A228
+CMX5011A3,52RTP11,,Metro Chapultepec - Aragón por Avenida 604,,,SH5011A2,0,52011A218
+CMX300L18,31L1000,,Indios Verdes - Dr. Gálvez,,,SH300L13,0,3100L1315
+CMX5011A3,52RTP11,,Metro Chapultepec - Aragón por Avenida 604,,,SH5011A2,0,52011A220
+CMX5011A3,53RTP13,,Metro Chapultepec - Aragón por Avenida 604,,,SH5011A2,0,53011A210
+CMX5011A3,53RTP13,,Metro Chapultepec - Aragón por Avenida 604,,,SH5011A2,0,53011A222
+CMX300L18,31L1000,,Indios Verdes - Dr. Gálvez,,,SH300L13,0,3100L1327
+CMX300L18,31L1000,,Indios Verdes - Dr. Gálvez,,,SH300L13,0,3100L1339
+CMX400017,42TRL14,,Central de Autobuses del Norte - Central de Autobuses del Sur,,,SH400011,0,420001113
+CMX400017,43TRL16,,Central de Autobuses del Norte - Central de Autobuses del Sur,,,SH400011,0,430001115
+CMX400017,44TRL18,,Central de Autobuses del Norte - Central de Autobuses del Sur,,,SH400011,0,440001117
+CMX300L18,31L1000,,Indios Verdes - Glorieta de Los Insurgentes,,,SH300L15,0,3100L1517
+CMX300L18,31L1000,,Glorieta de Los Insurgentes - Indios Verdes,,,SH300L16,0,3100L1618
+CMX400017,42TRL14,,Central de Autobuses del Sur - Central de Autobuses del Norte,,,SH400012,0,420001214
+CMX300L18,31L1000,,Buenavista - El Caminero,,,SH300L17,0,3100L1719
+CMX400017,43TRL16,,Central de Autobuses del Sur - Central de Autobuses del Norte,,,SH400012,0,430001216
+CMX300L18,31L1000,,El Caminero - Buenavista,,,SH300L18,0,3100L1810
+CMX400017,44TRL18,,Central de Autobuses del Sur - Central de Autobuses del Norte,,,SH400012,0,440001218
+CMX400029,41TRL12,,Metro Chapultepec - Metro Velódromo,,,SH400022,0,420002115
+CMX400029,43TRL16,,Metro Chapultepec - Metro Velódromo,,,SH400022,0,430002117
+CMX300L32,31L1000,,Etiopía - Tenayuca,,,SH300L31,0,3100L3117
+CMX400029,44TRL18,,Metro Chapultepec - Metro Velódromo,,,SH400022,0,440002119
+CMX300L32,31L1000,,Tenayuca - Etiopía,,,SH300L32,0,3100L3218
+CMX300L32,31L1000,,Tenayuca - Buenavista,,,SH300L33,0,3100L3319
+CMX300L32,31L1000,,Buenavista - Tenayuca,,,SH300L34,0,3100L3410
+CMX400029,41TRL12,,Metro Velódromo - Metro Chapultepec,,,SH400021,0,420002216
+CMX300L32,31L1000,,Tenayuca - La Raza,,,SH300L35,0,3100L3511
+CMX400029,43TRL16,,Metro Velódromo - Metro Chapultepec,,,SH400021,0,430002218
+CMX300L32,31L1000,,Tenayuca - Balderas,,,SH300L37,0,3100L3713
+CMX400029,44TRL18,,Metro Velódromo - Metro Chapultepec,,,SH400021,0,440002210
+CMX300L32,31L1000,,Balderas - Tenayuca,,,SH300L38,0,3100L3814
+CMX400031,41TRL12,,Metro Mixcoac - San Andrés Tetepilco,,,SH400031,0,420003117
+CMX400031,43TRL16,,Metro Mixcoac - San Andrés Tetepilco,,,SH400031,0,430003119
+CMX400031,44TRL18,,Metro Mixcoac - San Andrés Tetepilco,,,SH400031,0,440003111
+CMX400031,41TRL12,,San Andrés Tetepilco - Metro Mixcoac,,,SH400032,0,420003218
+CMX400031,43TRL16,,San Andrés Tetepilco - Metro Mixcoac,,,SH400032,0,430003210
+CMX300L32,32L1002,,Tenayuca - Etiopía,,,SH300L32,0,3200L3210
+CMX400031,44TRL18,,San Andrés Tetepilco - Metro Mixcoac,,,SH400032,0,440003216
+CMX300L32,32L1002,,Tenayuca - Etiopía,,,SH300L32,0,3200L3222
+CMX300L32,32L1002,,Tenayuca - Etiopía,,,SH300L32,0,3200L3234
+CMX400082,41TRL12,,Terminal Zacatenco,,,SH400081,0,420008118
+CMX300L32,32L1002,,Etiopía - Tenayuca,,,SH300L31,0,3200L3119
+CMX300L32,32L1002,,Etiopía - Tenayuca,,,SH300L31,0,3200L3121
+CMX300L32,32L1002,,Etiopía - Tenayuca,,,SH300L31,0,3200L3133
+CMX300L32,32L1002,,Tenayuca - Buenavista,,,SH300L33,0,3200L3311
+CMX300L32,32L1002,,Tenayuca - Buenavista,,,SH300L33,0,3200L3323
+CMX300L32,32L1002,,Tenayuca - Buenavista,,,SH300L33,0,3200L3335
+CMX400043,41TRL12,,Metro Blvd. Puerto Aéreo - Metro El Rosario,,,SH400041,0,410004117
+CMX300L32,32L1002,,Buenavista - Tenayuca,,,SH300L34,0,3200L3412
+CMX300L32,32L1002,,Buenavista - Tenayuca,,,SH300L34,0,3200L3424
+CMX400043,43TRL16,,Metro Blvd. Puerto Aéreo - Metro El Rosario,,,SH400041,0,420004119
+CMX300L32,32L1002,,Buenavista - Tenayuca,,,SH300L34,0,3200L3436
+CMX300L32,32L1002,,Tenayuca - La Raza,,,SH300L35,0,3200L3513
+CMX300L32,32L1002,,Tenayuca - La Raza,,,SH300L35,0,3200L3525
+CMX500123,51RTP19,,Aragón - Panteón San Isidro,,,SH500121,0,510012115
+CMX500123,51RTP19,,Aragón - Panteón San Isidro,,,SH500121,0,510012127
+CMX500123,52RTP11,,Aragón - Panteón San Isidro,,,SH500121,0,520012117
+CMX500123,52RTP11,,Aragón - Panteón San Isidro,,,SH500121,0,520012129
+CMX500123,53RTP13,,Aragón - Panteón San Isidro,,,SH500121,0,530012119
+CMX500123,53RTP13,,Aragón - Panteón San Isidro,,,SH500121,0,530012121
+CMX500123,51RTP19,,Panteón San Isidro - Aragón,,,SH500122,0,510012216
+CMX300L32,33L1004,,Tenayuca - Etiopía,,,SH300L32,0,3300L3212
+CMX500123,51RTP19,,Panteón San Isidro - Aragón,,,SH500122,0,510012228
+CMX300L32,33L1004,,Tenayuca - Etiopía,,,SH300L32,0,3300L3224
+CMX500123,52RTP11,,Panteón San Isidro - Aragón,,,SH500122,0,520012218
+CMX400043,44TRL18,,Metro Blvd. Puerto Aéreo - Metro El Rosario,,,SH400041,0,430004110
+CMX500123,52RTP11,,Panteón San Isidro - Aragón,,,SH500122,0,520012220
+CMX300L32,33L1004,,Tenayuca - Etiopía,,,SH300L32,0,3300L3236
+CMX500123,53RTP13,,Panteón San Isidro - Aragón,,,SH500122,0,530012210
+CMX500123,53RTP13,,Panteón San Isidro - Aragón,,,SH500122,0,530012222
+CMX500186,51RTP19,,Metro Cuatro Caminos - Colonia Moctezuma 2da. Sección,,,SH500181,0,510018118
+CMX500186,51RTP19,,Metro Cuatro Caminos - Colonia Moctezuma 2da. Sección,,,SH500181,0,510018120
+CMX300L32,33L1004,,Etiopía - Tenayuca,,,SH300L31,0,3300L3111
+CMX500186,52RTP11,,Metro Cuatro Caminos - Colonia Moctezuma 2da. Sección,,,SH500181,0,520018110
+CMX500186,52RTP11,,Metro Cuatro Caminos - Colonia Moctezuma 2da. Sección,,,SH500181,0,520018122
+CMX300L32,33L1004,,Etiopía - Tenayuca,,,SH300L31,0,3300L3123
+CMX500186,53RTP13,,Metro Cuatro Caminos - Colonia Moctezuma 2da. Sección,,,SH500181,0,530018112
+CMX500186,53RTP13,,Metro Cuatro Caminos - Colonia Moctezuma 2da. Sección,,,SH500181,0,530018124
+CMX300L32,33L1004,,Etiopía - Tenayuca,,,SH300L31,0,3300L3135
+CMX500186,51RTP19,,Colonia Moctezuma 2da. Sección - Metro Cuatro Caminos,,,SH500182,0,510018219
+CMX500186,51RTP19,,Colonia Moctezuma 2da. Sección - Metro Cuatro Caminos,,,SH500182,0,510018221
+CMX300L32,33L1004,,Tenayuca - Buenavista,,,SH300L33,0,3300L3313
+CMX500186,52RTP11,,Colonia Moctezuma 2da. Sección - Metro Cuatro Caminos,,,SH500182,0,520018211
+CMX500186,52RTP11,,Colonia Moctezuma 2da. Sección - Metro Cuatro Caminos,,,SH500182,0,520018223
+CMX500186,53RTP13,,Colonia Moctezuma 2da. Sección - Metro Cuatro Caminos,,,SH500182,0,530018213
+CMX500186,53RTP13,,Colonia Moctezuma 2da. Sección - Metro Cuatro Caminos,,,SH500182,0,530018225
+CMX500198,51RTP19,,Parque México - Metro El Rosario por Cuitláhuac,,,SH500192,0,510019110
+CMX500198,51RTP19,,Parque México - Metro El Rosario por Cuitláhuac,,,SH500192,0,510019122
+CMX500198,52RTP11,,Parque México - Metro El Rosario por Cuitláhuac,,,SH500192,0,520019112
+CMX400068,43TRL16,,Metro Chapultepec - Metro El Rosario,,,SH400061,0,420006114
+CMX500198,52RTP11,,Parque México - Metro El Rosario por Cuitláhuac,,,SH500192,0,520019124
+CMX500198,53RTP13,,Parque México - Metro El Rosario por Cuitláhuac,,,SH500192,0,530019114
+CMX500198,53RTP13,,Parque México - Metro El Rosario por Cuitláhuac,,,SH500192,0,530019126
+CMX500198,51RTP19,,Metro El Rosario - Parque México por Cuitláhuac,,,SH500191,0,510019211
+CMX500198,51RTP19,,Metro El Rosario - Parque México por Cuitláhuac,,,SH500191,0,510019223
+CMX400068,41TRL12,,Metro Chapultepec - Metro El Rosario,,,SH400061,0,410006112
+CMX500198,52RTP11,,Metro El Rosario - Parque México por Cuitláhuac,,,SH500191,0,520019213
+CMX500198,52RTP11,,Metro El Rosario - Parque México por Cuitláhuac,,,SH500191,0,520019225
+CMX500198,53RTP13,,Metro El Rosario - Parque México por Cuitláhuac,,,SH500191,0,530019215
+CMX500198,53RTP13,,Metro El Rosario - Parque México por Cuitláhuac,,,SH500191,0,530019227
+CMX5019A1,51RTP19,,Metro El Rosario - Parque México por Plan de San Luis,,,SH5019A2,0,51019A113
+CMX400068,44TRL18,,Metro Chapultepec - Metro El Rosario,,,SH400061,0,430006116
+CMX5019A1,51RTP19,,Metro El Rosario - Parque México por Plan de San Luis,,,SH5019A2,0,51019A125
+CMX300L44,31L1000,,Buenavista - San Lázaro Circuito Norte,,,SH300L41,0,3100L4119
+CMX5019A1,52RTP11,,Metro El Rosario - Parque México por Plan de San Luis,,,SH5019A2,0,52019A115
+CMX5019A1,52RTP11,,Metro El Rosario - Parque México por Plan de San Luis,,,SH5019A2,0,52019A127
+CMX400068,41TRL12,,Metro El Rosario - Metro Chapultepec,,,SH400062,0,410006124
+CMX5019A1,53RTP13,,Metro El Rosario - Parque México por Plan de San Luis,,,SH5019A2,0,53019A117
+CMX5019A1,53RTP13,,Metro El Rosario - Parque México por Plan de San Luis,,,SH5019A2,0,53019A129
+CMX300L44,31L1000,,Buenavista - San Lázaro Circuito Norte,,,SH300L41,0,3100L4121
+CMX400068,43TRL16,,Metro El Rosario - Metro Chapultepec,,,SH400062,0,420006126
+CMX5019A1,51RTP19,,Parque México - Metro Rosario por Plan de San Luis,,,SH5019A1,0,51019A214
+CMX400068,44TRL18,,Metro El Rosario - Metro Chapultepec,,,SH400062,0,430006128
+CMX300L44,31L1000,,Buenavista - San Lázaro Circuito Norte,,,SH300L41,0,3100L4133
+CMX5019A1,51RTP19,,Parque México - Metro Rosario por Plan de San Luis,,,SH5019A1,0,51019A226
+CMX5019A1,52RTP11,,Parque México - Metro Rosario por Plan de San Luis,,,SH5019A1,0,52019A216
+CMX5019A1,52RTP11,,Parque México - Metro Rosario por Plan de San Luis,,,SH5019A1,0,52019A228
+CMX5019A1,53RTP13,,Parque México - Metro Rosario por Plan de San Luis,,,SH5019A1,0,53019A218
+CMX5019A1,53RTP13,,Parque México - Metro Rosario por Plan de San Luis,,,SH5019A1,0,53019A220
+CMX5027A1,51RTP19,,Reclusorio Norte - Metro Hidalgo/Alameda Central,,,SH5027A1,0,51027A113
+CMX5027A1,51RTP19,,Reclusorio Norte - Metro Hidalgo/Alameda Central,,,SH5027A1,0,51027A125
+CMX300L44,31L1000,,Buenavista - San Lázaro Circuito Sur,,,SH300L42,0,3100L4210
+CMX5027A1,52RTP11,,Reclusorio Norte - Metro Hidalgo/Alameda Central,,,SH5027A1,0,52027A115
+CMX5027A1,52RTP11,,Reclusorio Norte - Metro Hidalgo/Alameda Central,,,SH5027A1,0,52027A127
+CMX300L44,31L1000,,Buenavista - San Lázaro Circuito Sur,,,SH300L42,0,3100L4222
+CMX5027A1,53RTP13,,Reclusorio Norte - Metro Hidalgo/Alameda Central,,,SH5027A1,0,53027A117
+CMX5027A1,53RTP13,,Reclusorio Norte - Metro Hidalgo/Alameda Central,,,SH5027A1,0,53027A129
+CMX5027A1,51RTP19,,Metro Hidalgo/Alameda Central - Reclusorio Norte,,,SH5027A2,0,51027A214
+CMX300L44,31L1000,,Buenavista - San Lázaro Circuito Sur,,,SH300L42,0,3100L4234
+CMX5027A1,51RTP19,,Metro Hidalgo/Alameda Central - Reclusorio Norte,,,SH5027A2,0,51027A226
+CMX5027A1,52RTP11,,Metro Hidalgo/Alameda Central - Reclusorio Norte,,,SH5027A2,0,52027A216
+CMX5027A1,52RTP11,,Metro Hidalgo/Alameda Central - Reclusorio Norte,,,SH5027A2,0,52027A228
+CMX5027A1,53RTP13,,Metro Hidalgo/Alameda Central - Reclusorio Norte,,,SH5027A2,0,53027A218
+CMX300L44,31L1000,,Buenavista - AICM T1 y T2,,,SH300L43,0,3100L4311
+CMX5027A1,53RTP13,,Metro Hidalgo/Alameda Central - Reclusorio Norte,,,SH5027A2,0,53027A220
+CMX500592,51RTP19,,Metro Rosario  - Metro Chapultepec,,,SH500591,0,510059114
+CMX500592,51RTP19,,Metro Rosario  - Metro Chapultepec,,,SH500591,0,510059126
+CMX500592,52RTP11,,Metro Rosario  - Metro Chapultepec,,,SH500591,0,520059116
+CMX500592,52RTP11,,Metro Rosario  - Metro Chapultepec,,,SH500591,0,520059128
+CMX500592,53RTP13,,Metro Rosario  - Metro Chapultepec,,,SH500591,0,530059118
+CMX500592,53RTP13,,Metro Rosario  - Metro Chapultepec,,,SH500591,0,530059120
+CMX500592,51RTP19,,Metro Chapultepec - Metro Rosario,,,SH500592,0,510059215
+CMX500592,51RTP19,,Metro Chapultepec - Metro Rosario,,,SH500592,0,510059227
+CMX500592,52RTP11,,Metro Chapultepec - Metro Rosario,,,SH500592,0,520059217
+CMX500592,52RTP11,,Metro Chapultepec - Metro Rosario,,,SH500592,0,520059229
+CMX500592,53RTP13,,Metro Chapultepec - Metro Rosario,,,SH500592,0,530059219
+CMX500592,53RTP13,,Metro Chapultepec - Metro Rosario,,,SH500592,0,530059221
+CMX5059A0,51RTP19,,Metro Rosario - Sullivan,,,SH5059A1,0,51059A112
+CMX5059A0,51RTP19,,Metro Rosario - Sullivan,,,SH5059A1,0,51059A124
+CMX5059A0,52RTP11,,Metro Rosario - Sullivan,,,SH5059A1,0,52059A114
+CMX5059A0,52RTP11,,Metro Rosario - Sullivan,,,SH5059A1,0,52059A126
+CMX5059A0,53RTP13,,Metro Rosario - Sullivan,,,SH5059A1,0,53059A116
+CMX5059A0,53RTP13,,Metro Rosario - Sullivan,,,SH5059A1,0,53059A128
+CMX5059A0,51RTP19,,Sullivan - Metro Rosario,,,SH5059A2,0,51059A213
+CMX5059A0,51RTP19,,Sullivan - Metro Rosario,,,SH5059A2,0,51059A225
+CMX5059A0,52RTP11,,Sullivan - Metro Rosario,,,SH5059A2,0,52059A215
+CMX5059A0,52RTP11,,Sullivan - Metro Rosario,,,SH5059A2,0,52059A227
+CMX5059A0,53RTP13,,Sullivan - Metro Rosario,,,SH5059A2,0,53059A217
+CMX5059A0,53RTP13,,Sullivan - Metro Rosario,,,SH5059A2,0,53059A229
+CMX501075,51RTP19,,Metro Rosario - Metro Tacuba,,,SH501071,0,510107117
+CMX501075,51RTP19,,Metro Rosario - Metro Tacuba,,,SH501071,0,510107129
+CMX501075,52RTP11,,Metro Rosario - Metro Tacuba,,,SH501071,0,520107119
+CMX501075,52RTP11,,Metro Rosario - Metro Tacuba,,,SH501071,0,520107121
+CMX501075,53RTP13,,Metro Rosario - Metro Tacuba,,,SH501071,0,530107111
+CMX501075,53RTP13,,Metro Rosario - Metro Tacuba,,,SH501071,0,530107123
+CMX501075,51RTP19,,Metro Tacuba - Metro Rosario,,,SH501072,0,510107218
+CMX501075,51RTP19,,Metro Tacuba - Metro Rosario,,,SH501072,0,510107220
+CMX501075,52RTP11,,Metro Tacuba - Metro Rosario,,,SH501072,0,520107210
+CMX501075,52RTP11,,Metro Tacuba - Metro Rosario,,,SH501072,0,520107222
+CMX501075,53RTP13,,Metro Tacuba - Metro Rosario,,,SH501072,0,530107212
+CMX501075,53RTP13,,Metro Tacuba - Metro Rosario,,,SH501072,0,530107224
+CMX5107B0,51RTP19,,Metro Martín Carrera - Metro Tacuba por Ceylán,,,SH5107B1,0,51017B113
+CMX5107B0,51RTP19,,Metro Martín Carrera - Metro Tacuba por Ceylán,,,SH5107B1,0,51017B125
+CMX5107B0,52RTP11,,Metro Martín Carrera - Metro Tacuba por Ceylán,,,SH5107B1,0,52017B115
+CMX5107B0,52RTP11,,Metro Martín Carrera - Metro Tacuba por Ceylán,,,SH5107B1,0,52017B127
+CMX5107B0,53RTP13,,Metro Martín Carrera - Metro Tacuba por Ceylán,,,SH5107B1,0,53017B117
+CMX5107B0,53RTP13,,Metro Martín Carrera - Metro Tacuba por Ceylán,,,SH5107B1,0,53017B129
+CMX5107B0,51RTP19,,Metro Tacuba -  Metro Martín Carrera  por Ceylán,,,SH5107B2,0,51017B214
+CMX5107B0,51RTP19,,Metro Tacuba -  Metro Martín Carrera  por Ceylán,,,SH5107B2,0,51017B226
+CMX5107B0,52RTP11,,Metro Tacuba -  Metro Martín Carrera  por Ceylán,,,SH5107B2,0,52017B216
+CMX5107B0,52RTP11,,Metro Tacuba -  Metro Martín Carrera  por Ceylán,,,SH5107B2,0,52017B228
+CMX5107B0,53RTP13,,Metro Tacuba -  Metro Martín Carrera  por Ceylán,,,SH5107B2,0,53017B218
+CMX5107B0,53RTP13,,Metro Tacuba -  Metro Martín Carrera  por Ceylán,,,SH5107B2,0,53017B220
+CMX5012X5,51RTP19,,Panteón San Isidro - Aragón,,,SH5012X1,0,51012X117
+CMX5012X5,51RTP19,,Panteón San Isidro - Aragón,,,SH5012X1,0,51012X129
+CMX5012X5,52RTP11,,Panteón San Isidro - Aragón,,,SH5012X1,0,52012X119
+CMX5012X5,52RTP11,,Panteón San Isidro - Aragón,,,SH5012X1,0,52012X121
+CMX5012X5,53RTP13,,Panteón San Isidro - Aragón,,,SH5012X1,0,53012X111
+CMX5012X5,53RTP13,,Panteón San Isidro - Aragón,,,SH5012X1,0,53012X123
+CMX5012X5,51RTP19,,Aragón - Panteón San Isidro,,,SH5012X2,0,51012X218
+CMX5012X5,51RTP19,,Aragón - Panteón San Isidro,,,SH5012X2,0,51012X220
+CMX5012X5,52RTP11,,Aragón - Panteón San Isidro,,,SH5012X2,0,52012X210
+CMX5012X5,52RTP11,,Aragón - Panteón San Isidro,,,SH5012X2,0,52012X222
+CMX5012X5,53RTP13,,Aragón - Panteón San Isidro,,,SH5012X2,0,53012X212
+CMX5012X5,53RTP13,,Aragón - Panteón San Isidro,,,SH5012X2,0,53012X224
+CMX5107X9,51RTP19,,Metro Martín Carrera - Metro Tacuba,,,SH5107X1,0,51107X111
+CMX5107X9,51RTP19,,Metro Martín Carrera - Metro Tacuba,,,SH5107X1,0,51107X123
+CMX5107X9,52RTP11,,Metro Martín Carrera - Metro Tacuba,,,SH5107X1,0,52107X113
+CMX5107X9,52RTP11,,Metro Martín Carrera - Metro Tacuba,,,SH5107X1,0,52107X125
+CMX5107X9,53RTP13,,Metro Martín Carrera - Metro Tacuba,,,SH5107X1,0,53107X115
+CMX5107X9,53RTP13,,Metro Martín Carrera - Metro Tacuba,,,SH5107X1,0,53107X127
+CMX5107X9,51RTP19,,Metro Tacuba - Metro Martín Carrera,,,SH5107X2,0,51107X212
+CMX5107X9,51RTP19,,Metro Tacuba - Metro Martín Carrera,,,SH5107X2,0,51107X224
+CMX5107X9,52RTP11,,Metro Tacuba - Metro Martín Carrera,,,SH5107X2,0,52107X214
+CMX5107X9,52RTP11,,Metro Tacuba - Metro Martín Carrera,,,SH5107X2,0,52107X226
+CMX5107X9,53RTP13,,Metro Tacuba - Metro Martín Carrera,,,SH5107X2,0,53107X216
+CMX5107X9,53RTP13,,Metro Tacuba - Metro Martín Carrera,,,SH5107X2,0,53107X228
+CMX502002,51RTP19,,Oceanía Norte,,,SH502002,0,510200114
+CMX502002,51RTP19,,Oceanía Norte,,,SH502002,0,510200126
+CMX502002,52RTP11,,Oceanía Norte,,,SH502002,0,520200116
+CMX502002,52RTP11,,Oceanía Norte,,,SH502002,0,520200128
+CMX502002,53RTP13,,Oceanía Norte,,,SH502002,0,530200118
+CMX502002,53RTP13,,Oceanía Norte,,,SH502002,0,530200120
+CMX502002,51RTP19,,Oceanía Sur,,,SH502001,0,510200215
+CMX502002,51RTP19,,Oceanía Sur,,,SH502001,0,510200227
+CMX502002,52RTP11,,Oceanía Sur,,,SH502001,0,520200217
+CMX502002,52RTP11,,Oceanía Sur,,,SH502001,0,520200229
+CMX502002,53RTP13,,Oceanía Sur,,,SH502001,0,530200219
+CMX502002,53RTP13,,Oceanía Sur,,,SH502001,0,530200221
+CMX500236,51RTP19,,Metro La Raza -  Colonia El Tepetatal (El Charco),,,SH500231,0,510023118
+CMX500236,51RTP19,,Metro La Raza -  Colonia El Tepetatal (El Charco),,,SH500231,0,510023120
+CMX500236,52RTP11,,Metro La Raza -  Colonia El Tepetatal (El Charco),,,SH500231,0,520023110
+CMX500236,52RTP11,,Metro La Raza -  Colonia El Tepetatal (El Charco),,,SH500231,0,520023122
+CMX500236,53RTP13,,Metro La Raza -  Colonia El Tepetatal (El Charco),,,SH500231,0,530023112
+CMX500236,53RTP13,,Metro La Raza -  Colonia El Tepetatal (El Charco),,,SH500231,0,530023124
+CMX500236,51RTP19,,Colonia El Tepetatal (El Charco) -  Metro La Raza,,,SH500232,0,510023219
+CMX500236,51RTP19,,Colonia El Tepetatal (El Charco) -  Metro La Raza,,,SH500232,0,510023221
+CMX500236,52RTP11,,Colonia El Tepetatal (El Charco) -  Metro La Raza,,,SH500232,0,520023211
+CMX500236,52RTP11,,Colonia El Tepetatal (El Charco) -  Metro La Raza,,,SH500232,0,520023223
+CMX500236,53RTP13,,Colonia El Tepetatal (El Charco) -  Metro La Raza,,,SH500232,0,530023213
+CMX500236,53RTP13,,Colonia El Tepetatal (El Charco) -  Metro La Raza,,,SH500232,0,530023225
+CMX500251,51RTP19,,Metro Potrero - Zacatenco,,,SH500252,0,510025113
+CMX500251,51RTP19,,Metro Potrero - Zacatenco,,,SH500252,0,510025125
+CMX500251,52RTP11,,Metro Potrero - Zacatenco,,,SH500252,0,520025115
+CMX500251,52RTP11,,Metro Potrero - Zacatenco,,,SH500252,0,520025127
+CMX500251,53RTP13,,Metro Potrero - Zacatenco,,,SH500252,0,530025117
+CMX500251,53RTP13,,Metro Potrero - Zacatenco,,,SH500252,0,530025129
+CMX500251,51RTP19,,Zacatenco - Metro Potrero,,,SH500251,0,510025214
+CMX500251,51RTP19,,Zacatenco - Metro Potrero,,,SH500251,0,510025226
+CMX500251,52RTP11,,Zacatenco - Metro Potrero,,,SH500251,0,520025216
+CMX500251,52RTP11,,Zacatenco - Metro Potrero,,,SH500251,0,520025228
+CMX500251,53RTP13,,Zacatenco - Metro Potrero,,,SH500251,0,530025218
+CMX500251,53RTP13,,Zacatenco - Metro Potrero,,,SH500251,0,530025220
+CMX501012,51RTP19,,Metro Indios Verdes - Lomas de Cuautepec,,,SH501011,0,510101114
+CMX501012,51RTP19,,Metro Indios Verdes - Lomas de Cuautepec,,,SH501011,0,510101126
+CMX501012,52RTP11,,Metro Indios Verdes - Lomas de Cuautepec,,,SH501011,0,520101116
+CMX501012,52RTP11,,Metro Indios Verdes - Lomas de Cuautepec,,,SH501011,0,520101128
+CMX501012,53RTP13,,Metro Indios Verdes - Lomas de Cuautepec,,,SH501011,0,530101118
+CMX501012,53RTP13,,Metro Indios Verdes - Lomas de Cuautepec,,,SH501011,0,530101120
+CMX501012,51RTP19,,Lomas de Cuautepec - Metro Indios Verdes,,,SH501012,0,510101215
+CMX501012,51RTP19,,Lomas de Cuautepec - Metro Indios Verdes,,,SH501012,0,510101227
+CMX501012,52RTP11,,Lomas de Cuautepec - Metro Indios Verdes,,,SH501012,0,520101217
+CMX501012,52RTP11,,Lomas de Cuautepec - Metro Indios Verdes,,,SH501012,0,520101229
+CMX501012,53RTP13,,Lomas de Cuautepec - Metro Indios Verdes,,,SH501012,0,530101219
+CMX501012,53RTP13,,Lomas de Cuautepec - Metro Indios Verdes,,,SH501012,0,530101221
+CMX5101A2,51RTP19,,La Villa/Ferroplaza -  Ampliación Malacates,,,SH5101A2,0,51101A114
+CMX5101A2,51RTP19,,La Villa/Ferroplaza -  Ampliación Malacates,,,SH5101A2,0,51101A126
+CMX5101A2,52RTP11,,La Villa/Ferroplaza -  Ampliación Malacates,,,SH5101A2,0,52101A116
+CMX5101A2,52RTP11,,La Villa/Ferroplaza -  Ampliación Malacates,,,SH5101A2,0,52101A128
+CMX5101A2,53RTP13,,La Villa/Ferroplaza -  Ampliación Malacates,,,SH5101A2,0,53101A118
+CMX5101A2,53RTP13,,La Villa/Ferroplaza -  Ampliación Malacates,,,SH5101A2,0,53101A120
+CMX5101A2,51RTP19,,Ampliación Malacates -  La Villa/Ferroplaza,,,SH5101A1,0,51101A215
+CMX5101A2,51RTP19,,Ampliación Malacates -  La Villa/Ferroplaza,,,SH5101A1,0,51101A227
+CMX5101A2,52RTP11,,Ampliación Malacates -  La Villa/Ferroplaza,,,SH5101A1,0,52101A217
+CMX5101A2,52RTP11,,Ampliación Malacates -  La Villa/Ferroplaza,,,SH5101A1,0,52101A229
+CMX5101A2,53RTP13,,Ampliación Malacates -  La Villa/Ferroplaza,,,SH5101A1,0,53101A219
+CMX5101A2,53RTP13,,Ampliación Malacates -  La Villa/Ferroplaza,,,SH5101A1,0,53101A221
+CMX5101B4,51RTP19,,Colonia Forestal - La Villa/Ferroplaza ,,,SH5101B1,0,51101B116
+CMX5101B4,51RTP19,,Colonia Forestal - La Villa/Ferroplaza ,,,SH5101B1,0,51101B128
+CMX5101B4,52RTP11,,Colonia Forestal - La Villa/Ferroplaza ,,,SH5101B1,0,52101B118
+CMX5101B4,52RTP11,,Colonia Forestal - La Villa/Ferroplaza ,,,SH5101B1,0,52101B120
+CMX5101B4,53RTP13,,Colonia Forestal - La Villa/Ferroplaza ,,,SH5101B1,0,53101B110
+CMX5101B4,53RTP13,,Colonia Forestal - La Villa/Ferroplaza ,,,SH5101B1,0,53101B122
+CMX5101B4,51RTP19,,La Villa/Ferroplaza -  Colonia Forestal,,,SH5101B2,0,51101B217
+CMX5101B4,51RTP19,,La Villa/Ferroplaza -  Colonia Forestal,,,SH5101B2,0,51101B229
+CMX5101B4,52RTP11,,La Villa/Ferroplaza -  Colonia Forestal,,,SH5101B2,0,52101B219
+CMX5101B4,52RTP11,,La Villa/Ferroplaza -  Colonia Forestal,,,SH5101B2,0,52101B221
+CMX5101B4,53RTP13,,La Villa/Ferroplaza -  Colonia Forestal,,,SH5101B2,0,53101B211
+CMX5101B4,53RTP13,,La Villa/Ferroplaza -  Colonia Forestal,,,SH5101B2,0,53101B223
+CMX501024,51RTP19,,Metro Indios Verdes -  Colonia Cocoyotes (La Brecha),,,SH501021,0,510102116
+CMX501024,51RTP19,,Metro Indios Verdes -  Colonia Cocoyotes (La Brecha),,,SH501021,0,510102128
+CMX501024,52RTP11,,Metro Indios Verdes -  Colonia Cocoyotes (La Brecha),,,SH501021,0,520102118
+CMX501024,52RTP11,,Metro Indios Verdes -  Colonia Cocoyotes (La Brecha),,,SH501021,0,520102120
+CMX501024,53RTP13,,Metro Indios Verdes -  Colonia Cocoyotes (La Brecha),,,SH501021,0,530102110
+CMX501024,53RTP13,,Metro Indios Verdes -  Colonia Cocoyotes (La Brecha),,,SH501021,0,530102122
+CMX501024,51RTP19,,Colonia Cocoyotes (La Brecha) -  Metro Indios Verdes,,,SH501022,0,510102217
+CMX501024,51RTP19,,Colonia Cocoyotes (La Brecha) -  Metro Indios Verdes,,,SH501022,0,510102229
+CMX501024,52RTP11,,Colonia Cocoyotes (La Brecha) -  Metro Indios Verdes,,,SH501022,0,520102219
+CMX501024,52RTP11,,Colonia Cocoyotes (La Brecha) -  Metro Indios Verdes,,,SH501022,0,520102221
+CMX501024,53RTP13,,Colonia Cocoyotes (La Brecha) -  Metro Indios Verdes,,,SH501022,0,530102211
+CMX501024,53RTP13,,Colonia Cocoyotes (La Brecha) -  Metro Indios Verdes,,,SH501022,0,530102223
+CMX501036,51RTP19,,Metro La Raza (Línea 3) - Ampliación Malacates,,,SH501032,0,510103118
+CMX501036,51RTP19,,Metro La Raza (Línea 3) - Ampliación Malacates,,,SH501032,0,510103120
+CMX501036,52RTP11,,Metro La Raza (Línea 3) - Ampliación Malacates,,,SH501032,0,520103110
+CMX501036,52RTP11,,Metro La Raza (Línea 3) - Ampliación Malacates,,,SH501032,0,520103122
+CMX501036,53RTP13,,Metro La Raza (Línea 3) - Ampliación Malacates,,,SH501032,0,530103112
+CMX501036,53RTP13,,Metro La Raza (Línea 3) - Ampliación Malacates,,,SH501032,0,530103124
+CMX501036,51RTP19,,Ampliación Malacates - Metro La Raza (Línea 3),,,SH501031,0,510103219
+CMX501036,51RTP19,,Ampliación Malacates - Metro La Raza (Línea 3),,,SH501031,0,510103221
+CMX501036,52RTP11,,Ampliación Malacates - Metro La Raza (Línea 3),,,SH501031,0,520103211
+CMX501036,52RTP11,,Ampliación Malacates - Metro La Raza (Línea 3),,,SH501031,0,520103223
+CMX501036,53RTP13,,Ampliación Malacates - Metro La Raza (Línea 3),,,SH501031,0,530103213
+CMX501036,53RTP13,,Ampliación Malacates - Metro La Raza (Línea 3),,,SH501031,0,530103225
+CMX501048,51RTP19,,Colonia El Tepetatal (El Charco) -  Metro Potrero,,,SH501041,0,510104110
+CMX501048,51RTP19,,Colonia El Tepetatal (El Charco) -  Metro Potrero,,,SH501041,0,510104122
+CMX501048,52RTP11,,Colonia El Tepetatal (El Charco) -  Metro Potrero,,,SH501041,0,520104112
+CMX501048,52RTP11,,Colonia El Tepetatal (El Charco) -  Metro Potrero,,,SH501041,0,520104124
+CMX501048,53RTP13,,Colonia El Tepetatal (El Charco) -  Metro Potrero,,,SH501041,0,530104114
+CMX501048,53RTP13,,Colonia El Tepetatal (El Charco) -  Metro Potrero,,,SH501041,0,530104126
+CMX501048,51RTP19,,Metro Potrero -  Colonia El Tepetatal (El Charco),,,SH501042,0,510104211
+CMX501048,51RTP19,,Metro Potrero -  Colonia El Tepetatal (El Charco),,,SH501042,0,510104223
+CMX501048,52RTP11,,Metro Potrero -  Colonia El Tepetatal (El Charco),,,SH501042,0,520104213
+CMX501048,52RTP11,,Metro Potrero -  Colonia El Tepetatal (El Charco),,,SH501042,0,520104225
+CMX501048,53RTP13,,Metro Potrero -  Colonia El Tepetatal (El Charco),,,SH501042,0,530104215
+CMX501048,53RTP13,,Metro Potrero -  Colonia El Tepetatal (El Charco),,,SH501042,0,530104227
+CMX501085,51RTP19,,Colonia El Tepetatal (El Charco)  -  Metro Indios Verdes,,,SH501081,0,510108119
+CMX501085,51RTP19,,Colonia El Tepetatal (El Charco)  -  Metro Indios Verdes,,,SH501081,0,510108121
+CMX501085,52RTP11,,Colonia El Tepetatal (El Charco)  -  Metro Indios Verdes,,,SH501081,0,520108111
+CMX501085,52RTP11,,Colonia El Tepetatal (El Charco)  -  Metro Indios Verdes,,,SH501081,0,520108123
+CMX501085,53RTP13,,Colonia El Tepetatal (El Charco)  -  Metro Indios Verdes,,,SH501081,0,530108113
+CMX501085,53RTP13,,Colonia El Tepetatal (El Charco)  -  Metro Indios Verdes,,,SH501081,0,530108125
+CMX501085,51RTP19,,Metro Indios Verdes - El Tepetatal (El Charco),,,SH501082,0,510108210
+CMX501085,51RTP19,,Metro Indios Verdes - El Tepetatal (El Charco),,,SH501082,0,510108222
+CMX501085,52RTP11,,Metro Indios Verdes - El Tepetatal (El Charco),,,SH501082,0,520108212
+CMX501085,52RTP11,,Metro Indios Verdes - El Tepetatal (El Charco),,,SH501082,0,520108224
+CMX501085,53RTP13,,Metro Indios Verdes - El Tepetatal (El Charco),,,SH501082,0,530108214
+CMX501085,53RTP13,,Metro Indios Verdes - El Tepetatal (El Charco),,,SH501082,0,530108226
+CMX5023X8,51RTP19,,El Tepetatal (El Charco) - Metro La Raza (Línea 5) Expresso,,,SH5023X1,0,51023X110
+CMX5023X8,51RTP19,,El Tepetatal (El Charco) - Metro La Raza (Línea 5) Expresso,,,SH5023X1,0,51023X122
+CMX5023X8,52RTP11,,El Tepetatal (El Charco) - Metro La Raza (Línea 5) Expresso,,,SH5023X1,0,52023X112
+CMX5023X8,52RTP11,,El Tepetatal (El Charco) - Metro La Raza (Línea 5) Expresso,,,SH5023X1,0,52023X124
+CMX5023X8,53RTP13,,El Tepetatal (El Charco) - Metro La Raza (Línea 5) Expresso,,,SH5023X1,0,53023X114
+CMX5023X8,53RTP13,,El Tepetatal (El Charco) - Metro La Raza (Línea 5) Expresso,,,SH5023X1,0,53023X126
+CMX5023X8,51RTP19,,Metro La Raza (Línea 5) - El Tepetatal (El Charco) Expresso,,,SH5023X2,0,51023X211
+CMX5023X8,51RTP19,,Metro La Raza (Línea 5) - El Tepetatal (El Charco) Expresso,,,SH5023X2,0,51023X223
+CMX5023X8,52RTP11,,Metro La Raza (Línea 5) - El Tepetatal (El Charco) Expresso,,,SH5023X2,0,52023X213
+CMX5023X8,52RTP11,,Metro La Raza (Línea 5) - El Tepetatal (El Charco) Expresso,,,SH5023X2,0,52023X225
+CMX5023X8,53RTP13,,Metro La Raza (Línea 5) - El Tepetatal (El Charco) Expresso,,,SH5023X2,0,53023X215
+CMX5023X8,53RTP13,,Metro La Raza (Línea 5) - El Tepetatal (El Charco) Expresso,,,SH5023X2,0,53023X227
+CMX5162B9,51RTP19,,Campestre Potrero - Metro Zaragoza por Metro Tepalcates,,,SH5162B1,0,51162B110
+CMX5162B9,51RTP19,,Campestre Potrero - Metro Zaragoza por Metro Tepalcates,,,SH5162B1,0,51162B122
+CMX5162B9,52RTP11,,Campestre Potrero - Metro Zaragoza por Metro Tepalcates,,,SH5162B1,0,52162B112
+CMX5162B9,52RTP11,,Campestre Potrero - Metro Zaragoza por Metro Tepalcates,,,SH5162B1,0,52162B124
+CMX5162B9,53RTP13,,Campestre Potrero - Metro Zaragoza por Metro Tepalcates,,,SH5162B1,0,53162B114
+CMX5162B9,53RTP13,,Campestre Potrero - Metro Zaragoza por Metro Tepalcates,,,SH5162B1,0,53162B126
+CMX5162B9,51RTP19,,Metro Zaragoza - Campestre Potrero por Metro Tepalcates,,,SH5162B2,0,51162B211
+CMX5162B9,51RTP19,,Metro Zaragoza - Campestre Potrero por Metro Tepalcates,,,SH5162B2,0,51162B223
+CMX5162B9,52RTP11,,Metro Zaragoza - Campestre Potrero por Metro Tepalcates,,,SH5162B2,0,52162B213
+CMX5162B9,52RTP11,,Metro Zaragoza - Campestre Potrero por Metro Tepalcates,,,SH5162B2,0,52162B225
+CMX5162B9,53RTP13,,Metro Zaragoza - Campestre Potrero por Metro Tepalcates,,,SH5162B2,0,53162B215
+CMX5162B9,53RTP13,,Metro Zaragoza - Campestre Potrero por Metro Tepalcates,,,SH5162B2,0,53162B227
+CMX501632,51RTP19,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Guadalupe ,,,SH501632,0,510163114
+CMX501632,51RTP19,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Guadalupe ,,,SH501632,0,510163126
+CMX501632,52RTP11,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Guadalupe ,,,SH501632,0,520163116
+CMX501632,52RTP11,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Guadalupe ,,,SH501632,0,520163128
+CMX501632,53RTP13,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Guadalupe ,,,SH501632,0,530163118
+CMX501632,53RTP13,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Guadalupe ,,,SH501632,0,530163120
+CMX501632,51RTP19,,San Miguel Teotongo/Guadalupe -  Metro Zaragoza/M. Tepalcates,,,SH501631,0,510163215
+CMX501632,51RTP19,,San Miguel Teotongo/Guadalupe -  Metro Zaragoza/M. Tepalcates,,,SH501631,0,510163227
+CMX501632,52RTP11,,San Miguel Teotongo/Guadalupe -  Metro Zaragoza/M. Tepalcates,,,SH501631,0,520163217
+CMX501632,52RTP11,,San Miguel Teotongo/Guadalupe -  Metro Zaragoza/M. Tepalcates,,,SH501631,0,520163229
+CMX501632,53RTP13,,San Miguel Teotongo/Guadalupe -  Metro Zaragoza/M. Tepalcates,,,SH501631,0,530163219
+CMX501632,53RTP13,,San Miguel Teotongo/Guadalupe -  Metro Zaragoza/M. Tepalcates,,,SH501631,0,530163221
+CMX5163A7,51RTP19,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Torres ,,,SH5163A2,0,51163A119
+CMX5163A7,51RTP19,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Torres ,,,SH5163A2,0,51163A121
+CMX5163A7,52RTP11,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Torres ,,,SH5163A2,0,52163A111
+CMX5163A7,52RTP11,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Torres ,,,SH5163A2,0,52163A123
+CMX5163A7,53RTP13,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Torres ,,,SH5163A2,0,53163A113
+CMX5163A7,53RTP13,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Torres ,,,SH5163A2,0,53163A125
+CMX5163A7,51RTP19,,San Miguel Teotongo/Torres -  Metro Zaragoza/M. Tepalcates,,,SH5163A1,0,51163A210
+CMX5163A7,51RTP19,,San Miguel Teotongo/Torres -  Metro Zaragoza/M. Tepalcates,,,SH5163A1,0,51163A222
+CMX5163A7,52RTP11,,San Miguel Teotongo/Torres -  Metro Zaragoza/M. Tepalcates,,,SH5163A1,0,52163A212
+CMX5163A7,52RTP11,,San Miguel Teotongo/Torres -  Metro Zaragoza/M. Tepalcates,,,SH5163A1,0,52163A224
+CMX5163A7,53RTP13,,San Miguel Teotongo/Torres -  Metro Zaragoza/M. Tepalcates,,,SH5163A1,0,53163A214
+CMX5163A7,53RTP13,,San Miguel Teotongo/Torres -  Metro Zaragoza/M. Tepalcates,,,SH5163A1,0,53163A226
+CMX5163B9,51RTP19,,San Miguel Teotongo/Avisadero -  Metro Zaragoza/M. Tepalcates,,,SH5163B1,0,51163B111
+CMX5163B9,51RTP19,,San Miguel Teotongo/Avisadero -  Metro Zaragoza/M. Tepalcates,,,SH5163B1,0,51163B123
+CMX5163B9,52RTP11,,San Miguel Teotongo/Avisadero -  Metro Zaragoza/M. Tepalcates,,,SH5163B1,0,52163B113
+CMX5163B9,52RTP11,,San Miguel Teotongo/Avisadero -  Metro Zaragoza/M. Tepalcates,,,SH5163B1,0,52163B125
+CMX5163B9,53RTP13,,San Miguel Teotongo/Avisadero -  Metro Zaragoza/M. Tepalcates,,,SH5163B1,0,53163B115
+CMX5163B9,53RTP13,,San Miguel Teotongo/Avisadero -  Metro Zaragoza/M. Tepalcates,,,SH5163B1,0,53163B127
+CMX5163B9,51RTP19,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Avisadero  ,,,SH5163B2,0,51163B212
+CMX5163B9,51RTP19,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Avisadero  ,,,SH5163B2,0,51163B224
+CMX5163B9,52RTP11,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Avisadero  ,,,SH5163B2,0,52163B214
+CMX5163B9,52RTP11,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Avisadero  ,,,SH5163B2,0,52163B226
+CMX5163B9,53RTP13,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Avisadero  ,,,SH5163B2,0,53163B216
+CMX5163B9,53RTP13,, Metro Zaragoza/M. Tepalcates - San Miguel Teotongo/Avisadero  ,,,SH5163B2,0,53163B228
+CMX501671,51RTP19,, Metro Zaragoza/M. Tepalcates - Avisadero/Colonia Miravalle  ,,,SH501671,0,510167113
+CMX501671,51RTP19,, Metro Zaragoza/M. Tepalcates - Avisadero/Colonia Miravalle  ,,,SH501671,0,510167125
+CMX501671,52RTP11,, Metro Zaragoza/M. Tepalcates - Avisadero/Colonia Miravalle  ,,,SH501671,0,520167115
+CMX501671,52RTP11,, Metro Zaragoza/M. Tepalcates - Avisadero/Colonia Miravalle  ,,,SH501671,0,520167127
+CMX501671,53RTP13,, Metro Zaragoza/M. Tepalcates - Avisadero/Colonia Miravalle  ,,,SH501671,0,530167117
+CMX501671,53RTP13,, Metro Zaragoza/M. Tepalcates - Avisadero/Colonia Miravalle  ,,,SH501671,0,530167129
+CMX501671,51RTP19,,Avisadero/Colonia Miravalle - Metro Zaragoza/M. Tepalcates,,,SH501672,0,510167214
+CMX501671,51RTP19,,Avisadero/Colonia Miravalle - Metro Zaragoza/M. Tepalcates,,,SH501672,0,510167226
+CMX501671,52RTP11,,Avisadero/Colonia Miravalle - Metro Zaragoza/M. Tepalcates,,,SH501672,0,520167216
+CMX501671,52RTP11,,Avisadero/Colonia Miravalle - Metro Zaragoza/M. Tepalcates,,,SH501672,0,520167228
+CMX501671,53RTP13,,Avisadero/Colonia Miravalle - Metro Zaragoza/M. Tepalcates,,,SH501672,0,530167218
+CMX400070,41TRL12,,Ciudad Universitaria - San Francisco Culhuacán,,,SH400071,0,410007114
+CMX400070,43TRL16,,Ciudad Universitaria - San Francisco Culhuacán,,,SH400071,0,420007116
+CMX400070,44TRL18,,Ciudad Universitaria - San Francisco Culhuacán,,,SH400071,0,430007118
+CMX400070,41TRL12,,San Francisco Culhuacán - Ciudad Universitaria,,,SH400072,0,410007215
+CMX400070,43TRL16,,San Francisco Culhuacán - Ciudad Universitaria,,,SH400072,0,420007217
+CMX400070,44TRL18,,San Francisco Culhuacán - Ciudad Universitaria,,,SH400072,0,430007219
+CMX300L44,32L1002,,Buenavista - AICM T1 y T2,,,SH300L43,0,3200L4313
+CMX300L44,32L1002,,Buenavista - San Lázaro Circuito Sur,,,SH300L42,0,3200L4212
+CMX300L44,32L1002,,Buenavista - San Lázaro Circuito Sur,,,SH300L42,0,3200L4224
+CMX300L44,32L1002,,Buenavista - San Lázaro Circuito Sur,,,SH300L42,0,3200L4236
+CMX300L44,32L1002,,Buenavista - San Lázaro Circuito Norte,,,SH300L41,0,3200L4111
+CMX300L44,32L1002,,Buenavista - San Lázaro Circuito Norte,,,SH300L41,0,3200L4123
+CMX300L44,32L1002,,Buenavista - San Lázaro Circuito Norte,,,SH300L41,0,3200L4135
+CMX300L44,33L1004,,Buenavista - AICM T1 y T2,,,SH300L43,0,3300L4315
+CMX300L44,33L1004,,Buenavista - San Lázaro Circuito Sur,,,SH300L42,0,3300L4214
+CMX300L44,33L1004,,Buenavista - San Lázaro Circuito Sur,,,SH300L42,0,3300L4226
+CMX300L44,33L1004,,Buenavista - San Lázaro Circuito Sur,,,SH300L42,0,3300L4238
+CMX300L44,33L1004,,Buenavista - San Lázaro Circuito Norte,,,SH300L41,0,3300L4113
+CMX300L44,33L1004,,Buenavista - San Lázaro Circuito Norte,,,SH300L41,0,3300L4125
+CMX300L44,33L1004,,Buenavista - San Lázaro Circuito Norte,,,SH300L41,0,3300L4137
+CMX300L18,32L1002,,Indios Verdes - El Caminero,,,SH300L11,0,3200L1115
+CMX300L18,32L1002,,El Caminero - Indios Verdes ,,,SH300L12,0,3200L1216
+CMX300L18,32L1002,,Buenavista - El Caminero,,,SH300L17,0,3200L1711
+CMX300L18,32L1002,,El Caminero - Buenavista,,,SH300L18,0,3200L1812
+CMX300L18,32L1002,,Indios Verdes - Dr. Gálvez,,,SH300L13,0,3200L1317
+CMX300L18,33L1004,,Indios Verdes - Dr. Gálvez,,,SH300L13,0,3300L1319
+CMX300L18,33L1004,,Buenavista - El Caminero,,,SH300L17,0,3300L1713
+CMX300L18,33L1004,,El Caminero - Buenavista,,,SH300L18,0,3300L1814
+CMX300L18,33L1004,,Indios Verdes - El Caminero,,,SH300L11,0,3300L1117
+CMX300L18,33L1004,,El Caminero - Indios Verdes ,,,SH300L12,0,3300L1218
+CMX300L32,33L1004,,Tenayuca - La Raza,,,SH300L35,0,3300L3515
+CMX300L32,33L1004,,Buenavista - Tenayuca,,,SH300L34,0,3300L3414
+CMX400043,41TRL12,,Metro El Rosario - Metro Blvd. Puerto Aéreo,,,SH400042,0,410004218
+CMX400043,43TRL16,,Metro El Rosario - Metro Blvd. Puerto Aéreo,,,SH400042,0,420004210
+CMX400043,44TRL18,,Metro El Rosario - Metro Blvd. Puerto Aéreo,,,SH400042,0,430004212
+CMX300L20,31L1000,,Tepalcates - Tacubaya,,,SH300L21,0,3100L2115
+CMX300L20,31L1000,,Tepalcates - Tacubaya,,,SH300L21,0,3100L2127
+CMX300L20,31L1000,,Tepalcates - Tacubaya,,,SH300L21,0,3100L2139
+CMX300L20,31L1000,,Tacubaya - Tepalcates,,,SH300L22,0,3100L2216
+CMX300L20,31L1000,,Tacubaya - Tepalcates,,,SH300L22,0,3100L2228
+CMX300L20,31L1000,,Tacubaya - Tepalcates,,,SH300L22,0,3100L2230
+CMX300L20,31L1000,,Tepalcates - Etiopía,,,SH300L23,0,3100L2317
+CMX300L20,31L1000,,Tepalcates - Etiopía,,,SH300L23,0,3100L2329
+CMX300L20,31L1000,,Tepalcates - Etiopía,,,SH300L23,0,3100L2331
+CMX300L20,31L1000,,Etiopía - Tepalcates,,,SH300L24,0,3100L2418
+CMX300L20,31L1000,,Etiopía - Tepalcates,,,SH300L24,0,3100L2420
+CMX300L20,31L1000,,Etiopía - Tepalcates,,,SH300L24,0,3100L2432
+CMX300L20,31L1000,,Tepalcates - Col. del Valle,,,SH300L25,0,3100L2519
+CMX300L20,31L1000,,Tepalcates - Col. del Valle,,,SH300L25,0,3100L2511
+CMX300L20,31L1000,,Col. del Valle - Tepalcates,,,SH300L26,0,3100L2610
+CMX300L20,31L1000,,Col. del Valle - Tepalcates,,,SH300L26,0,3100L2622
+CMX400056,41TRL12,,Metro Hidalgo - San Felipe de Jesús,,,SH400051,0,410005110
+CMX300L20,32L1002,,Tepalcates - Tacubaya,,,SH300L21,0,3200L2117
+CMX300L20,32L1002,,Tepalcates - Tacubaya,,,SH300L21,0,3200L2129
+CMX300L20,32L1002,,Tepalcates - Tacubaya,,,SH300L21,0,3200L2131
+CMX400056,43TRL16,,Metro Hidalgo - San Felipe de Jesús,,,SH400051,0,420005112
+CMX400056,44TRL18,,Metro Hidalgo - San Felipe de Jesús,,,SH400051,0,430005114
+CMX300L20,32L1002,,Tacubaya - Tepalcates,,,SH300L22,0,3200L2218
+CMX400056,41TRL12,,San Felipe de Jesús - Metro Hidalgo,,,SH400052,0,410005211
+CMX300L20,32L1002,,Tacubaya - Tepalcates,,,SH300L22,0,3200L2220
+CMX400056,43TRL16,,San Felipe de Jesús - Metro Hidalgo,,,SH400052,0,420005213
+CMX300L20,32L1002,,Tacubaya - Tepalcates,,,SH300L22,0,3200L2232
+CMX400056,44TRL18,,San Felipe de Jesús - Metro Hidalgo,,,SH400052,0,430005215
+CMX300L20,32L1002,,Tepalcates - Etiopía,,,SH300L23,0,3200L2319
+CMX300L20,32L1002,,Etiopía - Tepalcates,,,SH300L24,0,3200L2410
+CMX300L20,32L1002,,Tepalcates - Col. del Valle,,,SH300L25,0,3200L2511
+CMX300L20,32L1002,,Tepalcates - Col. del Valle,,,SH300L25,0,3200L2523
+CMX300L20,32L1002,,Tepalcates - Col. del Valle,,,SH300L25,0,3200L2535
+CMX300L20,32L1002,,Col. del Valle - Tepalcates,,,SH300L26,0,3200L2612
+CMX300L20,32L1002,,Col. del Valle - Tepalcates,,,SH300L26,0,3200L2624
+CMX300L20,32L1002,,Col. del Valle - Tepalcates,,,SH300L26,0,3200L2636
+CMX300L20,33L1004,,Tepalcates - Tacubaya,,,SH300L21,0,3300L2119
+CMX300L20,33L1004,,Tepalcates - Tacubaya,,,SH300L21,0,3300L2121
+CMX300L20,33L1004,,Tepalcates - Tacubaya,,,SH300L21,0,3300L2133
+CMX300L20,33L1004,,Tacubaya - Tepalcates,,,SH300L22,0,3300L2210
+CMX300L20,33L1004,,Tacubaya - Tepalcates,,,SH300L22,0,3300L2222
+CMX300L20,33L1004,,Tacubaya - Tepalcates,,,SH300L22,0,3300L2224
+CMX300L20,33L1004,,Tepalcates - Col. del Valle,,,SH300L25,0,3300L2513
+CMX300L20,33L1004,,Col. del Valle - Tepalcates,,,SH300L26,0,3300L2614
+CMX5161F6,51RTP19,,Metro Constitución de 1917 - Barranca de Guadalupe,,,SH5161F1,0,51161F219
+CMX5161F6,51RTP19,,Metro Constitución de 1917 - Barranca de Guadalupe,,,SH5161F1,0,51161F221
+CMX5161F6,52RTP11,,Metro Constitución de 1917 - Barranca de Guadalupe,,,SH5161F1,0,52161F111
+CMX5161F6,52RTP11,,Metro Constitución de 1917 - Barranca de Guadalupe,,,SH5161F1,0,52161F123
+CMX5161F6,53RTP13,,Metro Constitución de 1917 - Barranca de Guadalupe,,,SH5161F1,0,53161F113
+CMX5161F6,53RTP13,,Metro Constitución de 1917 - Barranca de Guadalupe,,,SH5161F1,0,53161F125
+CMX5039B7,51RTP19,,Bosque de Nativitas - Metro San Lázaro por Miramontes,,,SH5039B2,0,51039B210
+CMX5039B7,51RTP19,,Bosque de Nativitas - Metro San Lázaro por Miramontes,,,SH5039B2,0,51039B222
+CMX5039B7,52RTP11,,Bosque de Nativitas - Metro San Lázaro por Miramontes,,,SH5039B2,0,52039B212
+CMX5039B7,52RTP11,,Bosque de Nativitas - Metro San Lázaro por Miramontes,,,SH5039B2,0,52039B224
+CMX5039B7,53RTP13,,Bosque de Nativitas - Metro San Lázaro por Miramontes,,,SH5039B2,0,53039B214
+CMX5039B7,53RTP13,,Bosque de Nativitas - Metro San Lázaro por Miramontes,,,SH5039B2,0,53039B226
+CMX501164,51RTP19,,Santa Rosa - Metro Mixcoac,,,SH501161,0,510116229
+CMX5110B5,51RTP19,,San Lorenzo Acopilco - Metro Tacubaya,,,SH5110B2,0,51110B218
+CMX5110B5,51RTP19,,San Lorenzo Acopilco - Metro Tacubaya,,,SH5110B2,0,51110B220
+CMX5110B5,52RTP11,,San Lorenzo Acopilco - Metro Tacubaya,,,SH5110B2,0,52110B210
+CMX5110B5,52RTP11,,San Lorenzo Acopilco - Metro Tacubaya,,,SH5110B2,0,52110B222
+CMX5110B5,53RTP13,,San Lorenzo Acopilco - Metro Tacubaya,,,SH5110B2,0,53110B212
+CMX5110B5,53RTP13,,San Lorenzo Acopilco - Metro Tacubaya,,,SH5110B2,0,53110B224
+CMX5161D1,51RTP19,,Colonia Buenavista - Central de Abastos,,,SH5161D2,0,51161D214
+CMX5161D1,51RTP19,,Colonia Buenavista - Central de Abastos,,,SH5161D2,0,51161D226
+CMX5161D1,52RTP11,,Colonia Buenavista - Central de Abastos,,,SH5161D2,0,52161D216
+CMX5161D1,52RTP11,,Colonia Buenavista - Central de Abastos,,,SH5161D2,0,52161D228
+CMX5161D1,53RTP25,,Colonia Buenavista - Central de Abastos,,,SH5161D2,0,53161D218
+CMX5161D1,53RTP25,,Colonia Buenavista - Central de Abastos,,,SH5161D2,0,53161D220
+CMX501594,51RTP19,,Palmitas - Cetram Metro Constitución de 1917,,,SH501612,0,510159217
+CMX501594,51RTP19,,Palmitas - Cetram Metro Constitución de 1917,,,SH501612,0,510159229
+CMX501594,52RTP11,,Palmitas - Cetram Metro Constitución de 1917,,,SH501612,0,520159219
+CMX501594,52RTP11,,Palmitas - Cetram Metro Constitución de 1917,,,SH501612,0,520159221
+CMX501594,53RTP25,,Palmitas - Cetram Metro Constitución de 1917,,,SH501612,0,530159211
+CMX501594,53RTP25,,Palmitas - Cetram Metro Constitución de 1917,,,SH501612,0,530159223
+CMX5001D7,51RTP19,,Metro Santa Martha -  Metro Mixcoac,,,SH5001D1,0,51001D119
+CMX5001D7,51RTP19,,Metro Santa Martha -  Metro Mixcoac,,,SH5001D1,0,51001D121
+CMX5001D7,52RTP11,,Metro Santa Martha -  Metro Mixcoac,,,SH5001D1,0,52001D111
+CMX5001D7,52RTP11,,Metro Santa Martha -  Metro Mixcoac,,,SH5001D1,0,52001D123
+CMX5001D7,53RTP13,,Metro Santa Martha -  Metro Mixcoac,,,SH5001D1,0,53001D113
+CMX5001D7,53RTP13,,Metro Santa Martha -  Metro Mixcoac,,,SH5001D1,0,53001D125
+CMX5001D7,51RTP19,,Metro Mixcoac -  Metro Santa Martha,,,SH5001D2,0,51001D210
+CMX5001D7,51RTP19,,Metro Mixcoac -  Metro Santa Martha,,,SH5001D2,0,51001D222
+CMX5001D7,52RTP11,,Metro Mixcoac -  Metro Santa Martha,,,SH5001D2,0,52001D212
+CMX5001D7,52RTP11,,Metro Mixcoac -  Metro Santa Martha,,,SH5001D2,0,52001D224
+CMX5001D7,53RTP13,,Metro Mixcoac -  Metro Santa Martha,,,SH5001D2,0,53001D214
+CMX5001D7,53RTP13,,Metro Mixcoac -  Metro Santa Martha,,,SH5001D2,0,53001D216
+CMX500578,52RTP11,,Cetram Metro Constitución de 1917 - Cetram Metro Cuatro Caminos,,,SH500571,0,520057112
+CMX500578,52RTP11,,Cetram Metro Constitución de 1917 - Cetram Metro Cuatro Caminos,,,SH500571,0,520057124
+CMX500578,53RTP13,,Cetram Metro Constitución de 1917 - Cetram Metro Cuatro Caminos,,,SH500571,0,530057114
+CMX500578,53RTP25,,Cetram Metro Constitución de 1917 - Cetram Metro Cuatro Caminos,,,SH500571,0,530057126
+CMX500578,52RTP11,,Cetram Metro Cuatro Caminos - Cetram Metro Constitución de 1917,,,SH500572,0,520057213
+CMX500578,52RTP11,,Cetram Metro Cuatro Caminos - Cetram Metro Constitución de 1917,,,SH500572,0,520057225
+CMX500578,53RTP13,,Cetram Metro Cuatro Caminos - Cetram Metro Constitución de 1917,,,SH500572,0,530057215
+CMX500578,53RTP25,,Cetram Metro Cuatro Caminos - Cetram Metro Constitución de 1917,,,SH500572,0,530057237
+CMX501669,51RTP19,, Metro Zaragoza/M. Tepalcates - Avisadero/Colonia Ixtlahuacan  ,,,SH501662,0,510166224
+CMX501669,52RTP11,, Metro Zaragoza/M. Tepalcates - Avisadero/Colonia Ixtlahuacan  ,,,SH501662,0,520166113
+CMX501669,52RTP11,, Metro Zaragoza/M. Tepalcates - Avisadero/Colonia Ixtlahuacan  ,,,SH501662,0,520166125
+CMX501669,53RTP25,, Metro Zaragoza/M. Tepalcates - Avisadero/Colonia Ixtlahuacan  ,,,SH501662,0,530166115
+CMX501669,53RTP25,, Metro Zaragoza/M. Tepalcates - Avisadero/Colonia Ixtlahuacan  ,,,SH501662,0,530166127
+CMX501669,51RTP19,,Avisadero/Colonia Ixtlahuacan -  Metro Zaragoza/M. Tepalcates,,,SH501661,0,510166123
+CMX501669,52RTP11,,Avisadero/Colonia Ixtlahuacan -  Metro Zaragoza/M. Tepalcates,,,SH501661,0,520166214
+CMX501669,52RTP11,,Avisadero/Colonia Ixtlahuacan -  Metro Zaragoza/M. Tepalcates,,,SH501661,0,520166226
+CMX501669,53RTP25,,Avisadero/Colonia Ixtlahuacan -  Metro Zaragoza/M. Tepalcates,,,SH501661,0,530166216
+CMX501669,53RTP25,,Avisadero/Colonia Ixtlahuacan -  Metro Zaragoza/M. Tepalcates,,,SH501661,0,530166218
+CMX501671,53RTP13,,Avisadero/Colonia Miravalle - Metro Zaragoza/M. Tepalcates,,,SH501672,0,530167220
+CMX501644,52RTP11,,Colonia Miguel de la Madrid-Metro Zaragoza,,,SH501641,0,520164118
+CMX501644,52RTP11,,Colonia Miguel de la Madrid-Metro Zaragoza,,,SH501641,0,520164120
+CMX501644,53RTP25,,Colonia Miguel de la Madrid-Metro Zaragoza,,,SH501641,0,530164110
+CMX501644,53RTP25,,Colonia Miguel de la Madrid-Metro Zaragoza,,,SH501641,0,530164122
+CMX501644,52RTP11,, Metro Zaragoza - Colonia Miguel de la Madrid,,,SH501642,0,520164219
+CMX501644,52RTP11,, Metro Zaragoza - Colonia Miguel de la Madrid,,,SH501642,0,520164221
+CMX501644,53RTP25,, Metro Zaragoza - Colonia Miguel de la Madrid,,,SH501642,0,530164211
+CMX501644,53RTP25,, Metro Zaragoza - Colonia Miguel de la Madrid,,,SH501642,0,530164223
+CMX501683,51RTP19,,Arenal 4ta. Sección - Metro Pantitlán,,,SH501681,0,510168115
+CMX501683,51RTP19,,Arenal 4ta. Sección - Metro Pantitlán,,,SH501681,0,510168127
+CMX501683,52RTP11,,Arenal 4ta. Sección - Metro Pantitlán,,,SH501681,0,520168117
+CMX501683,52RTP11,,Arenal 4ta. Sección - Metro Pantitlán,,,SH501681,0,520168129
+CMX501683,53RTP13,,Arenal 4ta. Sección - Metro Pantitlán,,,SH501681,0,530168119
+CMX501683,53RTP13,,Arenal 4ta. Sección - Metro Pantitlán,,,SH501681,0,530168121
+CMX501683,51RTP19,,Metro Pantitlán - Arenal 4ta. Sección,,,SH501682,0,510168216
+CMX501683,51RTP19,,Metro Pantitlán - Arenal 4ta. Sección,,,SH501682,0,510168228
+CMX501683,52RTP11,,Metro Pantitlán - Arenal 4ta. Sección,,,SH501682,0,520168218
+CMX501683,52RTP11,,Metro Pantitlán - Arenal 4ta. Sección,,,SH501682,0,520168220
+CMX501683,53RTP25,,Metro Pantitlán - Arenal 4ta. Sección,,,SH501682,0,530168210
+CMX501683,53RTP25,,Metro Pantitlán - Arenal 4ta. Sección,,,SH501682,0,530168222
+CMX300L20,31L1000,,Del Moral - Col. del Valle,,,SH300L27,0,3100L2711
+CMX300L20,31L1000,,Del Moral - Col. del Valle,,,SH300L27,0,3100L2723
+CMX300L20,31L1000,,Del Moral - Col. del Valle,,,SH300L27,0,3100L2735
+CMX300L20,31L1000,,Col. del Valle - Del Moral,,,SH300L28,0,3100L2812
+CMX300L20,31L1000,,Col. del Valle - Del Moral,,,SH300L28,0,3100L2824
+CMX300L20,31L1000,,Col. del Valle - Del Moral,,,SH300L28,0,3100L2836
+CMX300L57,31L5009,,Río de los Remedios - San Lázaro,,,SH300L51,0,3100L5112
+CMX300L57,31L5009,,Río de los Remedios - San Lázaro,,,SH300L51,0,3100L5124
+CMX300L57,31L5009,,Río de los Remedios - San Lázaro,,,SH300L51,0,3100L5136
+CMX300L57,31L5009,,Río de los Remedios - San Lázaro,,,SH300L51,0,3100L5148
+CMX300L57,31L5009,,Río de los Remedios - San Lázaro,,,SH300L51,0,3100L5151
+CMX300L57,31L5009,,Río de los Remedios - San Lázaro,,,SH300L51,0,3100L5163
+CMX300L57,31L5009,,Río de los Remedios - San Lázaro,,,SH300L51,0,3100L5175
+CMX300L57,31L5009,,Río de los Remedios - San Lázaro,,,SH300L51,0,3100L5187
+CMX300L57,31L5009,,Río de los Remedios - San Lázaro,,,SH300L51,0,3100L5199
+CMX300L57,31L5009,,San Lázaro - Río de los Remedios,,,SH300L52,0,3100L5213
+CMX300L57,31L5009,,San Lázaro - Río de los Remedios,,,SH300L52,0,3100L5225
+CMX300L57,31L5009,,San Lázaro - Río de los Remedios,,,SH300L52,0,3100L5237
+CMX300L57,31L5009,,San Lázaro - Río de los Remedios,,,SH300L52,0,3100L5249
+CMX300L57,31L5009,,San Lázaro - Río de los Remedios,,,SH300L52,0,3100L5252
+CMX300L57,31L5009,,San Lázaro - Río de los Remedios,,,SH300L52,0,3100L5264
+CMX300L57,31L5009,,San Lázaro - Río de los Remedios,,,SH300L52,0,3100L5276
+CMX300L57,31L5009,,San Lázaro - Río de los Remedios,,,SH300L52,0,3100L5288
+CMX300L57,31L5009,,San Lázaro - Río de los Remedios,,,SH300L52,0,3100L5290
+CMX500337,52RTP11,,León de los Aldama - Metro Chabacano,,,SH500331,0,520033111
+CMX500337,51RTP19,,León de los Aldama - Metro Chabacano,,,SH500331,0,510033119
+CMX500337,53RTP13,,León de los Aldama - Metro Chabacano,,,SH500331,0,530033113
+CMX500337,51RTP19,,León de los Aldama - Metro Chabacano,,,SH500331,0,510033121
+CMX500337,52RTP11,,León de los Aldama - Metro Chabacano,,,SH500331,0,520033123
+CMX500337,53RTP13,,León de los Aldama - Metro Chabacano,,,SH500331,0,530033125
+CMX500337,51RTP19,,Metro Chabacano - León de los Aldama,,,SH500332,0,510033210
+CMX500337,52RTP11,,Metro Chabacano - León de los Aldama,,,SH500332,0,520033212
+CMX500337,53RTP13,,Metro Chabacano - León de los Aldama,,,SH500332,0,530033214
+CMX500337,51RTP19,,Metro Chabacano - León de los Aldama,,,SH500332,0,510033222
+CMX500337,53RTP13,,Metro Chabacano - León de los Aldama,,,SH500332,0,530033226
+CMX400017,41TRL24,,Central de Autobuses del Norte - Central de Autobuses del Sur,,,SH400011,0,410001111
+CMX557AX2,5157AX1,,Metro Constitución - Metro Cuatro Caminos,,,SH557AX1,0,5457AX110
+CMX557AX2,5157AX1,,Metro Cuatro Caminos - Metro Constitución,,,SH557AX2,0,5457AX211
+CMX400017,41TRL24,,Central de Autobuses del Sur - Central de Autobuses del Norte,,,SH400012,0,410001212
+CMX400029,41TRL24,,Metro Chapultepec - Metro Velódromo,,,SH400022,0,410002113
+CMX400029,41TRL24,,Metro Velódromo - Metro Chapultepec,,,SH400021,0,410002214
+CMX400031,41TRL24,,San Andrés Tetepilco - Metro Mixcoac,,,SH400032,0,410003115
+CMX400031,41TRL24,,Metro Mixcoac - San Andrés Tetepilco,,,SH400031,0,410003216
+CMX500123,51RTPN8,,Aragón - Panteón San Isidro Nocturno,,,SH500123,0,510012139
+CMX500123,51RTPN8,,Panteón San Isidro - Aragón Nocturno,,,SH500124,0,510012230
+CMX5047A5,51RTPN8,,Alameda Oriente - Xochimilco/Bosque de Nativitas Nocturno,,,SH5047A3,0,51047A117
+CMX5047A5,51RTPN8,,Xochimilco/Bosque de Nativitas - Alameda Oriente Nocturno,,,SH5047A4,0,51047A129
+CMX500578,51RTPN8,,Cetram Metro Cuatro Caminos - Cetram Metro Constitución de 1917 Nocturno,,,SH500573,0,510057134
+CMX500578,51RTPN8,,Cetram Metro Constitución de 1917 - Cetram Metro Cuatro Caminos Nocturno,,,SH500574,0,510057235
+CMX501152,51RTPN8,,Metro Tacubaya - Jesús del Monte (Cuajimalpa) Nocturno,,,SH501153,0,510115138
+CMX501152,51RTPN8,,Jesús del Monte (Cuajimalpa ) - Metro Tacubaya Nocturno,,,SH501154,0,510115239
+CMX502002,51RTPN8,,Oceanía Sur Nocturno,,,SH502003,0,510200138
+CMX502002,51RTPN8,,Oceanía Norte Nocturno,,,SH502004,0,510200239
+CMX500768,51RTPN8,,La Villa/Cantera - Centro Comercial Santa Fe Nocturno,,,SH500763,0,510076134
+CMX500768,51RTPN8,,Centro Comercial Santa Fe - La Villa/Cantera Nocturno,,,SH500764,0,510076235
+CMX1CISE3,11CISEN,,Dr. Gálvez - Indios Verdes,,,SH100L11,0,11CISE11N
+CMX1CISE3,12CISEN,,Dr. Gálvez - Indios Verdes,,,SH100L11,0,12CISE11N
+CMX1CISE3,11CISEN,,Indios verdes - Dr. Gálvez,,,SH100L12,0,11CISE21N
+CMX1CISE3,13CISEN,,Dr. Gálvez - Indios Verdes,,,SH100L11,0,13CISE11N
+CMX1CISE3,14CISEN,,Dr. Gálvez - Indios Verdes,,,SH100L11,0,14CISE11N
+CMX1CISE3,12CISEN,,Indios verdes - Dr. Gálvez,,,SH100L12,0,12CISE21N
+CMX1CISE3,17CISEN,,Indios verdes - Dr. Gálvez,,,SH100L12,0,13CISE21N
+CMX1CISE3,14CC109,,Indios verdes - Dr. Gálvez,,,SH100L12,0,14CISE21N
+CMX1CORE5,11COREN,,Chapultepec-San Angel,,,SH100L21,0,11CORE11N
+CMX1CORE5,14CC109,,Chapultepec-San Angel,,,SH100L21,0,13CORE11N
+CMX1CORE5,11COREN,,San Angel-Chapultepec,,,SH100L22,0,11CORE21N
+CMX1CORE5,14CC109,,San Angel-Chapultepec,,,SH100L22,0,13CORE21N
+CMX1CORE5,12COREN,,Chapultepec-San Angel,,,SH100L21,0,12CORE11N
+CMX1CORE5,12COREN,,San Angel-Chapultepec,,,SH100L22,0,12CORE21N
+CMX500390,51RTP19,,Carmen Serdán - San Lázaro,,,SH500391,0,510039112
+CMX500390,51RTP19,,Carmen Serdán - San Lázaro,,,SH500391,0,510039124
+CMX500390,52RTP11,,Carmen Serdán - San Lázaro,,,SH500391,0,520039114
+CMX500390,52RTP11,,Carmen Serdán - San Lázaro,,,SH500391,0,520039126
+CMX500390,53RTP13,,Carmen Serdán - San Lázaro,,,SH500391,0,530039116
+CMX500390,53RTP13,,Carmen Serdán - San Lázaro,,,SH500391,0,530039128
+CMX500390,51RTP19,,San Lázaro - Carmen Serdán,,,SH500392,0,510039213
+CMX500390,51RTP19,,San Lázaro - Carmen Serdán,,,SH500392,0,510039225
+CMX500390,52RTP11,,San Lázaro - Carmen Serdán,,,SH500392,0,520039215
+CMX500390,52RTP11,,San Lázaro - Carmen Serdán,,,SH500392,0,520039227
+CMX500390,53RTP13,,San Lázaro - Carmen Serdán,,,SH500392,0,530039217
+CMX500390,53RTP13,,San Lázaro - Carmen Serdán,,,SH500392,0,530039229
+CMX5039X6,51RTP19,,Carmen Serdan - San Lázaro ,,,SH5039X1,0,51039X118
+CMX5039X6,51RTP19,,Carmen Serdan - San Lázaro ,,,SH5039X1,0,51039X120
+CMX5039X6,52RTP11,,Carmen Serdan - San Lázaro ,,,SH5039X1,0,52039X110
+CMX5039X6,52RTP11,,Carmen Serdan - San Lázaro ,,,SH5039X1,0,52039X122
+CMX5039X6,53RTP13,,Carmen Serdan - San Lázaro ,,,SH5039X1,0,53039X112
+CMX5039X6,53RTP13,,Carmen Serdan - San Lázaro ,,,SH5039X1,0,53039X124
+CMX5039X6,51RTP19,,San Lázaro - Carmen Serdan,,,SH5039X2,0,51039X219
+CMX5039X6,51RTP19,,San Lázaro - Carmen Serdan,,,SH5039X2,0,51039X221
+CMX5039X6,52RTP11,,San Lázaro - Carmen Serdan,,,SH5039X2,0,52039X211
+CMX5039X6,52RTP11,,San Lázaro - Carmen Serdan,,,SH5039X2,0,52039X223
+CMX5039X6,53RTP13,,San Lázaro - Carmen Serdan,,,SH5039X2,0,53039X213
+CMX5039X6,53RTP13,,San Lázaro - Carmen Serdan,,,SH5039X2,0,53039X225
+CMX200L81,23L1003,,Garibaldi - Constitución de 1917,,,SH200L82,0,2300L8212
+CMX200L81,21L1009,,Garibaldi - Constitución de 1917,,,SH200L82,0,2100L8218
+CMX200L81,21L1009,,Garibaldi - Constitución de 1917,,,SH200L82,0,2100L8220
+CMX200L81,21L1009,,Garibaldi - Constitución de 1917,,,SH200L82,0,2100L8232
+CMX200L81,22L1001,,Garibaldi - Constitución de 1917,,,SH200L82,0,2200L8210
+CMX200L16,21L1009,,Observatorio - Pantitlán,,,SH200L12,0,2100L1213
+CMX200L16,21L1009,,Observatorio - Pantitlán,,,SH200L12,0,2100L1225
+CMX200L16,21L1009,,Observatorio - Pantitlán,,,SH200L12,0,2100L1237
+CMX200L16,22L1001,,Observatorio - Pantitlán,,,SH200L12,0,2200L1215
+CMX200L16,23L1003,,Observatorio - Pantitlán,,,SH200L12,0,2300L1217
+CMX5034B2,51034B1,,Cierre de Circuito Santa Fe - Metro Miguel Ángel de Quevedo,,,SH5034B1,0,51034B215
+CMX5034B2,52034B3,,Cierre de Circuito Santa Fe - Metro Miguel Ángel de Quevedo,,,SH5034B1,0,52034B217
+CMX5034B2,54034B7,,Cierre de Circuito Santa Fe - Metro Miguel Ángel de Quevedo,,,SH5034B1,0,53034B219
+CMX5034B2,52RTP11,,Cierre de Circuito Santa Fe - Metro Miguel Ángel de Quevedo,,,SH5034B1,0,54034B211
+CMX5034B2,53RTP25,,Cierre de Circuito Santa Fe - Metro Miguel Ángel de Quevedo,,,SH5034B1,0,55034B214
+CMX300L18,31L1000,,Dr. Gálvez - Indios Verdes,,,SH300L14,0,3100L1416
+CMX300L18,31L1000,,Dr. Gálvez - Indios Verdes,,,SH300L14,0,3100L1428
+CMX300L18,31L1000,,Dr. Gálvez - Indios Verdes,,,SH300L14,0,3100L1430
+CMX300L18,32L1002,,Dr. Gálvez - Indios Verdes,,,SH300L14,0,3200L1418
+CMX300L18,33L1004,,Dr. Gálvez - Indios Verdes,,,SH300L14,0,3300L1410
+CMX5034B2,52034B3,,Metro Miguel Ángel de Quevedo- Cierre de Circuito Santa Fe,,,SH5034B2,0,52034B116
+CMX5034B2,51034B1,,Metro Miguel Ángel de Quevedo- Cierre de Circuito Santa Fe,,,SH5034B2,0,51034B114
+CMX5034B2,54034B7,,Metro Miguel Ángel de Quevedo- Cierre de Circuito Santa Fe,,,SH5034B2,0,53034B118
+CMX5034B2,52RTP11,,Metro Miguel Ángel de Quevedo- Cierre de Circuito Santa Fe,,,SH5034B2,0,54034B110
+CMX5034B2,53RTP13,,Metro Miguel Ángel de Quevedo- Cierre de Circuito Santa Fe,,,SH5034B2,0,55034B113
+CMX300L32,31L1000,,La Raza - Tenayuca,,,SH300L36,0,3100L3612
+CMX300L32,32L1002,,La Raza - Tenayuca,,,SH300L36,0,3200L3614
+CMX300L32,32L1002,,La Raza - Tenayuca,,,SH300L36,0,3200L3626
+CMX300L32,33L1004,,La Raza - Tenayuca,,,SH300L36,0,3300L3616
+CMX1ATRO6,11CC103,,Palmas - Chapultepec,,,SH1ATRO2,0,11ATRO214
+CMX1ATRO6,11CC103,,Palmas - Chapultepec,,,SH1ATRO2,0,12ATRO216
+CMX1ATRO6,11CC103,,Tecamachalco - Chapultepec,,,SH1ATRO4,0,11ATRO416
+CMX1ATRO6,11CC103,,Tecamachalco - Chapultepec,,,SH1ATRO4,0,12ATRO418
+CMX1ATRO6,11CC103,,Bosques de las Lomas - Chapultepec,,,SH1ATRO7,0,11ATRO719
+CMX1ATRO6,11CC103,,Bosques de las Lomas - Chapultepec,,,SH1ATRO7,0,12ATRO711
+CMX1ATRO6,11CC103,,Chapultepec - Bosque de Duraznos,,,SH1ATRO5,0,11ATRO517
+CMX1ATRO6,11CC103,,Chapultepec - Bosque de Duraznos,,,SH1ATRO5,0,12ATRO519
+CMX1ATRO6,11CC103,,Bosque de Duraznos - Chapultepec,,,SH1ATRO6,0,11ATRO618
+CMX1ATRO6,11CC103,,Bosque de Duraznos - Chapultepec,,,SH1ATRO6,0,12ATRO610
+CMX1SAUS7,11SAUS1,,La Valenciana - Tacubaya por Eje 3 Sur,,,SH1SAUS2,1,11SAUS215
+CMX1SAUS7,11SAUS1,,La Valenciana - Tacubaya por Eje 3 Sur,,,SH1SAUS2,1,11SAUS227
+CMX1SAUS7,11SAUS1,,La Valenciana - Tacubaya por Eje 3 Sur,,,SH1SAUS2,1,11SAUS239
+CMX1SAUS7,11SAUS1,,Tacubaya - La Valenciana por Eje 3 Sur,,,SH1SAUS1,1,11SAUS114
+CMX1SAUS7,11SAUS1,,Tacubaya - La Valenciana por Eje 3 Sur,,,SH1SAUS1,1,11SAUS126
+CMX1SAUS7,11SAUS1,,Tacubaya - La Valenciana por Eje 3 Sur,,,SH1SAUS1,1,11SAUS138
+CMX1SAUS7,12SAUS3,,Tacubaya - La Valenciana por Eje 3 Sur,,,SH1SAUS1,1,12SAUS116
+CMX1SAUS7,12SAUS3,,La Valenciana - Tacubaya por Eje 3 Sur,,,SH1SAUS2,1,12SAUS217
+CMX1SAUS7,11SAUS1,,Metro Puebla - La Valenciana por Sur 8,,,SH1SAUS3,1,11SAUS316
+CMX1SAUS7,11SAUS1,,Metro Puebla - La Valenciana por Sur 8,,,SH1SAUS3,1,11SAUS328
+CMX1SAUS7,12SAUS3,,Metro Puebla - La Valenciana por Sur 8,,,SH1SAUS3,1,12SAUS318
+CMX1SAUS7,11SAUS1,,La Valenciana - Metro Puebla por Sur 8,,,SH1SAUS4,1,11SAUS417
+CMX1SAUS7,11SAUS1,,La Valenciana - Metro Puebla por Sur 8,,,SH1SAUS4,1,11SAUS429
+CMX1SAUS7,12SAUS3,,La Valenciana - Metro Puebla por Sur 8,,,SH1SAUS4,1,12SAUS419
+CMX1SAUS7,11SAUS1,,Metro Puebla - La Valenciana por Sur 20,,,SH1SAUS5,1,11SAUS518
+CMX1SAUS7,11SAUS1,,Metro Puebla - La Valenciana por Sur 20,,,SH1SAUS5,1,11SAUS520
+CMX1SAUS7,12SAUS3,,Metro Puebla - La Valenciana por Sur 20,,,SH1SAUS5,1,12SAUS510
+CMX1SAUS7,11SAUS1,,La Valenciana - Metro Puebla por Sur 20,,,SH1SAUS6,1,11SAUS619
+CMX1SAUS7,11SAUS1,,La Valenciana - Metro Puebla por Sur 20,,,SH1SAUS6,1,11SAUS621
+CMX1SAUS7,12SAUS3,,La Valenciana - Metro Puebla por Sur 20,,,SH1SAUS6,1,12SAUS611
+CMX1SAUS7,11SAUS1,,Tacubaya - La Valenciana por Querétaro,,,SH1SAUS7,1,11SAUS710
+CMX1SAUS7,11SAUS1,,Tacubaya - La Valenciana por Querétaro,,,SH1SAUS7,1,11SAUS722
+CMX1SAUS7,11SAUS1,,Tacubaya - La Valenciana por Querétaro,,,SH1SAUS7,1,11SAUS734
+CMX1SAUS7,11SAUS1,,La Valenciana - Tacubaya por Querétaro,,,SH1SAUS8,1,11SAUS811
+CMX1SAUS7,12SAUS3,,Tacubaya - La Valenciana por Querétaro,,,SH1SAUS7,1,12SAUS712
+CMX1SAUS7,11SAUS1,,La Valenciana - Tacubaya por Querétaro,,,SH1SAUS8,1,11SAUS823
+CMX1SAUS7,12SAUS3,,La Valenciana - Tacubaya por Querétaro,,,SH1SAUS8,1,12SAUS813
+CMX1SAUS7,11SAUS1,,Tacubaya - Tepalcates por Campeche,,,SH1SAUS9,1,11SAUS912
+CMX1SAUS7,11SAUS1,,Tacubaya - Tepalcates por Campeche,,,SH1SAUS9,1,11SAUS924
+CMX1SAUS7,11SAUS1,,Tacubaya - Tepalcates por Campeche,,,SH1SAUS9,1,11SAUS936
+CMX1SAUS7,12SAUS3,,Tacubaya - Tepalcates por Campeche,,,SH1SAUS9,1,12SAUS914
+CMX1SAUS7,11SAUS1,,Tepalcates - Tacubaya por Campeche,,,SH1SAUS0,1,11SAUS013
+CMX1SAUS7,11SAUS1,,Tepalcates - Tacubaya por Campeche,,,SH1SAUS0,1,11SAUS025
+CMX1SAUS7,12SAUS3,,Tepalcates - Tacubaya por Campeche,,,SH1SAUS0,1,12SAUS015
+CMX1ATRO6,11CC103,,Chapultepec - Palmas,,,SH1ATRO1,0,11ATRO113
+CMX1ATRO6,11CC103,,Chapultepec - Palmas,,,SH1ATRO1,0,12ATRO115
+CMX1ATRO6,11CC103,,Chapultepec - Tecamachalco,,,SH1ATRO3,0,11ATRO315
+CMX1ATRO6,11CC103,,Chapultepec - Tecamachalco,,,SH1ATRO3,0,12ATRO317
+CMX500R23,52RTPN0,,Metro Indios Verdes / Reclusorio Norte,,,SH500R21,0,5100R2113
+CMX500R47,52RTPN0,,Metro San Lázaro / Metro Cuatro Caminos / Metro El Rosario,,,SH500R41,0,5100R4117
+CMX500R98,52RTPN0,,Metro Tasqueña / Huipulco / Xochimilco Centro,,,SH500R91,0,5100R9118
+CMX500R50,52RTPN0,,Villa de Aragón / Metro Martín Carrera,,,SH500R51,0,5100R5110
+CMX500R62,52RTPN0,,Metro Tacubaya / UAM Cuajimalpa / Cuajimalpa,,,SH500R61,0,5100R6112
+CMX500R74,52RTPN0,,San Ángel / MB Perisur,,,SH500R71,0,5100R7114
+CMX500R86,52RTPN0,,Metro Escuadrón 201 / Metro Atlalilco / Metro Constitución de 1917,,,SH500R81,0,5100R8116
+CMX1CEUS8,11CEUS2,,Metro Camarones - Manchuria,,,SH1CEUS1,1,11CEUS115
+CMX1CEUS8,11CEUS2,,Metro Camarones - Manchuria,,,SH1CEUS1,1,11CEUS127
+CMX1CEUS8,12CEUS4,,Metro Camarones - Manchuria,,,SH1CEUS1,1,12CEUS117
+CMX1CEUS8,11CEUS2,,Manchuria - Metro Camarones,,,SH1CEUS2,1,11CEUS216
+CMX1CEUS8,11CEUS2,,Manchuria - Metro Camarones,,,SH1CEUS2,1,11CEUS228
+CMX1CEUS8,12CEUS4,,Manchuria - Metro Camarones,,,SH1CEUS2,1,12CEUS218
+CMX1CEUS8,11CEUS2,,Norte 172 - Panteón San Isidro,,,SH1CEUS3,1,11CEUS317
+CMX1CEUS8,11CEUS2,,Norte 172 - Panteón San Isidro,,,SH1CEUS3,1,11CEUS329
+CMX1CEUS8,11CEUS2,,Norte 172 - Panteón San Isidro,,,SH1CEUS3,1,11CEUS331
+CMX1CEUS8,12CEUS4,,Norte 172 - Panteón San Isidro,,,SH1CEUS3,1,12CEUS319
+CMX1CEUS8,11CEUS2,,Panteón San Isidro - Norte 172,,,SH1CEUS4,1,11CEUS418
+CMX1CEUS8,11CEUS2,,Panteón San Isidro - Norte 172,,,SH1CEUS4,1,11CEUS420
+CMX1CEUS8,11CEUS2,,Panteón San Isidro - Norte 172,,,SH1CEUS4,1,11CEUS432
+CMX1CEUS8,12CEUS4,,Panteón San Isidro - Norte 172,,,SH1CEUS4,1,12CEUS410
+CMX1CEUS8,11CEUS2,,Peñón - Panteón San Isidro,,,SH1CEUS5,1,11CEUS519
+CMX1CEUS8,11CEUS2,,Peñón - Panteón San Isidro,,,SH1CEUS5,1,11CEUS521
+CMX1CEUS8,11CEUS2,,Peñón - Panteón San Isidro,,,SH1CEUS5,1,11CEUS533
+CMX1CEUS8,11CEUS2,,Panteón San Isidro - Peñón,,,SH1CEUS6,1,11CEUS610
+CMX1CEUS8,11CEUS2,,Panteón San Isidro - Peñón,,,SH1CEUS6,1,11CEUS622
+CMX1CEUS8,11CEUS2,,Panteón San Isidro - Peñón,,,SH1CEUS6,1,11CEUS634
+CMX1CEUS8,12CEUS4,,Panteón San Isidro - Peñón,,,SH1CEUS6,1,12CEUS612
+CMX1CEUS8,12CEUS4,,Peñón - Panteón San Isidro,,,SH1CEUS5,1,12CEUS511
+CMX1CEUS8,11CEUS2,,Peñón - Metro Camarones,,,SH1CEUS7,1,11CEUS711
+CMX1CEUS8,11CEUS2,,Peñón - Metro Camarones,,,SH1CEUS7,1,11CEUS723
+CMX1CEUS8,12CEUS4,,Peñón - Metro Camarones,,,SH1CEUS7,1,12CEUS713
+CMX1CEUS8,11CEUS2,,Metro Camarones - Metro Oceanía,,,SH1CEUS8,1,11CEUS812
+CMX1CEUS8,11CEUS2,,Metro Camarones - Metro Oceanía,,,SH1CEUS8,1,11CEUS824
+CMX1CEUS8,12CEUS4,,Metro Camarones - Metro Oceanía,,,SH1CEUS8,1,12CEUS814
+CMX1CEUS8,11CEUS2,,Peñón - RCA Víctor,,,SH1CEUS9,1,11CEUS913
+CMX1CEUS8,11CEUS2,,Peñón - RCA Víctor,,,SH1CEUS9,1,11CEUS925
+CMX1CEUS8,12CEUS4,,Peñón - RCA Víctor,,,SH1CEUS9,1,12CEUS915
+CMX1CEUS8,11CEUS2,,RCA Víctor - Metro Oceanía,,,SH1CEUS0,1,11CEUS014
+CMX1CEUS8,11CEUS2,,RCA Víctor - Metro Oceanía,,,SH1CEUS0,1,11CEUS026
+CMX1CEUS8,12CEUS4,,RCA Víctor - Metro Oceanía,,,SH1CEUS0,1,12CEUS016
+CMX300L71,31L7003,,Indios Verdes - Campo Marte,0,,SH300L71,1,3100L7116
+CMX300L71,31L7004,,Indios Verdes - Campo Marte,0,,SH300L71,1,3200L7118
+CMX300L71,31L7005,,Indios Verdes - Campo Marte,0,,SH300L71,1,3100L7128
+CMX300L71,31L7006,,Indios Verdes - Campo Marte,0,,SH300L71,1,3200L7120
+CMX300L71,31L7007,,Campo Marte - Indios Verdes,1,,SH300L72,1,3100L7217
+CMX300L71,31L7008,,Campo Marte - Indios Verdes,1,,SH300L72,1,3200L7219
+CMX300L71,31L7009,,Campo Marte - Indios Verdes,1,,SH300L72,1,3100L7229
+CMX300L71,31L7010,,Campo Marte - Indios Verdes,1,,SH300L72,1,3200L7221
+CMX300L71,31L7011,,Hospital infantil La Villa - Campo Marte,0,,SH300L73,1,3100L7318
+CMX300L71,31L7012,,Hospital infantil La Villa - Campo Marte,0,,SH300L73,1,3200L7310
+CMX300L71,31L7013,,Hospital infantil La Villa - Campo Marte,0,,SH300L73,1,3300L7312
+CMX300L71,31L7014,,Campo Marte - Hospital infantil La Villa,1,,SH300L74,1,3100L7419
+CMX300L71,31L7015,,Campo Marte - Hospital infantil La Villa,1,,SH300L74,1,3200L7411
+CMX300L71,31L7016,,Campo Marte - Hospital infantil La Villa,1,,SH300L74,1,3300L7413
+CMX300L71,31L7017,,Campo Marte - Glorieta Cuitláhuac,1,,SH300L76,1,3100L7611
+CMX300L71,31L7018,,Glorieta Cuitláhuac - Campo Marte,0,,SH300L75,1,3100L7510
+CMX300L71,31L7019,,La Diana - Indios Verdes,1,,SH300L78,1,3100L7813
+CMX300L71,31L7020,,Indios Verdes - La Diana,0,,SH300L77,1,3100L7713
+CMX300L71,31L7021,,Hospital infantil La Villa - La Diana,0,,SH300L79,1,3100L7913
+CMX300L71,31L7022,,La Diana - Hospital infantil La Villa,1,,SH300L70,1,3100L7013
+CMX500R35,52RTPN0,,Condesa / Defensa Nacional,,,SH500R31,0,5100R3120
+CMX20L122,21L1009,,Mixcoac - Tláhuac,,,SH20L121,0,210L12118
+CMX20L122,22L1001,,Mixcoac - Tláhuac,,,SH20L121,0,220L12110
+CMX20L122,23L1003,,Mixcoac - Tláhuac,,,SH20L121,0,230L12112
+CMX20L122,21L1009,,Mixcoac - Tláhuac,,,SH20L121,0,210L12120
+CMX20L122,21L1009,,Mixcoac - Tláhuac,,,SH20L121,0,210L12132
+CMX20L122,21L1009,,Tláhuac - Mixcoac,,,SH20L122,0,210L12219
+CMX20L122,21L1009,,Tláhuac - Mixcoac,,,SH20L122,0,210L12221
+CMX20L122,22L1001,,Tláhuac - Mixcoac,,,SH20L122,0,220L12211
+CMX20L122,23L1003,,Tláhuac - Mixcoac,,,SH20L122,0,230L12213
+CMX20L122,21L1009,,Tláhuac - Mixcoac,,,SH20L122,0,210L12233
+CMX500768,51RTP19,,Centro Comercial Santa Fe - La Villa/Cantera,,,SH500762,0,510076211
+CMX500768,51RTP19,,Centro Comercial Santa Fe - La Villa/Cantera,,,SH500762,0,510076223
+CMX500768,52RTP11,,Centro Comercial Santa Fe - La Villa/Cantera,,,SH500762,0,520076213
+CMX500768,53RTP25,,Centro Comercial Santa Fe - La Villa/Cantera,,,SH500762,0,530076215
+CMX500768,52RTP11,,Centro Comercial Santa Fe - La Villa/Cantera,,,SH500762,0,520076225
+CMX500768,53RTP25,,Centro Comercial Santa Fe - La Villa/Cantera,,,SH500762,0,530076227
+CMX300L69,31L6001,,Villa de Aragón - El Rosario ,,,SH300L63,1,3100L6328
+CMX300L69,31L6001,,Villa de Aragón - El Rosario ,,,SH300L63,1,3100L6330
+CMX300L69,31L6001,,Villa de Aragón - IPN,,,SH300L64,1,3100L6417
+CMX300L69,31L6001,,Villa de Aragón - IPN,,,SH300L64,1,3100L6429
+CMX300L69,31L6001,,Villa de Aragón - IPN,,,SH300L64,1,3100L6431
+CMX300L69,31L6001,,Deportivo 18 de Marzo - El Rosario,,,SH300L65,1,3100L6518
+CMX300L69,31L6001,,Deportivo 18 de Marzo - El Rosario,,,SH300L65,1,3100L6520
+CMX300L69,31L6001,,Deportivo 18 de Marzo - El Rosario,,,SH300L65,1,3100L6532
+CMX300L69,31L6001,,IPN - Villa de Aragón,,,SH300L61,1,3100L6114
+CMX300L69,32L1002,,IPN - Villa de Aragón,,,SH300L61,1,3200L6116
+CMX300L69,31L6001,,IPN - Villa de Aragón,,,SH300L61,1,3100L6126
+CMX300L69,32L1002,,IPN - Villa de Aragón,,,SH300L61,1,3200L6128
+CMX300L69,31L6001,,IPN - Villa de Aragón,,,SH300L61,1,3100L6138
+CMX300L69,31L6001,,El Rosario - Deportivo 18 de Marzo,,,SH300L66,1,3100L6619
+CMX300L69,31L6001,,El Rosario - Deportivo 18 de Marzo,,,SH300L66,1,3100L6621
+CMX300L69,31L6001,,El Rosario - Deportivo 18 de Marzo,,,SH300L66,1,3100L6633
+CMX300L69,32L1002,,El Rosario - Villa de Aragón,,,SH300L62,1,3200L6217
+CMX300L69,31L6001,,El Rosario - Villa de Aragón,,,SH300L62,1,3100L6215
+CMX300L69,32L1002,,El Rosario - Villa de Aragón,,,SH300L62,1,3200L6229
+CMX300L69,31L6001,,El Rosario - Villa de Aragón,,,SH300L62,1,3100L6227
+CMX300L69,32L1002,,El Rosario - Villa de Aragón,,,SH300L62,1,3200L6231
+CMX300L69,31L6001,,El Rosario - Villa de Aragón,,,SH300L62,1,3100L6239
+CMX300L69,33L1004,,El Rosario - Villa de Aragón,,,SH300L62,1,3300L6219
+CMX300L69,33L1004,,El Rosario - Villa de Aragón,,,SH300L62,1,3300L6221
+CMX300L69,33L1004,,El Rosario - Villa de Aragón,,,SH300L62,1,3300L6233
+CMX300L69,31L6001,,Villa de Aragón - El Rosario ,,,SH300L63,1,3100L6316
+CMX300L69,32L1002,,Villa de Aragón - El Rosario ,,,SH300L63,1,3200L6318
+CMX300L69,32L1002,,Villa de Aragón - El Rosario ,,,SH300L63,1,3200L6320
+CMX300L69,32L1002,,Villa de Aragón - El Rosario ,,,SH300L63,1,3200L6332
+CMX300L69,33L1004,,Villa de Aragón - El Rosario ,,,SH300L63,1,3300L6310
+CMX300L69,33L1004,,Villa de Aragón - El Rosario ,,,SH300L63,1,3300L6322
+CMX300L69,33L1004,,Villa de Aragón - El Rosario ,,,SH300L63,1,3300L6334
+CMX300L69,32L1002,,Villa de Aragón - IPN,,,SH300L64,1,3200L6419
+CMX300L69,32L1002,,Villa de Aragón - IPN,,,SH300L64,1,3200L6421
+CMX1AUIS7,11CC103,,Tepalcates - San Antonio Abad,,,SH1AUIS1,0,11AUIS114
+CMX1AUIS7,11CC103,,San Antonio Abad - Tepalcates,,,SH1AUIS2,0,11AUIS215
+CMX1CASS7,11CC103,,Ciudad Universitaria - La Mora,,,SH1CASS2,0,12CASS116
+CMX1CASS7,11CC103,,Ciudad Universitaria - El Pirul,,,SH1CASS3,0,13CASS118
+CMX1CASS7,11CC103,,Ciudad Universitaria - Tlaxopa,,,SH1CASS4,0,14CASS110
+CMX1CASS7,11CC103,,La Mora - Ciudad Universitaria,,,SH1CASS5,0,11CASS215
+CMX1CASS7,11CC103,,El Pirul - Ciudad Universitaria,,,SH1CASS7,0,13CASS219
+CMX1CASS7,11CC103,,Tlaxopa - Ciudad Universitaria,,,SH1CASS8,0,14CASS211
+CMX1COAV6,11CC103,,Chapultepec - Central de Abastos,,,SH1COAV2,0,12COAV113
+CMX1COAV6,11CC103,,Central de Abastos - Chapultepec,,,SH1COAV4,0,12COAV214
+CMX1CONG5,11CC103,,Aeropuerto - Tacubaya,,,SH1CONG1,0,11CONG112
+CMX1CONG5,11CC103,,Tacubaya - Aeropuerto,,,SH1CONG2,0,11CONG213
+CMX1COPE3,11CC103,,Canal de Garay - Toreo,,,SH1COPE1,0,11COPE110
+CMX1COPE3,11CC103,,Toreo - Canal de Garay,,,SH1COPE2,0,11COPE211
+CMX1COPA4,11CC103,,Pantitlán-Cuatro Caminos,,,SH1COPA1,0,11COPA111
+CMX1COPA4,11CC103,,Cuatro Caminos-Pantitlán,,,SH1COPA3,0,12COPA113
+CMX1COPA4,11CC103,,Normal - Pantitlán,,,SH1COPA2,0,11COPA212
+CMX1COPA4,11CC103,,Pantitlán - Normal,,,SH1COPA4,0,12COPA214
+CMX1CORE7,11CC103,,Chapultepec - San Ángel,,,SH1CORE1,0,11CORE112
+CMX1CORE7,11CC103,,San Ángel - Chapultepec,,,SH1CORE2,0,12CORE114
+CMX1ACAS9,11CC103,,Chapultepec - Avenida 602,,,SH1ACAS1,0,11ACAS115
+CMX1ACAS9,11CC103,,Avenida 602 - Chapultepec,,,SH1ACAS2,0,11ACAS216
+CMX1AMOP9,11CC103,,Alameda - Constitución de 1917,,,SH1AMOP1,0,11AMOP116
+CMX1AMOP9,11CC103,,Constitución de 1917 - Alameda,,,SH1AMOP2,0,11AMOP217
+CMX1COTA9,11CC103,,Alameda - Toreo,,,SH1COTA1,0,11COTA116
+CMX1COTA9,11CC103,,Toreo - Alameda,,,SH1COTA2,0,12COTA118
+CMX1COTA9,11CC103,,Cuitlahuac - Lomas Verdes,,,SH1COTA3,0,11COTA217
+CMX1COTA9,11CC103,,Lomas Verdes - Cuitlahuac,,,SH1COTA4,0,12COTA219
+CMX1COTO0,11CC103,,Cuatro Caminos - Buenavista,,,SH1COTO1,0,11COTO117
+CMX1COTO0,11CC103,,Buenavista - Cuatro Caminos,,,SH1COTO2,0,12COTO119
+CMX1COVI8,11CC103,,Rojo Gómez - Barranca del Muerto,,,SH1COVI1,0,11COVI115
+CMX1COVI8,11CC103,,Barranca del Muerto - Rojo Gómez,,,SH1COVI2,0,11COVI216
+CMX1COVI9,11CC103,,Victoria - Naval,,,SH1COVI3,0,12COVI117
+CMX1COVI9,11CC103,,Naval - Martin Carrera,,,SH1COVI4,0,12COVI218
+CMX1ESAS9,11CC103,,Bosque de Aragón - Metro Potrero,,,SH1ESAS1,0,11ESAS116
+CMX1ESAS9,11CC103,,Metro Potrero - Bosques de Aragón ,,,SH1ESAS2,0,12ESAS118
+CMX1ESAS9,11CC103,,Avenida Central - Suburbano Fortuna,,,SH1ESAS3,0,13ESAS110
+CMX1ESAS9,11CC103,,Suburbano Fortuna - Avenida Central,,,SH1ESAS4,0,11ESAS217
+CMX1ESAS9,11CC103,,Pradera - Deportivo 18 de Marzo,,,SH1ESAS5,0,12ESAS219
+CMX1ESAS9,11CC103,,Deportivo 18 de Marzo - Pradera,,,SH1ESAS6,0,13ESAS211
+CMX1ITEC3,11CC103,,Metro Politécnico - Los Reyes Iztacala,,,SH1ITEC1,0,11ITEC110
+CMX1ITEC3,11CC103,,Los Reyes Iztacala - Metro Politécnico,,,SH1ITEC2,0,12ITEC112
+CMX1SIME4,11CC103,,Valle Dorado - Chapultepec,,,SH1SIME1,0,11SIME111
+CMX1SIME4,11CC103,,Chapultepec - Valle Dorado,,,SH1SIME2,0,12SIME113
+CMX1TREP0,11CC103,,Metro Sevilla - Ejército Nacional,,,SH1TREP1,0,11TREP117
+CMX1TREP0,11CC103,,Ejército Nacional - Metro Sevilla,,,SH1TREP2,0,12TREP119
+CMX1TRES7,11CC103,,Auditorio - Centro Comercial Santa Fé,,,SH1TRES1,0,11TRES114
+CMX1TRES7,11CC103,,Centro Comercial Santa Fé - Auditorio,,,SH1TRES2,0,12TRES116
+CMX1COTX0,11CC103,,Santiago - San Jerónimo,,,SH1COTX4,0,14COTX113
+CMX1COTX0,11CC103,,San Jerónimo - Santiago,,,SH1COTX8,0,14COTX214
+CMX1TRIO2,11CC103,,Boulevard Puerto Aereo - Central de Abastos,,,SH1TRIO3,0,12TRIO111
+CMX1TRIO2,11CC103,,Central de Abastos - Boulevard Puerto Aéreo,,,SH1TRIO4,0,12TRIO212
+CMX1TRIO2,11CC103,,Boulevard Puerto Aereo - Calle 5,,,SH1TRIO7,0,14TRIO115
+CMX1TRIO2,11CC103,,Calle 5 - Boulevard Puerto Aereo,,,SH1TRIO8,0,14TRIO216

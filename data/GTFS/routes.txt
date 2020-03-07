@@ -1,0 +1,166 @@
+agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_id
+CC,SAUSA,Metro Tacubaya - La Valenciana,Corredor de transporte operado por la empresa SAUSA que va del metro Tacubaya a La Velenciana con cinco derivaciones.,3,http://sausa.mx/,753bbd,,CMX1SAUS7
+CC,ATROLSA,Chapultepec - Palmas,Corredor de transporte operado por la empresa ATL que va de Chapultepec a Palmas con cuatro derivaciones.,3,,753bbd,,CMX1ATRO6
+CC,CEUSA,Peñón - Panteón San Isidro,Corredor de Transporte Operado por la Empresa CEUSA que va de Peñón a Panteón San Isidro con 5 derivaciones ,3,,753bbd,,CMX1CEUS8
+CC,ACASA,Chapultepec - Av.602, Corredor de transporte operado por la empresa ACASA que va del metro Chapultepec a Av. 602 con cinco derivaciones   ,3,,753bbd,,CMX1ACAS9
+CC,AMOPSA,Constitución de 1917 - Alameda Oriente, Corredor de transporte operado por la empresa AMOPSA que va del metro Constitución a la Alameda Oriente con cinco derivaciones   ,3,,753bbd,,CMX1AMOP9
+CC,AUISA,Tepalcates - San Antonio Abad, Corredor de transporte operado por la empresa AUISA que va del metro Tepalcates a San Antonio Abad con cinco derivaciones   ,3,,753bbd,,CMX1AUIS7
+CC,CASSUR,Metro Universidad-La Mora, Corredor de transporte operado por la empresa CASSUR que va del metro Universidad a La Mora con cinco derivaciones   ,3,,753bbd,,CMX1CASS7
+CC,CONGESA,Aeropuerto - Tacubaya, Corredor de transporte operado por la empresa CONGESA que va de Aeropuerto a Chapultepec con cinco derivaciones   ,3,,753bbd,,CMX1CONG5
+CC,COAVEO,Metro Pantitlán-Tacuba, Corredor de transporte operado por la empresa COAVEO que va del metro Pantitlán a Tacuba con cinco derivaciones   ,3,,753bbd,,CMX1COAV6
+CC,COPATTSA,Metro Pantitlán-Toreo, Corredor de transporte operado por la empresa COPATTSA que va del metro Pantitlán a Toreo con cinco derivaciones   ,3,,753bbd,,CMX1COPA4
+CC,COPESA,Canal de Garay-Toreo, Corredor de transporte operado por la empresa COPESA que va de Canal de Garay a Toreo con cinco derivaciones   ,3,,753bbd,,CMX1COPE3
+CC,COREVSA,Chapultepec - San Ángel, Corredor de transporte operado por la empresa COREVSA que va del metro Chapultepec a San Ángel con cinco derivaciones   ,3,http://www.corevsa.com.mx/,753bbd,,CMX1CORE7
+CC,COTANSAPI,Toreo - Alameda, Corredor de transporte operado por la empresa COTANSAPI que va del Toreo a la Alameda con cinco derivaciones   ,3,,753bbd,,CMX1COTA9
+CC,COTOBUSA,Buenavista - Cuatro Caminos, Corredor de transporte operado por la empresa COTOBUSA que va del metro Buenavista a Cuatro Caminos con cinco derivaciones   ,3,,753bbd,,CMX1COTO0
+CC,COTXSA,Deportivo Xochimilco-San Jerónimo, Corredor de transporte operado por la empresa COTXSA que va del Deportivo Xochimilco a San Jerónimo con cinco derivaciones   ,3,,753bbd,,CMX1COTX0
+CC,COVISUR,Rojo Gómez-Barranca del Muerto, Corredor de transporte operado por la empresa COVISUR que va de Rojo Gómez a Barranca del Muerto con cinco derivaciones   ,3,,753bbd,,CMX1COVI8
+CC,COVITENI,Naval - Martín Carrera, Corredor de transporte operado por la empresa COVITENI que va de Naval a Martin Carrera con cinco derivaciones   ,3,,753bbd,,CMX1COVI9
+CC,ESASA,Metro Potrero - Bosques de Aragón, Corredor de transporte operado por la empresa COVITENI que va del metro Potrero a Bosques de Aragón con cinco derivaciones   ,3,,753bbd,,CMX1ESAS9
+CC,ITEC,Metro Politécnico-Los Reyes Iztacala, Corredor de transporte operado por la empresa ITEC que va del metro Politécnico a Los Reyes Iztacala con cinco derivaciones   ,3,https://www.autotransporte.mx/tag/itac,753bbd,,CMX1ITEC3
+CC,TREPSA,Metro Sevilla-Ejército Nacional, Corredor de transporte operado por la empresa TREPSA que va del metro Sevilla a Ejercicio Nacional con cinco derivaciones   ,3,,753bbd,,CMX1TREP0
+CC,TRESANTAFE,Auditorio - Centro Comercial Santa Fé, Corredor de transporte operado por la empresa TRESANTAFE que va del metro Auditorio a Centro Comercial Santa Fe con cinco derivaciones   ,3,,753bbd,,CMX1TRES7
+CC,SIMESA,Metro Chapultepec-Valle Dorado, Corredor de transporte operado por la empresa SIMESA que va del metro Chapultepec a Valle Dorado con cinco derivaciones   ,3,,753bbd,,CMX1SIME4
+CC,TRIOXA,Boulevard Puerto Aéreo-Avenida Revolución, Corredor de transporte operado por la empresa TRIOXA que va de Boulevard Puerto Aéreo a Av. Revolución con cinco derivaciones   ,3,,753bbd,,CMX1TRIO2
+MB,1,Indios Verdes - El Caminero,Insurgentes,3,,d40d0d,FFFFFF,CMX300L18
+MB,2,Tepalcates - Tacubaya,Eje 4 Sur,3,,8d1a96,,CMX300L20
+MB,3,Tenayuca - Etiopía,Eje 1 Poniente,3,,13a810,,CMX300L32
+MB,4,Centro Histórico - Buenavista - San Lázaro/AICM T1 y T2,Centro Histórico de la Ciudad de México circuitos encontrados y ruta al Aeropuerto,3,,ff9a03,,CMX300L44
+MB,5,Río de los Remedios - San Lázaro,Eje 3 Oriente,3,,141982,FFFFFF,CMX300L57
+MB,6,Villa de Aragón - El Rosario,Eje 5 Norte,3,http://www.metrobus.cdmx.gob.mx/mapa_L6.html,e44599,,CMX300L69
+MB,7,Indios Verdes - Campo Marte,Paseo de la Reforma,3,http://www.metrobus.cdmx.gob.mx/mapas-de-sistema/mapa-linea-7,116633,FFFFFF,CMX300L71
+METRO,1,Pantitlán - Observatorio,,1,http://www.metro.df.gob.mx/red2/linea1.html,f94f8e,,CMX200L16
+METRO,2,Cuatro Caminos - Tasqueña,,1,http://www.metro.df.gob.mx/red2/linea2.html,0072c6,,CMX200L28
+METRO,3,Indios Verdes - Universidad,,1,http://www.metro.df.gob.mx/red2/linea3.html,ad9b0c,,CMX200L30
+METRO,4,Santa Anita - Martín Carrera,,1,http://www.metro.df.gob.mx/red2/linea4.html,7fbcaa,,CMX200L42
+METRO,5,Politécnico - Pantitlán,,1,http://www.metro.df.gob.mx/red2/linea5.html,f9d616,,CMX200L55
+METRO,6,El Rosario - Martín Carrera,,1,http://www.metro.df.gob.mx/red2/linea6.html,d81e05,,CMX200L67
+METRO,7,El Rosario - Barranca del Muerto,,1,http://www.metro.df.gob.mx/red2/linea7.html,e87511,,CMX200L79
+METRO,8,Garibaldi - Constitución de 1917,,1,http://www.metro.df.gob.mx/red2/linea8.html,118749,,CMX200L81
+METRO,9,Pantitlán - Tacubaya,,1,http://www.metro.df.gob.mx/red2/linea9.html,512826,FFFFFF,CMX200L93
+METRO,A,Pantitlán - La Paz ,,1,http://www.metro.df.gob.mx/red2/lineaa.html,a02d96,FFFFFF,CMX200LA6
+METRO,B,Ciudad Azteca - Buenavista,,1,http://www.metro.df.gob.mx/red2/lineab.html,118751,,CMX200LB8
+METRO,12,Tláhuac - Mixcoac,,1,http://www.metro.df.gob.mx/red2/linea12.html,b99e51,,CMX20L122
+CC,CISA,Indios Verdes - Dr. Gálvez,"Circula sobre la Av. Insurgentes. Al norte de la Ciudad de México continúa por la cercanía del Centro de la Ciudad, intercepta la Av. Reforma y pasa por la Glorieta de Insurgentes, Ciudad de los Deportes y concluye en la zona de Ciudad Universitaria.",3,http://www.ci-sa.com.mx/,1ebbef,,CMX1CISE3
+CC,COREV,"Corredor Revolución, Chapultepec-San Angel",Transporte concesionado que  inicia recorrido en metro Chapultepec continuando por circuito interior y Av. Revolución concluyendo en su intersección con puente de san jerónimo (San Ángel).,3,http://www.corevsa.com.mx/,1ebbef,,CMX1CORE5
+RTP,46-C,Lienzo Charro/Santa Catarina - Central de Abasto, RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2046C.pdf,f27b0d,,CMX5046C8
+RTP,1-D,Metro Santa Martha -  Metro Mixcoac,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%201D.pdf,f27b0d,,CMX5001D7
+RTP,107-B,Metro Martín Carrera - Metro Tacuba por Ceylán,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20107B.pdf,f27b0d,,CMX5107B0
+RTP,168,Arenal 4ta. Sección - Metro Pantitlán,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20168.pdf,f27b0d,,CMX501683
+RTP,162-D,Santa Catarina - Metro Universidad,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20162D.pdf,f27b0d,,CMX5162D2
+RTP,23,Colonia El Tepetatal (El Charco) - Metro La Raza,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2023.pdf,f27b0d,,CMX500236
+RTP,57,Metro Constitución de 1917 - Metro Cuatro Caminos (Noche Bus),RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2057A.pdf,f27b0d,,CMX500578
+RTP,163-B,San Miguel Teotongo/Avisadero -  Metro Zaragoza,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20163B.pdf,f27b0d,,CMX5163B9
+RTP,47-A,Alameda Oriente - Xochimilco / Bosque de Nativitas (Noche Bus),RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2047A.pdf,f27b0d,,CMX5047A5
+RTP,39-A,Bosque de Nativitas - Metro San Lázaro por Cafetales,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2039A.pdf,f27b0d,,CMX5039A5
+RTP,25,Zacatenco - Metro Potrero,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2025.pdf,f27b0d,,CMX500251
+RTP,107,Metro Rosario - Metro Tacuba,RUTA TRASADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20107.pdf,f27b0d,,CMX501075
+RTP,11,Aragón - Metro Chapultepec por la Villa,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2011.pdf,f27b0d,,CMX500111
+RTP,52-C,Metro Santa Martha - Metro Zapata,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2052C.pdf,f27b0d,,CMX5052C7
+RTP,110-B,San Lorenzo Acopilco - Metro Tacubaya,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20110B.pdf,f27b0d,,CMX5110B5
+RTP,39-B,Bosque de Nativitas - Metro San Lázaro por Miramontes,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2039B.pdf,f27b0d,,CMX5039B7
+RTP,141,Villa Milpa Alta - Metro Tasqueña ,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20141.pdf,f27b0d,,CMX501416
+RTP,13-A,Metro Chapultepec - Torres de Padierna/Pedregal de San Nicolás,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2013A.pdf,f27b0d,,CMX5013A5
+RTP,108,Colonia El Tepetatal (El Charco)  -  Metro Indios Verdes,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20108.pdf,f27b0d,,CMX501085
+RTP,27-A,Reclusorio Norte - Metro Hidalgo/Alameda Central,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/Ruta%2027A.pdf,f27b0d,,CMX5027A1
+RTP,163-A,San Miguel Teotongo/Torres  -  Metro Zaragoza/M. Tepalcates,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20163A.pdf,f27b0d,,CMX5163A7
+RTP,76,Centro Comercial Santa Fe -  La Villa/Cantera por Palmas (Noche Bus),RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2076%20nochebus.pdf,f27b0d,,CMX500768
+RTP,104,Colonia El Tepetatal (El Charco) -  Metro Potrero,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20104.pdf,f27b0d,,CMX501048
+RTP,59-A,Metro el Rosario  - Sullivan,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2059A.pdf,f27b0d,,CMX5059A0
+RTP,17-E,Metro Universidad - San Pedro Martir por Carretera Federal,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2017E.pdf,f27b0d,,CMX5017E8
+RTP,144,San Pablo Oztotepec -  Xochimilco/Palmas,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20144.pdf,f27b0d,,CMX501441
+RTP,59,Metro El Rosario - Metro Chapultepec,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2059.pdf,f27b0d,,CMX500592
+RTP,101-A,Ampliación Malacates -  La Villa/Ferroplaza,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20101A.pdf,f27b0d,,CMX5101A2
+RTP,165-A,Ejército de Oriente - Metro Constitución de 1917,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20165A.pdf,f71574,,CMX5165A9
+RTP,76-A,Centro Comercial Santa Fe - La Villa/Cantera por Reforma,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/Ruta%2076A.pdf,f27b0d,,CMX5076A1
+RTP,103,Ampliación Malacates - Metro la Raza (Linea 3),RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20103.pdf,f27b0d,,CMX501036
+RTP,200,Circuito Bicentenario (Noche Bus),RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20200%20nochebus.pdf,339c19,,CMX502002
+RTP,101-B,Colonia Forestal - La Villa Ferroplaza ,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20101B.pdf,f27b0d,,CMX5101B4
+RTP,143,Villa Milpa Alta - Metro Tasqueña,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20143.pdf,f27b0d,,CMX501430
+RTP,37,U.C.T.M. Atzacoalco - Carmen Serdán,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2037.pdf,f27b0d,,CMX500376
+RTP,101-D,La Brecha Cocoyotes - La Villa Ferroplaza,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20101D.pdf,f27b0d,,CMX5101D8
+RTP,102,La Brecha Cocoyotes - Metro Indios Verdes,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20102.pdf,f27b0d,,CMX501024
+RTP,131,Estadio Azteca - Caseta Cuernavaca,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20131.pdf,f27b0d,,CMX501315
+RTP,110-C,La Pila - Metro Tacubaya,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20110C.pdf,f27b0d,,CMX5110C7
+RTP,18,Metro Cuatro Caminos -  Colonia Moctezuma 2da. Sección,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2018.pdf,f27b0d,,CMX500186
+RTP,9-C,Centro Comercial Santa Fe  - Tlacuitlapa/Puerta Grande,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%209C.pdf,f27b0d,,CMX5009C3
+RTP,159,Metro Constitución de 1917 - Palmitas,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20159.pdf,f27b0d,,CMX501594
+RTP,101,Lomas de Cuautepec - Metro Indios Verdes,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20101.pdf,f27b0d,,CMX501012
+RTP,142,Tulyehualco - Xochimilco/Palmas,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20142.pdf,f27b0d,,CMX501428
+RTP,149,Mixquic - Metro Tasqueña ,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20149.pdf,f27b0d,,CMX501493
+RTP,148,San Nicolás Tetelco - Metro Tasqueña ,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20148.pdf,f27b0d,,CMX501481
+RTP,144-C,San Salvador Cuahutenco - Villa Milpa Alta,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20144C.pdf,f27b0d,,CMX5144C7
+RTP,161-D,Colonia Buenavista - Central de Abasto,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20161D.pdf,f27b0d,,CMX5161D1
+RTP,147,San Bartolomé Xicomulco - Xochimilco/Palmas,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20147.pdf,f27b0d,,CMX501479
+RTP,110,Chimalpa - Metro Tacubaya,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20110.pdf,f27b0d,,CMX501101
+RTP,33,León de los Aldama - Metro Chabacano,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2033.pdf,f27b0d,,CMX500337
+RTP,145,Pedregal de San Francisco - Xochimilco/Palmas,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20145.pdf,f27b0d,,CMX501455
+RTP,123-A,Pedregal de San Nicolás - Metro Universidad,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20123A.pdf,f27b0d,,CMX5123A8
+RTP,146,San Miguel Tehuizco - Xochimilco/Palmas,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20146.pdf,f27b0d,,CMX501467
+RTP,163,San Miguel Teotongo/Guadalupe  -  Metro Zaragoza,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20163.pdf,f27b0d,,CMX501632
+RTP,115,Jesús del Monte (Cuajimalpa) - Metro Tacubaya (Noche Bus),RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20115%20nochebus.pdf,f27b0d,,CMX501152
+RTP,164,Colonia Miguel de la Madrid -  Metro Zaragoza,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20164.pdf,f27b0d,,CMX501644
+RTP,113-B,Col. Navidad (Las Piedras) - Metro Tacubaya,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20113B.pdf,f27b0d,,CMX5113B8
+RTP,39,Metro San Lazáro - Carmen Serdàn,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2039.pdf,f27b0d,,CMX500390
+RTP,134-A,Parres - Estadio Azteca,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20134A.pdf,f27b0d,,CMX5134A1
+RTP,11-A,Aragón - Metro Chapultepec por Avenida 604,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2011A.pdf,f27b0d,,CMX5011A3
+RTP,12,Aragón - Panteón San Isidro,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2012.pdf,f27b0d,,CMX500123
+RTP,120, Metro Zapata - San Mateo Tlaltenango,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20120.pdf,f27b0d,,CMX501202
+RTP,124,Metro Mixcoac - Puerta Grande Tlacuitlapa,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20124.pdf,f27b0d,,CMX501240
+RTP,19,Metro El Rosario - Parque México por Cuitláhuac,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2019.pdf,f27b0d,,CMX500198
+RTP,23-X,El Tepetatal (El Charco) - Metro La Raza (Linea 5) Expreso ,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2023.pdf,33c919,,CMX5023X8
+RTP,161,Metro Constitución de 1917 - Ampliación Santiago,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20161.pdf,f27b0d,,CMX501618
+RTP,17-F,Metro Tasqueña - San Pedro Martir por FOVISSSTE,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2017F.pdf,f27b0d,,CMX5017F0
+RTP,166,Colonia Ixtlahuacan Avisadero -  Metro Zaragoza,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20166.pdf,f27b0d,,CMX501669
+RTP,161-C,Metro Constitución de 1917 - Palmas,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20161C.pdf,f27b0d,,CMX5161C9
+RTP,112,Ampliación Jalalpa - Metro Tacubaya,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20112.pdf,f27b0d,,CMX501125
+RTP,161-E,San José Buenavista - Metro Constitución de 1917,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20161E.pdf,f27b0d,,CMX5161E4
+RTP,124-A,Tepeaca - Metro Mixcoac,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20124A.pdf,f27b0d,,CMX5124A9
+RTP,161-F,Barranca de Guadalupe - Metro Constitución de 1917,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20161F.pdf,f27b0d,,CMX5161F6
+RTP,116,Santa Rosa Xochiac - Metro Mixcoac,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20116.pdf,f27b0d,,CMX501164
+RTP,167,Avisadero/Colonia Miravalle -  Metro Zaragoza,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20167.pdf,f27b0d,,CMX501671
+RTP,115-A,Puente Colorado - Metro Chapultepec,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20115A.pdf,f27b0d,,CMX5115A8
+RTP,119,Piloto - Metro Tacubya,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20119.pdf,f27b0d,,CMX501190
+RTP,162-B,Campestre Potrero - Metro Zaragoza,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20162B.pdf,f27b0d,,CMX5162B9
+RTP,119-B,Presidentes - Metro Mixcoac,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20119B.pdf,f27b0d,,CMX5119B4
+RTP,118,Santa Rosa Xochiac - Metro Tacubaya,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20118.pdf,f27b0d,,CMX501188
+RTP,162,Santa Catarina - Metro Constitución de 1917,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20162.pdf,f27b0d,,CMX501620
+RTP,19-A,Metro El Rosario - Parque México por Plan de San Luis,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2019A.pdf,f27b0d,,CMX5019A1
+RTP,125,Bosques del Pedregal - Metro Universidad por López Portillo ,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20125.pdf,f27b0d,,CMX501253
+RTP,134,Santo Tomás Ajusco - Estadio Azteca,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20134.pdf,f27b0d,,CMX501341
+RTP,43,San Felipe/León de Los Aldama -  Central de Abastos,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2043.pdf,f27b0d,,CMX500438
+RTP,128,Metro Universidad - San Bernabé/Oyamel,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20128.pdf,f27b0d,,CMX501289
+RTP,145-A,Santiago Tepalcatlalpan - República del Salvador,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20145A.pdf,f27b0d,,CMX5145A4
+RTP,134-B,Estadio Azteca - Topilejo,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20134B.pdf,f27b0d,,CMX5134B3
+RTP,134-C,Santo Tomás Ajusco - Metro Universidad,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20134C.pdf,f27b0d,,CMX5134C5
+RTP,76-A-X,Centro Comercial Santa Fe - La Villa/Cantera por Reforma (Expreso),Servicio Expreso,3,,33c919,,CMX576AX2
+RTP,116-A,Metro General Anaya - Río De Guadalupe,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20116A.pdf,f27b0d,,CMX5116A9
+RTP,47-A-X,Alameda Oriente - Xochimilco / Bosque de Nativitas Expreso,EXPRESO,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2047A.pdf,33c919,,CMX547AX1
+RTP,39-A-X,M. San Lázaro - Xochimilco / Bosque de Nativitas por Cafetales Expreso,Expreso,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2039A.pdf,33c919,,CMX539AX4
+RTP,107B-X,Metro Tacuba - Metro Martín Carrera (por Ceylan) Expreso,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20107B.pdf,33c919,,CMX5107X9
+RTP,76-X,Centro Comercial Santa Fe -  La Villa/Cantera por Palmas Expreso,,3,,33c919,,CMX5076X2
+RTP,46-C-X,Lienzo Charro / Santa Catarina - Central de Abastos Expreso,,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2046C.pdf,33c919,,CMX546CX1
+RTP,57-A-X,Metro Cuatro Caminos - Metro Constitución de 1917 Expreso,Expreso,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2057A.pdf,33c919,,CMX557AX2
+RTP,12-X,Panteón San Isidro - Aragón Expreso,,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2012.pdf,33c919,,CMX5012X5
+RTP,39-X,Metro San Lázaro - Carmen Serdàn,,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2039.pdf,33c919,,CMX5039X6
+RTP,134-D,Topilejo - Metro Universidad,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%20134D.pdf,f27b0d,,CMX5134D7
+RTP,34-A,ECOBÚS Santa Fe - Metro Balderas,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2034A.pdf,99ff48,,CMX5034A0
+RTP,34-B,ECOBÚS Santa Fe - Metro Miguel Ángel de Quevedo,RUTA TRAZADA,3,https://www.rtp.cdmx.gob.mx/storage/app/media/rutas/RUTA%2034B.pdf,99ff48,,CMX5034B2
+RTP,Ruta 2,Metro Indios Verdes / Reclusorio Norte,,3,,f27b0d,,CMX500R23
+RTP,Ruta 4,Metro San Lázaro / Metro Cuatro Caminos / Metro El Rosario,,3,,f27b0d,,CMX500R47
+RTP,Ruta 5,Villa de Aragón / Metro Martín Carrera,,3,,f27b0d,,CMX500R50
+RTP,Ruta 6,Metro Tacubaya / UAM Cuajimalpa / Cuajimalpa,,3,,f27b0d,,CMX500R62
+RTP,Ruta 7,San Ángel / MB Perisur,,3,,f27b0d,,CMX500R74
+RTP,Ruta 8,Metro Escuadrón 201 / Metro Atlalilco / Metro Constitución de 1917,,3,,f27b0d,,CMX500R86
+RTP,Ruta 3,Condesa / Defensa Nacional,,3,,f27b0d,,CMX500R35
+RTP,Ruta 9,Metro Tasqueña / Huipulco / Xochimilco Centro  ,,3,,f27b0d,,CMX500R98
+TROLE,Linea 2,Corredor Cero Emisiones Eje 2 - 2a sur,,3,https://www.ste.cdmx.gob.mx/linea-s,2dad18,,CMX400029
+TROLE,Linea 1,Corredor Cero Emisiones Eje Central,,3,https://www.ste.cdmx.gob.mx/linea-a,17a61d,,CMX400017
+TROLE,Linea 3,Corredor Cero Emisiones Eje 7 - 7A Sur,,3,https://www.ste.cdmx.gob.mx/linea-d,92d037,,CMX400031
+TROLE,Linea 8,Circuito Politécnico,,3,https://www.ste.cdmx.gob.mx/linea-cp ,007eff,,CMX400082
+TROLE,Linea 7,San Francisco Culhuacán - Ciudad Universitaria,,3,https://www.ste.cdmx.gob.mx/linea-k,ff00fe,,CMX400070
+TROLE,Linea 5,San Felipe de Jesús - Metro Hidalgo,,3,https://www.ste.cdmx.gob.mx/linea-ll,00fff6,,CMX400056
+TL,TL 1,Tasqueña - Xochimilco,,2,https://www.ste.cdmx.gob.mx/tren-ligero,1f5af0,,CMX60TL16
+TROLE,Linea 6,Metro El Rosario - Metro Chapultepec,,3,https://www.ste.cdmx.gob.mx/linea-i,7c30d4,,CMX400068
+TROLE,Linea 4,Metro Blvd. Puerto Aéreo - Metro El Rosario,,3,https://www.ste.cdmx.gob.mx/linea-g,ffa800,,CMX400043
+SUB,1,Buenavista - Cuautitlán,SISTEMA 1 DEL TREN SUBURBANO QUE RECORRE DESDE BUENAVISTA (DF) A CUAUTITLÁN (EDOMEX),2,http://www.fsuburbanos.com/secciones/operacion/lineas_alimentadoras.php,ef1a1a,,CMX700016

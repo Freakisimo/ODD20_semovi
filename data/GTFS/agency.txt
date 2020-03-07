@@ -1,0 +1,8 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+CC,Corredores Concesionados,http://www.semovi.df.gob.mx/,America/Mexico_City,ES,
+MB,Metrobus,http://www.metrobus.df.gob.mx/,America/Mexico_City,ES,
+METRO,Sistema de Transporte Colectivo Metro,https://www.metro.cdmx.gob.mx,America/Mexico_City,ES,
+TROLE,Trolebus,https://www.ste.cdmx.gob.mx/linea-cp,America/Mexico_City,ES,
+RTP,Red de Transporte de Pasajeros,https://www.rtp.cdmx.gob.mx,America/Mexico_City,ES,
+TL,Servicio de Tren Ligero, http://www.ste.df.gob.mx/,America/Mexico_City,ES,
+SUB,Ferrocarriles Suburbanos,http://www.fsuburbanos.com/,America/Mexico_City,ES,
