@@ -10,6 +10,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
 let url = 'https://datos.cdmx.gob.mx/api/records/1.0/search/';
 
 let controls = L.control.groupedLayers().addTo(map);
+
 let circle_filter = L.layerGroup().addTo(map);
 
 let color_by_route = {
@@ -21,9 +22,6 @@ let color_by_route = {
     "FERROCARRILES SUBURBANOS":'#D28EE8', 
     "TREN LIGERO":'#9CA2FF'
 }
-
-
-
 
 const create_gtfs_layers = (data) => {
     gtfs_layers(data[0]);
@@ -107,8 +105,12 @@ const ecobici = (data) => {
     });
     // controls.addOverlay(ecobici_lg, 'ecobici', 'ecobici');
     for (let item of records) {
+        let html_popup = `
+            <div>Nombre: ${item.fields.name}</div>
+            <div>Dirección: ${item.fields.address}</div>            
+        `
         let ll = L.latLng(item.fields.punto_geo);
-        L.marker(ll, { icon: bici_icon }).addTo(circle_filter)
+        L.marker(ll, { icon: bici_icon }).bindPopup(html_popup).addTo(circle_filter)
         // L.geoJSON(item.geometry).addTo(circle_filter);
     }
 } 
@@ -117,14 +119,19 @@ const sitis = (data) => {
     let records = data.records;
     var sitis_icon = L.AwesomeMarkers.icon({
         prefix: 'fa',
-        icon: 'map-marker',
+        icon: 'font-awesome',
         markerColor: 'green'
     });
     // controls.addOverlay(sitis_lg, 'sitis', 'sitis');
     for (let item of records) {
+        let html_popup = `
+            <div>Nombre: ${item.fields.nombre}</div>
+            <div>Calle primaria: : ${item.fields.calle_prim}</div>
+            <div>Calle secndaria: : ${item.fields.calle_secu}</div>
+        `
         // L.geoJSON(item.geometry).addTo(circle_filter);
-        let ll = L.latLng(item.fields.punto_geo);
-        L.marker(ll, { icon: sitis_icon }).addTo(circle_filter)
+        let ll = L.latLng(item.fields.geopoint);
+        L.marker(ll, { icon: sitis_icon }).bindPopup(html_popup).addTo(circle_filter)
     }
 }
 
@@ -158,7 +165,7 @@ const cetram = (data) => {
                 return
             }
             L.circle(e.latlng, 500).addTo(circle_filter);
-            map.setView(e.latlng, 15);
+            map.setView(e.latlng, 17);
             query_bici(e.latlng.lat, e.latlng.lng, 500);
         })
     }
