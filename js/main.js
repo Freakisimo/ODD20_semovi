@@ -39,19 +39,23 @@ const init = () => {
     M.FormSelect.init(select_route);
   });
 
+  let map = L.map('map').setView([19.432545, -99.133209], 11);
+
+  L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png', {
+      id: 'MapID',
+      attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>'
+  }).addTo(map);
+
   select_route.addEventListener('change', () => {
 
     db.collection("gtfs_routes_trips").where("route_id", "==", select_route.value).get().then((querySnapshot) => {
       select_trip.innerHTML = '<option value="#" disabled selected>Seleccione su destino</option>';
       querySnapshot.forEach((doc) => {
-        let trips = doc.data().trips;
-        trips.forEach((trip) => {
-          let opt = document.createElement("option");
-          console.log(trip.trip_headsign)
-          opt.text = trip.trip_headsign;
-          opt.value = trip.trip_id;
-          select_trip.appendChild(opt);
-        });
+        let data = doc.data(),
+            opt = document.createElement("option");
+        opt.text = `${data.trip_short_name}`;
+        opt.value = data.trip_id; 
+        select_trip.appendChild(opt);
       });
 
       M.FormSelect.getInstance(select_trip).destroy();
@@ -62,20 +66,20 @@ const init = () => {
 
 
   select_trip.addEventListener('change', () => {
-    console.log(select_trip.value)
-    console.log({'trip_id': select_trip.value})
-    db.collection("gtfs_routes_trips").where("trips", "array-contains", {trip_id: select_trip.value}).get().then((querySnapshot) => {
-      querySnapshot.forEach((doc) => {
-        console.log(doc.data());
+    db.collection("gtfs_routes_trips").where("trip_id", "==", select_trip.value).get().then((querySnapshot) => {
+      map.eachLayer(l => {
+        if (l._url === undefined) {
+          map.removeLayer(l);
+        }
       })
-    })
-  })
+      querySnapshot.forEach((doc) => {
+        let data = doc.data(),
+            coords = data.line.map(coord => coord.split(',').map(c => parseFloat(c)))
+        let antPolyline = new L.Polyline.AntPath(coords);
+        antPolyline.addTo(map);
+      });
+    });
+  });
 
-  let map = L.map('map').setView([19.432545, -99.133209], 12);
-
-  L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png', {
-      id: 'MapID',
-      attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>'
-  }).addTo(map);
 }
 
